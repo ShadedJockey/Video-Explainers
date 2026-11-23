@@ -23,6 +23,18 @@ Every fact the narration or on-screen text may use is listed here with its sourc
 | C5 | Carl Jung proposed **archetypes**: universal, recurring images and characters that he located in a shared "collective unconscious". | ✅ | [Britannica: collective unconscious](https://www.britannica.com/topic/collective-unconscious); [EBSCO: Jungian archetypes](https://www.ebsco.com/research-starters/history/jungian-archetypes-and-collective-unconscious) | Jung first used "collective unconscious" in 1916 and "archetype" in 1919 (per [Wikipedia: Collective unconscious](https://en.wikipedia.org/wiki/Collective_unconscious), excerpt). Don't put those years on screen without a second source. Say "Jung *argued*" rather than presenting it as established science, because critics call it untestable. |
 | C6 | Campbell's monomyth has been criticised by folklorists (for example Alan Dundes, in a 2005 *Journal of American Folklore* article) for cherry-picking stories that fit, and by feminist critics as male-centred (Maureen Murdock, *The Heroine's Journey*). | ⚠️ | [LA Review of Books: "Should We Question the Hero's Journey?"](https://lareviewofbooks.org/article/the-man-behind-the-myth-should-we-question-the-heros-journey); [Patheos, Foxy Folklorist: "Why Folklorists Hate Joseph Campbell's Work"](https://patheos.com/blogs/foxyfolklorist/why-folklorists-hate-joseph-campbells-work); [Big Think](https://bigthink.com/high-culture/monomyth-heros-journey-campbell/) | **Optional.** Not in the outline, but a one-line nod ("not everyone agrees it's universal") makes section 7 more honest. The exact Dundes quotations weren't checked against his article, so don't quote him directly. |
 
+## 1b. The guiding idea: heroes as problem-solvers (Popper and Deutsch)
+
+The video's main argument, agreed with the user on 2026-11-23: Campbell's lasting value is the *loose* pattern of a hero facing a problem, recurring as a symbol across cultures. This matches Popper's and Deutsch's view that progress comes from solving problems: we propose solutions, are sometimes wrong, and try again. The hero is an archetype because it distils what greatness looks like when facing problems: not giving up hope or will.
+
+**This link is the video's own interpretation.** Campbell never tied his work to Popper or Deutsch, and neither of them wrote about the monomyth. The narration presents it as a way of seeing the pattern ("maybe that's why…"), not as something Campbell claimed.
+
+| # | Fact | Status | Sources | Safe phrasing / notes |
+|---|------|--------|---------|------------------------|
+| P1 | Karl Popper's late collection ***All Life Is Problem Solving*** (English edition 1999) argues that organisms and scientists alike proceed by problem → tentative solutions → elimination of error. When a solution fails, the problem stays open and prompts new attempts. | ✅ | [Taylor & Francis: *All Life Is Problem Solving*](https://www.taylorfrancis.com/books/9780203849675/chapters/10.4324/9780203849675-14); [New World Encyclopedia: Karl Popper](https://www.newworldencyclopedia.org/entry/Popper); [buecher.de excerpt (German edition)](https://bilder.buecher.de/zusatz/21/21867/21867426_lese_1.pdf) | Safe: "Karl Popper argued that all life is problem solving." The title itself is the quotation. |
+| P2 | Popper held that knowledge grows through bold conjectures and attempts to refute them (*Conjectures and Refutations*, 1963). We are fallible: even our best theories may turn out wrong. | ✅ | [Stanford Encyclopedia of Philosophy: Karl Popper](https://plato.stanford.edu/entries/popper/); [Internet Encyclopedia of Philosophy: Popper, Philosophy of Science](https://iep.utm.edu/pop-sci/); [Philopedia: *Conjectures and Refutations*](https://philopedia.org/works/conjectures-and-refutations/) | Supports "sometimes we're wrong, and must try again". |
+| P3 | David Deutsch's ***The Beginning of Infinity*** (2011) presents two statements "carved in stone": **"Problems are inevitable"** and **"Problems are soluble"**. Soluble means the right knowledge would solve them, not that we already know how. | ✅ | [New York Review of Books review, Nov 2011](https://www.nybooks.com/articles/2011/11/10/case-far-out-possibilities/); [Wikipedia: The Beginning of Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity) (excerpt); [Wikiquote: David Deutsch](https://en.wikiquote.org/wiki/David_Deutsch) | Quote exactly as two separate sentences. Don't merge them into "…but problems are soluble" inside quotation marks. A related line from the book: "It is inevitable that we face problems, but no particular problem is inevitable." |
+
 ## 2. Christopher Vogler and the supporting archetypes (script section 6)
 
 | # | Fact | Status | Sources | Safe phrasing / notes |
@@ -98,7 +110,8 @@ Each hero's "journey beat" caption is our own commentary, which is fine for an e
 6. **"Wise guide" (V2, S8):** not a standard Vogler archetype. Fine as our own label.
 7. **The Matrix (M5):** fits the pattern; no confirmed Campbell intent. Only *Star Wars* gets "drew on Campbell".
 8. **Unconfirmed, do not use:** Lucas calling Campbell "my Yoda" (M1), and the 2026 *Ocarina* remake date (Z9).
-9. **Optional addition:** one line acknowledging that critics question whether the monomyth is truly universal (C6).
+9. **Critics of Campbell (C6):** covered by the agreed framing. The video leans on the *loose* pattern rather than claiming a strict universal template, so no separate rebuttal line is needed.
+10. **Popper/Deutsch framing (1b):** presented as the video's interpretation, not as Campbell's claim.
 
 ---
 
