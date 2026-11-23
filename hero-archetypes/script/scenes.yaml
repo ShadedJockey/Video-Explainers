@@ -1,0 +1,333 @@
+# ─────────────────────────────────────────────────────────────
+#  Storyboard data: the timeline the renderer builds.
+#  Human-readable version: script/storyboard.md
+#
+#  Times are tied to narration lines (see tools/render.py header):
+#    s3.2 = section 3 line 2 starts · s3.2@0.5 = halfway through it · s3.2e = it ends
+#  Positions x, y are the centre of the item as a fraction of the frame;
+#  h = height as a fraction of frame height. img can be a list (first one found is used).
+#  enter: pop | slide_left | slide_right | slide_up | slide_down | drop | fade
+#  transition (into a scene): tear (paper tear) | flip (quick tear) | cut
+# ─────────────────────────────────────────────────────────────
+
+# ════════ 1 · HOOK ══════════════════════════════════════════
+- id: hook
+  palette: hyrule
+  zoom: 0.05
+  elements:
+    - {type: path, points: [[0.05, 0.86], [0.22, 0.70], [0.42, 0.84], [0.62, 0.66], [0.80, 0.80], [0.96, 0.64]], stops: [1, 3, 5], at: s1.2-0.2, dur: 3.6}
+    - {type: cutout, img: [link_botw, link], x: 0.5, y: 0.60, h: 0.64, enter: pop, at: 0.3,
+       keys: [{at: s1.2, x: 0.12, h: 0.5, y: 0.44}]}
+    - {type: caption, text: "Why does Link\nfeel so familiar?", style: title, size: 72, x: 0.5, y: 0.13, at: s1.1@0.35, until: s1.2-0.1, rot: -2}
+    - {type: caption, text: "LEAVE HOME", style: stamp, size: 46, x: 0.33, y: 0.58, rot: -8, at: s1.2@0.15, until: s1.3}
+    - {type: caption, text: "FACE PROBLEMS", style: stamp, size: 46, x: 0.60, y: 0.50, rot: 6, at: s1.2@0.45, until: s1.3}
+    - {type: caption, text: "KEEP GOING", style: stamp, size: 46, x: 0.86, y: 0.48, rot: -5, at: s1.2@0.78, until: s1.3}
+    - {type: cutout, img: gilgamesh, x: 0.80, y: 0.36, h: 0.56, rot: 4, enter: slide_right, at: s1.3}
+    - {type: caption, text: "c. 1800 BCE", style: type, size: 30, x: 0.80, y: 0.70, rot: 3, at: s1.3@0.5}
+
+# ════════ 2 · THE HERO WITH A THOUSAND FACES ════════════════
+- id: campbell
+  start: s2-0.3
+  palette: title
+  transition: tear
+  elements:
+    - {type: cutout, img: campbell, x: 0.27, y: 0.56, h: 0.62, enter: slide_left, at: s2.1-0.2}
+    - {type: caption, text: "Joseph Campbell", style: type, size: 30, x: 0.27, y: 0.92, rot: -2, at: s2.1@0.2}
+    - {type: cutout, img: cover_hero1000, x: 0.70, y: 0.55, h: 0.62, rot: 5, enter: drop, at: s2.1@0.45}
+    - {type: caption, text: "The Hero with a\nThousand Faces · 1949", style: title, size: 62, x: 0.5, y: 0.13, rot: -1.5, at: s2.1@0.55}
+
+- id: faces
+  start: s2.2-0.2
+  palette: title
+  transition: flip
+  zoom: 0.07
+  elements:
+    - {type: cutout, img: gilgamesh,  x: 0.12, y: 0.42, h: 0.46, rot: -6, at: s2.2@0.05}
+    - {type: cutout, img: heracles,   x: 0.28, y: 0.62, h: 0.44, rot: 4,  at: s2.2@0.14}
+    - {type: cutout, img: sun_wukong, x: 0.44, y: 0.38, h: 0.44, rot: -3, at: s2.2@0.23, missing_label: "SUN WUKONG"}
+    - {type: cutout, img: anansi,     x: 0.58, y: 0.66, h: 0.40, rot: 5,  at: s2.2@0.32, missing_label: "ANANSI"}
+    - {type: cutout, img: [arthur_sword, sword_stone_art], x: 0.73, y: 0.40, h: 0.46, rot: -4, at: s2.2@0.41}
+    - {type: cutout, img: guanyin,    x: 0.88, y: 0.62, h: 0.44, rot: 3,  at: s2.2@0.50}
+    - {type: caption, text: "One hero · different faces", style: tape, size: 54, x: 0.5, y: 0.12, rot: -2, at: s2.2@0.62}
+
+- id: journey
+  start: s2.3-0.2
+  palette: title
+  transition: flip
+  elements:
+    - {type: path, points: [[0.18, 0.62], [0.33, 0.30], [0.55, 0.22], [0.74, 0.36], [0.82, 0.62], [0.62, 0.82], [0.36, 0.80], [0.20, 0.64]], stops: [0, 2, 4], at: s2.3-0.1, dur: 2.6}
+    - {type: caption, text: "DEPARTURE", style: stamp, size: 50, x: 0.17, y: 0.50, rot: -7, at: s2.3}
+    - {type: caption, text: "INITIATION", style: stamp, size: 50, x: 0.55, y: 0.12, rot: 5, at: s2.3@0.38}
+    - {type: caption, text: "RETURN", style: stamp, size: 50, x: 0.86, y: 0.74, rot: -4, at: s2.3@0.72}
+    - {type: cutout, img: jung, x: 0.50, y: 0.56, h: 0.58, enter: pop, at: s2.4}
+    - {type: caption, text: "Carl Jung", style: type, size: 28, x: 0.50, y: 0.90, at: s2.4@0.2}
+    - {type: caption, text: "ARCHETYPES", style: tape, size: 60, x: 0.50, y: 0.30, rot: -3, at: s2.4@0.55}
+
+- id: recurrence
+  start: s2.5-0.2
+  palette: title
+  transition: flip
+  zoom: 0.08
+  elements:
+    - {type: caption, text: "Not a formula.", style: marker, size: 70, x: 0.5, y: 0.16, rot: -3, at: s2.5}
+    - {type: cutout, img: gilgamesh,  x: 0.10, y: 0.58, h: 0.34, rot: -4, at: s2.5@0.30, until: s2.6}
+    - {type: cutout, img: heracles,   x: 0.24, y: 0.58, h: 0.34, rot: 3,  at: s2.5@0.36, until: s2.6}
+    - {type: cutout, img: guanyin,    x: 0.38, y: 0.58, h: 0.34, rot: -2, at: s2.5@0.42, until: s2.6}
+    - {type: cutout, img: krishna_arjuna, x: 0.53, y: 0.58, h: 0.26, rot: 4, at: s2.5@0.48, until: s2.6}
+    - {type: cutout, img: [link_botw, link], x: 0.68, y: 0.58, h: 0.34, rot: -3, at: s2.5@0.54, until: s2.6}
+    - {type: cutout, img: luke,       x: 0.82, y: 0.58, h: 0.34, rot: 3,  at: s2.5@0.60, until: s2.6}
+    - {type: cutout, img: naruto,     x: 0.93, y: 0.62, h: 0.26, rot: -5, at: s2.5@0.66, until: s2.6}
+    - {type: caption, text: "THE RECURRENCE", style: title, size: 78, x: 0.5, y: 0.88, rot: -1, at: s2.5@0.6}
+    - {type: caption, text: "WHY?", style: stamp, size: 170, x: 0.5, y: 0.48, rot: -9, at: s2.6@0.25}
+    - {type: caption, text: "…hold that thought", style: marker, size: 46, x: 0.76, y: 0.30, rot: -6, at: s2.6@0.7}
+
+# ════════ 3 · THE HERO OF TIME ══════════════════════════════
+- id: hero_of_time
+  start: s3-0.3
+  palette: hyrule
+  transition: tear
+  zoom: 0.05
+  elements:
+    - {type: path, points: [[0.06, 0.88], [0.25, 0.74], [0.45, 0.86], [0.66, 0.70], [0.92, 0.80]], stops: [0, 2, 4], at: s3.1, dur: 8}
+    - {type: cutout, img: oot_cover, x: 0.18, y: 0.24, h: 0.34, rot: -6, enter: drop, at: s3.1}
+    - {type: caption, text: "Ocarina of Time · 1998", style: type, size: 30, x: 0.18, y: 0.46, rot: -3, at: s3.1@0.12}
+    - {type: cutout, img: [link_oot, link_botw], x: 0.50, y: 0.56, h: 0.50, rot: 2, enter: slide_left, at: s3.1@0.18}
+    - {type: tree, x: 0.83, y: 0.52, h: 0.70, at: s3.1@0.55}
+    - {type: caption, text: "THE GREAT DEKU TREE", style: type, size: 28, x: 0.83, y: 0.92, at: s3.1@0.6}
+    - {type: caption, text: "THE CALL", style: stamp, size: 64, x: 0.70, y: 0.16, rot: 7, at: s3.1@0.82}
+
+- id: master_sword
+  start: s3.2-0.2
+  palette: hyrule
+  transition: flip
+  elements:
+    - {type: cutout, img: master_sword, x: 0.42, y: 0.46, h: 0.70, rot: -28, enter: drop, at: s3.2}
+    - {type: caption, text: "THE MASTER SWORD", style: tape, size: 56, x: 0.42, y: 0.86, rot: -2, at: s3.2@0.2}
+    - {type: darken, at: s3.2@0.45, dur: 1.4, alpha: 0.5}
+    - {type: cutout, img: ganondorf, x: 0.80, y: 0.55, h: 0.78, enter: slide_right, at: s3.2@0.55}
+    - {type: caption, text: "7 YEARS LATER…", style: tape, size: 56, x: 0.33, y: 0.15, rot: -4, at: s3.2@0.5}
+
+- id: game_over
+  start: s3.3-0.2
+  palette: hyrule
+  transition: flip
+  zoom: 0.10
+  elements:
+    - {type: darken, at: s3.3-0.2, dur: 0.3, alpha: 0.72, color: "#0b0b0b"}
+    - {type: cutout, img: oot_battle, x: 0.5, y: 0.50, h: 0.62, rot: -2, at: s3.3-0.1, enter: fade, until: s3.3@0.6}
+    - {type: caption, text: "GAME OVER", style: stamp, size: 120, x: 0.5, y: 0.42, rot: -4, at: s3.3@0.15}
+    - {type: caption, text: "CONTINUE?   ▶ YES", style: tape, size: 52, x: 0.5, y: 0.70, rot: 1, at: s3.3@0.55, blink: true}
+
+- id: new_forms
+  start: s3.4-0.2
+  palette: hyrule
+  transition: flip
+  elements:
+    - {type: cutout, img: link, x: 0.30, y: 0.54, h: 0.80, rot: -3, enter: pop, at: s3.4}
+    - {type: cutout, img: link_botw, x: 0.62, y: 0.58, h: 0.66, rot: 3, enter: slide_right, at: s3.4@0.3}
+    - {type: cutout, img: zelda, x: 0.86, y: 0.58, h: 0.58, rot: -2, enter: slide_right, at: s3.4@0.45}
+    - {type: caption, text: "A HERO WITH MANY FACES", style: title, size: 64, x: 0.62, y: 0.13, rot: -2, at: s3.4@0.4}
+
+# ════════ 4 · ANCIENT ROOTS ═════════════════════════════════
+- id: gilgamesh
+  start: s4-0.3
+  palette: ancient
+  bg: parchment
+  transition: tear
+  elements:
+    - {type: cutout, img: gilgamesh, x: 0.24, y: 0.52, h: 0.86, rot: -2, enter: slide_left, at: s4.1-0.2}
+    - {type: cutout, img: flood_tablet, x: 0.66, y: 0.44, h: 0.52, rot: 6, enter: drop, at: s4.1@0.5}
+    - {type: caption, text: "Epic of Gilgamesh · c. 1800 BCE", style: type, size: 32, x: 0.66, y: 0.79, rot: -2, at: s4.1@0.6}
+    - {type: caption, text: "SOLUTION FAILED", style: stamp, size: 58, x: 0.70, y: 0.14, rot: -8, at: s4.2}
+    - {type: caption, text: "came home changed", style: marker, size: 48, x: 0.72, y: 0.92, rot: -3, at: s4.2@0.5}
+
+- id: heracles
+  start: s4.3-0.2
+  palette: ancient
+  bg: parchment
+  transition: flip
+  elements:
+    - {type: cutout, img: heracles, x: 0.36, y: 0.54, h: 0.82, rot: -2, enter: pop, at: s4.3}
+    - {type: caption, text: "12 LABOURS", style: stamp, size: 74, x: 0.75, y: 0.30, rot: 6, at: s4.3@0.2}
+    - {type: caption, text: "2 didn't count…\n…so 2 more", style: marker, size: 50, x: 0.75, y: 0.62, rot: -4, at: s4.3@0.55}
+
+- id: odysseus
+  start: s4.4-0.2
+  palette: ancient
+  bg: parchment
+  transition: flip
+  elements:
+    - {type: path, points: [[0.05, 0.84], [0.30, 0.70], [0.55, 0.88], [0.80, 0.72], [0.95, 0.86]], stops: [0, 4], at: s4.4, dur: 2.0}
+    - {type: cutout, img: [odysseus, odysseus_alt], x: 0.5, y: 0.42, w: 0.86, h: 0.62, rot: -1.5, enter: slide_right, at: s4.4-0.1}
+    - {type: caption, text: "10 YEARS HOME", style: stamp, size: 62, x: 0.30, y: 0.12, rot: -6, at: s4.4@0.3}
+    - {type: caption, text: "The Odyssey · c. 700 BCE", style: type, size: 30, x: 0.72, y: 0.90, rot: 2, at: s4.4@0.4}
+
+- id: sword_stone
+  start: s4.5-0.2
+  palette: ancient
+  bg: parchment
+  transition: flip
+  elements:
+    - {type: cutout, img: [arthur_sword, sword_stone_art], x: 0.32, y: 0.52, h: 0.82, rot: -2, enter: drop, at: s4.5-0.1}
+    - {type: caption, text: "THE SWORD IN THE STONE", style: tape, size: 52, x: 0.70, y: 0.30, rot: 3, at: s4.5@0.35, until: s4.6-0.4}
+    - {type: caption, text: "Arthurian legend\nRobert de Boron, c. 1200", style: type, size: 30, x: 0.72, y: 0.55, rot: -2, at: s4.5@0.5, until: s4.6-0.4}
+    # split screen: "Sound familiar?"
+    - {type: tint, box: [0.5, 0, 1, 1], palette: hyrule, alpha: 0.85, at: s4.6-0.25}
+    - {type: divider, x: 0.5, at: s4.6-0.25}
+    - {type: cutout, img: master_sword, x: 0.74, y: 0.50, w: 0.40, h: 0.6, rot: 8, enter: slide_right, at: s4.6-0.2}
+    - {type: caption, text: "c. 1200", style: type, size: 36, x: 0.25, y: 0.88, at: s4.6}
+    - {type: caption, text: "1998", style: type, size: 36, x: 0.75, y: 0.88, at: s4.6}
+    - {type: caption, text: "Sound familiar?", style: marker, size: 60, x: 0.5, y: 0.10, rot: -3, at: s4.6}
+
+# ════════ 5 · MODERN HEROES (montage) ═══════════════════════
+- id: montage
+  start: s5-0.3
+  palette: modern
+  bg: cardboard
+  transition: tear
+  zoom: 0.03
+  elements:
+    - {type: caption, text: "THE FACES KEEP CHANGING", style: title, size: 76, x: 0.5, y: 0.50, rot: -2, at: s5.1, until: s5.2-0.2}
+    - type: montage
+      x: 0.36
+      y: 0.58
+      h: 0.60
+      stamp_x: 0.77
+      items:
+        - {at: s5.2, img: [frodo, sam, aragorn], caption: "The burden\nThe friend\nThe return", size: 44, label: "The Lord of the Rings"}
+        - {at: s5.3, img: master_chief, caption: "Finish the fight", label: "Halo · 2001"}
+        - {at: s5.4, img: luke, caption: "The call", label: "Star Wars · 1977"}
+        - {at: s5.5, img: kusanagi, caption: "Who am I?", label: "Ghost in the Shell · 1995"}
+        - {at: s5.6, img: guts, caption: "The struggle", label: "Berserk · 1989"}
+        - {at: s5.7, img: goku, caption: "Beyond the limit", label: "Dragon Ball Z · 1989"}
+        - {at: s5.8, img: naruto, caption: "Never give up", label: "Naruto · 1999"}
+        - {at: s5.9, img: [nausicaa, nausicaa_study], caption: "Understand\nthe problem", size: 50, label: "Nausicaä · 1984"}
+        - {at: s5.10, img: neo, caption: "The choice", label: "The Matrix · 1999"}
+        - {at: s5.11, img: [deckard, br2049], caption: "Wrong —\nand heroic\nanyway", size: 46, label: "Blade Runner · 1982 / 2049 · 2017"}
+
+# ════════ 6 · THE SUPPORTING CAST ═══════════════════════════
+- id: not_alone
+  start: s6-0.3
+  palette: title
+  transition: tear
+  elements:
+    - {type: caption, text: "NO HERO SOLVES\nPROBLEMS ALONE", style: title, size: 90, x: 0.5, y: 0.45, rot: -2, at: s6.1}
+
+- id: mentor
+  start: s6.2-0.2
+  palette: title
+  transition: flip
+  elements:
+    - {type: caption, text: "THE MENTOR", style: stamp, size: 70, x: 0.5, y: 0.11, rot: -4, at: s6.2}
+    - {type: cutout, img: merlin, x: 0.15, y: 0.55, h: 0.56, rot: -4, at: s6.2@0.3}
+    - {type: cutout, img: gandalf, x: 0.39, y: 0.57, h: 0.56, rot: 3, at: s6.2@0.42, missing_label: "GANDALF"}
+    - {type: cutout, img: krishna_arjuna, x: 0.63, y: 0.55, h: 0.44, rot: -3, at: s6.2@0.55}
+    - {type: tree, x: 0.87, y: 0.57, h: 0.52, at: s6.2@0.75}
+    - {type: caption, text: "Merlin", style: type, size: 26, x: 0.15, y: 0.88, at: s6.2@0.35}
+    - {type: caption, text: "Gandalf", style: type, size: 26, x: 0.39, y: 0.88, at: s6.2@0.47}
+    - {type: caption, text: "Krishna & Arjuna", style: type, size: 26, x: 0.63, y: 0.88, at: s6.2@0.6}
+    - {type: caption, text: "Great Deku Tree", style: type, size: 26, x: 0.87, y: 0.88, at: s6.2@0.8}
+
+- id: shadow
+  start: s6.3-0.2
+  palette: title
+  transition: flip
+  elements:
+    - {type: darken, at: s6.3-0.2, dur: 0.6, alpha: 0.35, color: "#1a0c10"}
+    - {type: caption, text: "THE SHADOW", style: stamp, size: 70, x: 0.5, y: 0.11, rot: 4, at: s6.3}
+    - {type: cutout, img: ganondorf, x: 0.20, y: 0.57, h: 0.64, rot: -3, at: s6.3@0.45}
+    - {type: cutout, img: vader, x: 0.50, y: 0.57, h: 0.62, rot: 2, at: s6.3@0.6}
+    - {type: cutout, img: ravana, x: 0.80, y: 0.56, h: 0.70, rot: -2, at: s6.3@0.75}
+    - {type: caption, text: "the problem, given a face", style: marker, size: 44, x: 0.5, y: 0.93, rot: -2, at: s6.3@0.3}
+
+- id: trickster
+  start: s6.4-0.2
+  palette: title
+  transition: flip
+  elements:
+    - {type: caption, text: "THE TRICKSTER", style: stamp, size: 70, x: 0.5, y: 0.11, rot: -5, at: s6.4}
+    - {type: cutout, img: loki, x: 0.20, y: 0.56, h: 0.62, rot: -4, at: s6.4@0.55, missing_label: "LOKI"}
+    - {type: cutout, img: anansi, x: 0.50, y: 0.57, h: 0.60, rot: 3, at: s6.4@0.68, missing_label: "ANANSI"}
+    - {type: cutout, img: sun_wukong, x: 0.80, y: 0.56, h: 0.64, rot: -2, at: s6.4@0.8, missing_label: "SUN WUKONG"}
+    - {type: caption, text: "Loki", style: type, size: 26, x: 0.20, y: 0.92, at: s6.4@0.6}
+    - {type: caption, text: "Anansi", style: type, size: 26, x: 0.50, y: 0.92, at: s6.4@0.72}
+    - {type: caption, text: "Sun Wukong", style: type, size: 26, x: 0.80, y: 0.92, at: s6.4@0.84}
+
+- id: guide
+  start: s6.5-0.2
+  palette: title
+  transition: flip
+  elements:
+    - {type: caption, text: "THE WISE GUIDE", style: stamp, size: 70, x: 0.5, y: 0.11, rot: 3, at: s6.5}
+    - {type: cutout, img: zelda, x: 0.32, y: 0.57, h: 0.70, rot: -3, at: s6.5@0.4}
+    - {type: cutout, img: guanyin, x: 0.68, y: 0.57, h: 0.70, rot: 2, at: s6.5@0.7}
+    - {type: caption, text: "Princess Zelda", style: type, size: 26, x: 0.32, y: 0.94, at: s6.5@0.45}
+    - {type: caption, text: "Guanyin · Journey to the West", style: type, size: 26, x: 0.68, y: 0.94, at: s6.5@0.75}
+
+# ════════ 7 · WHY THE HERO KEEPS COMING BACK ════════════════
+- id: why_again
+  start: s7-0.3
+  palette: title
+  transition: tear
+  elements:
+    - {type: caption, text: "WHY?", style: stamp, size: 170, x: 0.5, y: 0.45, rot: -9, at: s7.1-0.2, until: s7.2@0.35}
+    - {type: cutout, img: campbell, x: 0.17, y: 0.55, h: 0.56, enter: slide_left, at: s7.2}
+    - {type: caption, text: "found the pattern", style: marker, size: 40, x: 0.17, y: 0.90, rot: -3, at: s7.2@0.2}
+    - {type: cutout, img: popper, x: 0.64, y: 0.52, h: 0.50, rot: -3, enter: slide_right, at: s7.2@0.45}
+    - {type: cutout, img: deutsch, x: 0.86, y: 0.58, h: 0.48, rot: 3, enter: slide_right, at: s7.2@0.55}
+    - {type: caption, text: "explain it", style: marker, size: 40, x: 0.75, y: 0.90, rot: 2, at: s7.2@0.7}
+
+- id: popper
+  start: s7.3-0.2
+  palette: title
+  transition: flip
+  elements:
+    - {type: cutout, img: popper, x: 0.17, y: 0.56, h: 0.62, rot: -2, enter: slide_left, at: s7.3-0.1}
+    - {type: caption, text: "All life is problem solving. — Karl Popper", style: quote, size: 46, x: 0.47, y: 0.20, rot: -1.5, at: s7.3@0.1}
+    - {type: loop, labels: ["PROBLEM", "GUESS", "MISTAKE", "CORRECT"], x: 0.66, y: 0.62, r: 0.22, step: 0.55, size: 34, at: s7.3@0.5}
+
+- id: deutsch
+  start: s7.4-0.2
+  palette: title
+  transition: flip
+  elements:
+    - {type: cutout, img: deutsch, x: 0.18, y: 0.56, h: 0.58, rot: 2, enter: slide_left, at: s7.4-0.1}
+    - {type: cutout, img: cover_boi, x: 0.84, y: 0.56, h: 0.56, rot: 5, enter: drop, at: s7.4@0.15, until: s7.5-0.3}
+    - {type: caption, text: "UNIVERSAL\nEXPLAINERS", style: title, size: 78, x: 0.52, y: 0.32, rot: -2, at: s7.4@0.25, until: s7.5-0.3}
+    - {type: caption, text: "able, in principle, to understand\nanything that can be understood", style: marker, size: 38, x: 0.52, y: 0.66, rot: -1, at: s7.4@0.5, until: s7.5-0.3}
+    - {type: caption, text: "Problems are inevitable.\nProblems are soluble. — David Deutsch", style: quote, size: 64, x: 0.6, y: 0.5, rot: -1, enter: drop, at: s7.5}
+
+- id: thousand_faces
+  start: s7.6-0.2
+  palette: title
+  transition: tear
+  zoom: 0.04
+  focus: [0.5, 0.45]
+  elements:
+    - {type: mosaic, x: 0.40, y: 0.49, h: 0.86, cell: 54, at: s7.6, build_until: s7.8@0.45}
+    - {type: caption, text: "a world full of\nproblem-solvers…", style: marker, size: 46, x: 0.82, y: 0.22, rot: -4, at: s7.6@0.2, until: s7.7}
+    - {type: caption, text: "A THOUSAND\nFACES", style: title, size: 80, x: 0.82, y: 0.40, rot: -2, at: s7.7}
+    - {type: caption, text: "NEVER OUT\nOF HOPE", style: stamp, size: 64, x: 0.82, y: 0.72, rot: -7, at: s7.8@0.62}
+
+# ════════ 8 · OUTRO ═════════════════════════════════════════
+- id: outro
+  start: s8-0.3
+  palette: hyrule
+  transition: tear
+  elements:
+    - {type: path, points: [[0.04, 0.80], [0.24, 0.66], [0.46, 0.78], [0.70, 0.60], [0.94, 0.42]], stops: [4], at: s8.1-0.2, dur: 2.2}
+    - {type: cutout, img: [link_botw, link], x: 0.30, y: 0.52, h: 0.66, enter: slide_left, at: s8.1-0.2}
+    - {type: caption, text: "YOUR NEXT PROBLEM\nIS WAITING", style: tape, size: 52, x: 0.70, y: 0.24, rot: 3, at: s8.1@0.3}
+    - {type: caption, text: "SUBSCRIBE", style: stamp, size: 96, x: 0.72, y: 0.62, rot: -8, at: s8.2}
+
+- id: credits
+  start: s8.2e+0.9
+  palette: title
+  transition: tear
+  zoom: 0
+  elements:
+    - type: credits
+      title: "CREDITS"
+      columns:
+        - ["# Characters & images (fair use: commentary)", "The Legend of Zelda © Nintendo", "The Lord of the Rings © New Line Cinema /", "  Warner Bros. · Tolkien Estate", "Halo © Microsoft / Xbox Game Studios", "Star Wars © Lucasfilm", "Ghost in the Shell © Kodansha / Production I.G", "Berserk © Kentaro Miura / Hakusensha", "Dragon Ball © Bird Studio / Shueisha / Toei", "Naruto © Masashi Kishimoto / Shueisha / Pierrot", "Nausicaä © Studio Ghibli (free-use stills)", "The Matrix, Blade Runner © Warner Bros.", "Blade Runner 2049 © Alcon Entertainment", "Book covers © their publishers"]
+        - ["# Public-domain & open-access art", "Cleveland Museum of Art (CC0)", "Art Institute of Chicago (CC0)", "Wikimedia Commons contributors", "British Museum · Louvre (photos via Commons)", "Wellcome Collection (CC BY 4.0)", "Howard Pyle · Tsukioka Yoshitoshi", "Pamela Colman Smith · SÁM 66 manuscript", "", "# Ideas", "Joseph Campbell · Carl Jung", "Karl Popper · David Deutsch", "Christopher Vogler", "", "Full sources: see description"]

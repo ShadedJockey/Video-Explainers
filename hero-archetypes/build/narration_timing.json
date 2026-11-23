@@ -1,0 +1,339 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "title": "Hook",
+      "start": 0.6,
+      "lines": [
+        {
+          "index": 1,
+          "text": "Even if you've never held a controller, Link feels familiar.",
+          "start": 0.6,
+          "end": 3.848
+        },
+        {
+          "index": 2,
+          "text": "A kid leaves home, faces impossible problems, and keeps going.",
+          "start": 4.198,
+          "end": 8.042
+        },
+        {
+          "index": 3,
+          "text": "It's one of the oldest stories we have.",
+          "start": 8.392,
+          "end": 10.362
+        }
+      ],
+      "end": 10.362
+    },
+    {
+      "id": 2,
+      "title": "The hero with a thousand faces",
+      "start": 11.261916666666666,
+      "lines": [
+        {
+          "index": 1,
+          "text": "In 1949, the mythologist Joseph Campbell published The Hero with a Thousand Faces.",
+          "start": 11.262,
+          "end": 17.196
+        },
+        {
+          "index": 2,
+          "text": "Reading myths from all over the world, he kept meeting the same figure: one hero, wearing different faces.",
+          "start": 17.546,
+          "end": 23.943
+        },
+        {
+          "index": 3,
+          "text": "Leave home. Face trials. Return changed.",
+          "start": 24.293,
+          "end": 26.936
+        },
+        {
+          "index": 4,
+          "text": "Carl Jung called recurring figures like this archetypes.",
+          "start": 27.286,
+          "end": 30.551
+        },
+        {
+          "index": 5,
+          "text": "Campbell's real discovery wasn't a formula. It was the recurrence itself.",
+          "start": 30.901,
+          "end": 35.225
+        },
+        {
+          "index": 6,
+          "text": "So why does every culture keep inventing the same hero? Hold that thought.",
+          "start": 35.575,
+          "end": 39.653
+        }
+      ],
+      "end": 39.653
+    },
+    {
+      "id": 3,
+      "title": "The Hero of Time",
+      "start": 40.553375,
+      "lines": [
+        {
+          "index": 1,
+          "text": "Take Link in Ocarina of Time, from 1998: an ordinary boy from the forest, until the Great Deku Tree calls him to adventure.",
+          "start": 40.553,
+          "end": 49.599
+        },
+        {
+          "index": 2,
+          "text": "He draws the Master Sword, and wakes seven years later in a Hyrule fallen to darkness.",
+          "start": 49.949,
+          "end": 54.766
+        },
+        {
+          "index": 3,
+          "text": "Like every player, he fails, and tries again.",
+          "start": 55.116,
+          "end": 57.647
+        },
+        {
+          "index": 4,
+          "text": "And across the series, the hero keeps returning in new forms.",
+          "start": 57.997,
+          "end": 61.438
+        }
+      ],
+      "end": 61.438
+    },
+    {
+      "id": 4,
+      "title": "Ancient roots",
+      "start": 62.338,
+      "lines": [
+        {
+          "index": 1,
+          "text": "Nearly four thousand years ago, Gilgamesh tried to defeat death.",
+          "start": 62.338,
+          "end": 65.966
+        },
+        {
+          "index": 2,
+          "text": "His solution failed, and he came home changed.",
+          "start": 66.316,
+          "end": 68.928
+        },
+        {
+          "index": 3,
+          "text": "Heracles faced his labours. When two didn't count, he did two more.",
+          "start": 69.278,
+          "end": 73.199
+        },
+        {
+          "index": 4,
+          "text": "Odysseus spent ten years getting home.",
+          "start": 73.549,
+          "end": 75.558
+        },
+        {
+          "index": 5,
+          "text": "And in Arthurian legend, only the true king could draw the sword from the stone.",
+          "start": 75.908,
+          "end": 80.204
+        },
+        {
+          "index": 6,
+          "text": "Sound familiar?",
+          "start": 80.554,
+          "end": 81.485
+        }
+      ],
+      "end": 81.485
+    },
+    {
+      "id": 5,
+      "title": "Modern heroes",
+      "start": 82.38533333333332,
+      "lines": [
+        {
+          "index": 1,
+          "text": "The faces keep changing.",
+          "start": 82.385,
+          "end": 83.876
+        },
+        {
+          "index": 2,
+          "text": "Frodo carries the burden. Sam carries Frodo. And Aragorn returns as king.",
+          "start": 85.576,
+          "end": 90.386
+        },
+        {
+          "index": 3,
+          "text": "Master Chief finishes the fight.",
+          "start": 92.086,
+          "end": 93.787
+        },
+        {
+          "index": 4,
+          "text": "Luke answers the call.",
+          "start": 95.487,
+          "end": 96.736
+        },
+        {
+          "index": 5,
+          "text": "Major Kusanagi asks what makes her herself.",
+          "start": 98.436,
+          "end": 101.198
+        },
+        {
+          "index": 6,
+          "text": "Guts struggles against fate.",
+          "start": 102.898,
+          "end": 104.425
+        },
+        {
+          "index": 7,
+          "text": "Goku trains past every limit.",
+          "start": 106.125,
+          "end": 107.963
+        },
+        {
+          "index": 8,
+          "text": "Naruto never goes back on his word.",
+          "start": 109.663,
+          "end": 111.931
+        },
+        {
+          "index": 9,
+          "text": "Nausica\u00e4 studies the poisoned forest, and finds the real problem is the soil.",
+          "start": 113.631,
+          "end": 118.325
+        },
+        {
+          "index": 10,
+          "text": "Neo chooses.",
+          "start": 120.025,
+          "end": 121.002
+        },
+        {
+          "index": 11,
+          "text": "And K learns he isn't the chosen one, and does the heroic thing anyway. He brings Deckard home to his daughter.",
+          "start": 122.702,
+          "end": 129.06
+        }
+      ],
+      "end": 129.06
+    },
+    {
+      "id": 6,
+      "title": "The supporting cast",
+      "start": 129.96045833333335,
+      "lines": [
+        {
+          "index": 1,
+          "text": "No hero solves problems alone.",
+          "start": 129.96,
+          "end": 131.912
+        },
+        {
+          "index": 2,
+          "text": "The mentor passes on knowledge: Merlin, Gandalf, Krishna, the Great Deku Tree.",
+          "start": 132.712,
+          "end": 137.618
+        },
+        {
+          "index": 3,
+          "text": "The shadow is the problem given a face: Ganondorf, Vader, Ravana.",
+          "start": 138.418,
+          "end": 142.861
+        },
+        {
+          "index": 4,
+          "text": "The trickster breaks the rules and exposes mistakes: Loki, Anansi, Sun Wukong.",
+          "start": 143.661,
+          "end": 149.026
+        },
+        {
+          "index": 5,
+          "text": "And the wise guide lights the way: Princess Zelda, or Guanyin.",
+          "start": 149.826,
+          "end": 153.391
+        }
+      ],
+      "end": 153.391
+    },
+    {
+      "id": 7,
+      "title": "Why the hero keeps coming back",
+      "start": 154.29141666666672,
+      "lines": [
+        {
+          "index": 1,
+          "text": "So why does the same hero keep appearing?",
+          "start": 154.291,
+          "end": 156.472
+        },
+        {
+          "index": 2,
+          "text": "Campbell found the pattern. Karl Popper and David Deutsch help explain it.",
+          "start": 156.822,
+          "end": 160.994
+        },
+        {
+          "index": 3,
+          "text": "Popper argued that all life is problem solving. We guess, we make mistakes, and we correct them.",
+          "start": 161.344,
+          "end": 167.071
+        },
+        {
+          "index": 4,
+          "text": "Deutsch went further. Every person, he argues, is a universal explainer: able, in principle, to understand anything that can be understood.",
+          "start": 167.421,
+          "end": 176.061
+        },
+        {
+          "index": 5,
+          "text": "He put it in two lines. Problems are inevitable. Problems are soluble.",
+          "start": 176.411,
+          "end": 180.812
+        },
+        {
+          "index": 6,
+          "text": "A world full of problem-solvers keeps telling stories about one.",
+          "start": 181.162,
+          "end": 184.789
+        },
+        {
+          "index": 7,
+          "text": "That's why the thousand faces feel like one.",
+          "start": 185.139,
+          "end": 187.492
+        },
+        {
+          "index": 8,
+          "text": "The hero is what greatness looks like against a problem: wrong sometimes, tested always, and never out of hope.",
+          "start": 187.842,
+          "end": 194.451
+        }
+      ],
+      "end": 194.451
+    },
+    {
+      "id": 8,
+      "title": "Outro",
+      "start": 195.350875,
+      "lines": [
+        {
+          "index": 1,
+          "text": "Your next problem is already waiting. Go meet it.",
+          "start": 195.351,
+          "end": 198.101
+        },
+        {
+          "index": 2,
+          "text": "And subscribe for more.",
+          "start": 198.451,
+          "end": 199.705
+        }
+      ],
+      "end": 199.705
+    }
+  ],
+  "duration": 206.705
+}

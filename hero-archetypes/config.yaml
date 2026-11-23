@@ -1,0 +1,85 @@
+# ─────────────────────────────────────────────────────────────
+#  Hero Archetypes: render settings
+#  Edit this file, then run:  ./render.sh preview   (or final)
+# ─────────────────────────────────────────────────────────────
+
+output:
+  final:   {width: 1920, height: 1080, fps: 30, crf: 18, preset: slow,   file: final/hero_archetypes_1080p.mp4}
+  preview: {width: 960,  height: 540,  fps: 15, crf: 28, preset: veryfast, file: build/preview_540p.mp4}
+
+# ── Voice ────────────────────────────────────────────────────
+voice:
+  # If assets/voiceover.wav exists it is used instead of the TTS placeholder
+  # (note: scene timings come from the TTS line timings, so a real read should
+  # follow the same line breaks and roughly the same pace).
+  engine: kokoro                 # local, free, offline
+  kokoro_voice: af_heart         # try: am_michael, bm_george, af_bella
+  speed: 1.0
+  gap_between_lines: 0.35        # seconds of silence between lines
+  gap_between_sections: 0.9      # seconds between script sections
+  section_line_gaps:             # longer pauses in specific sections (montage pacing)
+    5: 1.7                       # modern-heroes montage: a new hero every ~3–3.5 s
+    6: 0.8
+  lead_in: 0.6                   # silence before the first word
+  tail: 7.0                      # silence after the last word (end card + credits)
+  # Spoken respellings so the TTS says names correctly (display text is unchanged)
+  pronunciations:
+    "Nausicaä": "Now-sick-ah"
+    "Kusanagi": "Koo-sah-nah-ghee"
+    "Heracles": "Hair-a-kleez"
+    "Hyrule": "High-rule"
+    "Deutsch": "Doytch"
+    "Guanyin": "Gwahn-yin"
+    "Ravana": "Rah-vah-nuh"
+    "Anansi": "Ah-nahn-see"
+    "Sun Wukong": "Soon Woo-kong"
+    "Deku": "Day-koo"
+    "Gilgamesh": "Gill-guh-mesh"
+    "Odysseus": "Oh-diss-ee-us"
+    "Ganondorf": "Gan-on-dorf"
+    "Goku": "Go-koo"
+    "Naruto": "Nah-roo-toe"
+
+# ── Music ────────────────────────────────────────────────────
+music:
+  file: assets/music.mp3         # royalty-free bed; silent placeholder if missing
+  level_db: -18                  # music level when nobody is speaking
+  duck_db: 12                    # how far music drops under speech
+  duck_attack: 0.25              # seconds to fade down before a line
+  duck_release: 0.6              # seconds to fade back up after a line
+
+# ── Look ─────────────────────────────────────────────────────
+palettes:            # background paper tint + accent colours per era
+  ancient: {paper: "#d8c3a0", ink: "#3b2a1a", accent: "#a2471f", accent2: "#c99a3d", stamp: "#a3261b"}
+  hyrule:  {paper: "#cfd8a8", ink: "#1f3a22", accent: "#2f6b3a", accent2: "#d4a72c", stamp: "#a3261b"}
+  modern:  {paper: "#ecebe6", ink: "#1d1d1f", accent: "#e0402f", accent2: "#2b6cb0", stamp: "#c8321f"}
+  title:   {paper: "#e9dcc0", ink: "#22180f", accent: "#b23a2a", accent2: "#d4a72c", stamp: "#a3261b"}
+
+fonts:               # downloaded from Google Fonts by tools/setup_fonts.py
+  caption: assets/fonts/Anton-Regular.ttf
+  label:   assets/fonts/PermanentMarker-Regular.ttf
+  body:    assets/fonts/Oswald-Variable.ttf      # Bold instance selected in code
+  type:    assets/fonts/SpecialElite-Regular.ttf # typewriter labels (dates, credits)
+
+sticker:
+  border_px: 14        # white sticker border thickness (at 1080p)
+  shadow_offset: [10, 14]
+  shadow_blur: 14
+  shadow_opacity: 0.45
+
+motion:
+  slide_in: 0.55       # seconds for a cutout to slide in
+  overshoot: 1.6       # pop overshoot strength (0 = none)
+  wobble_deg: 1.6      # gentle wobble amplitude
+  wobble_hz: 0.35
+  bg_zoom: 0.06        # slow background zoom over a scene (6 %)
+  caption_pop: 0.35
+  transition: 0.6      # paper-tear transition length
+
+montage:
+  seconds_per_stop: 3.4   # used only if a line has no timing
+
+path:
+  dot_spacing: 22
+  dot_radius: 5
+  color: "#7a1f12"

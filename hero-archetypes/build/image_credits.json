@@ -1,0 +1,412 @@
+{
+ "flood_tablet": {
+  "subject": "The Flood Tablet (Tablet XI, Epic of Gilgamesh), British Museum",
+  "kind": "pd",
+  "source": "commons",
+  "file": "British Museum Flood Tablet.jpg",
+  "licence": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:British_Museum_Flood_Tablet.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/British_Museum_Flood_Tablet.jpg",
+  "local": "assets/public_domain/flood_tablet.jpg"
+ },
+ "merlin": {
+  "subject": "The Enchanter Merlin, Howard Pyle (1903)",
+  "kind": "pd",
+  "source": "commons",
+  "file": "Arthur-Pyle The Enchanter Merlin.JPG",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Arthur-Pyle_The_Enchanter_Merlin.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Arthur-Pyle_The_Enchanter_Merlin.JPG",
+  "local": "assets/public_domain/merlin.jpg"
+ },
+ "jung": {
+  "subject": "Carl Jung, c. 1910",
+  "kind": "pd",
+  "source": "commons",
+  "file": "Jung 1910-rotated.jpg",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Jung_1910-rotated.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Jung_1910-rotated.jpg",
+  "local": "assets/public_domain/jung.jpg"
+ },
+ "campbell": {
+  "subject": "Joseph Campbell",
+  "kind": "pd",
+  "source": "commons",
+  "file": "Joseph Campbell (cropped).png",
+  "licence": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Joseph_Campbell_%28cropped%29.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Joseph_Campbell_%28cropped%29.png",
+  "local": "assets/public_domain/campbell.png"
+ },
+ "popper": {
+  "subject": "Karl Popper (LSE Library)",
+  "kind": "pd",
+  "source": "commons",
+  "file": "Karl Popper.jpg",
+  "licence": "No known copyright restrictions (LSE Library)",
+  "page": "https://commons.wikimedia.org/wiki/File:Karl_Popper.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg",
+  "local": "assets/public_domain/popper.jpg"
+ },
+ "deutsch": {
+  "subject": "David Deutsch",
+  "kind": "pd",
+  "source": "commons",
+  "file": "David Deutsch (cropped).jpg",
+  "licence": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:David_Deutsch_%28cropped%29.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/David_Deutsch_%28cropped%29.jpg",
+  "local": "assets/public_domain/deutsch.jpg"
+ },
+ "cover_hero1000": {
+  "subject": "The Hero with a Thousand Faces, first edition cover (1949)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "TheHeroWithAThousandFaces.jpg",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:TheHeroWithAThousandFaces.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/en/6/6d/TheHeroWithAThousandFaces.jpg",
+  "local": "assets/stills/cover_hero1000.jpg"
+ },
+ "cover_boi": {
+  "subject": "The Beginning of Infinity cover (2011)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Beginning of infinity.jpg",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Beginning_of_infinity.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Beginning_of_infinity.jpg",
+  "local": "assets/stills/cover_boi.jpg"
+ },
+ "link": {
+  "subject": "Link, official artwork (Nintendo)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Link (Hyrule Historia).png",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Link_%28Hyrule_Historia%29.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Link_%28Hyrule_Historia%29.png",
+  "local": "assets/stills/link.png"
+ },
+ "oot_cover": {
+  "subject": "The Legend of Zelda: Ocarina of Time box art (Nintendo, 1998)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "The Legend of Zelda Ocarina of Time.jpg",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:The_Legend_of_Zelda_Ocarina_of_Time.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/en/5/57/The_Legend_of_Zelda_Ocarina_of_Time.jpg",
+  "local": "assets/stills/oot_cover.jpg"
+ },
+ "zelda": {
+  "subject": "Princess Zelda, official artwork (Nintendo)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Link to the Past Zelda.png",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Link_to_the_Past_Zelda.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Link_to_the_Past_Zelda.png",
+  "local": "assets/stills/zelda.png"
+ },
+ "ganondorf": {
+  "subject": "Ganondorf, Ocarina of Time artwork (Nintendo)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Ganondorf Ocarina of Time.png",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Ganondorf_Ocarina_of_Time.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/0/04/Ganondorf_Ocarina_of_Time.png",
+  "local": "assets/stills/ganondorf.png"
+ },
+ "master_sword": {
+  "subject": "The Master Sword (Nintendo)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Master Sword Lead.png",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Master_Sword_Lead.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Master_Sword_Lead.png",
+  "local": "assets/stills/master_sword.png"
+ },
+ "frodo": {
+  "subject": "Frodo Baggins (Elijah Wood), The Lord of the Rings films (New Line Cinema)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Elijah Wood as Frodo Baggins.png",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Elijah_Wood_as_Frodo_Baggins.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Elijah_Wood_as_Frodo_Baggins.png",
+  "local": "assets/stills/frodo.png"
+ },
+ "sam": {
+  "subject": "Samwise Gamgee (Sean Astin), The Lord of the Rings films (New Line Cinema)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Sean Astin as Samwise Gamgee.png",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Sean_Astin_as_Samwise_Gamgee.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/7/7b/Sean_Astin_as_Samwise_Gamgee.png",
+  "local": "assets/stills/sam.png"
+ },
+ "aragorn": {
+  "subject": "Aragorn (Viggo Mortensen), The Lord of the Rings films (New Line Cinema)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Aragorn300ppx.png",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Aragorn300ppx.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/3/35/Aragorn300ppx.png",
+  "local": "assets/stills/aragorn.png"
+ },
+ "master_chief": {
+  "subject": "Master Chief, Halo Infinite render (Microsoft / 343 Industries)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Master chief halo infinite.png",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Master_chief_halo_infinite.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/4/42/Master_chief_halo_infinite.png",
+  "local": "assets/stills/master_chief.png"
+ },
+ "luke": {
+  "subject": "Star Wars (1977) poster (Lucasfilm)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "StarWarsMoviePoster1977.jpg",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:StarWarsMoviePoster1977.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg",
+  "local": "assets/stills/luke.jpg"
+ },
+ "kusanagi": {
+  "subject": "Ghost in the Shell (1995) poster (Production I.G / Kodansha)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Ghostintheshellposter.jpg",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Ghostintheshellposter.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/Ghostintheshellposter.jpg",
+  "local": "assets/stills/kusanagi.jpg"
+ },
+ "goku": {
+  "subject": "Goku, Dragon Ball (Akira Toriyama / Shueisha)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "GokumangaToriyama.png",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:GokumangaToriyama.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/GokumangaToriyama.png",
+  "local": "assets/stills/goku.png"
+ },
+ "naruto": {
+  "subject": "Naruto Uzumaki (Masashi Kishimoto / Shueisha)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "NarutoUzumaki.png",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:NarutoUzumaki.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/NarutoUzumaki.png",
+  "local": "assets/stills/naruto.png"
+ },
+ "neo": {
+  "subject": "Neo (Keanu Reeves), The Matrix (Warner Bros., 1999)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "NeoTheMatrix.jpg",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:NeoTheMatrix.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/en/c/c6/NeoTheMatrix.jpg",
+  "local": "assets/stills/neo.jpg"
+ },
+ "deckard": {
+  "subject": "Rick Deckard (Harrison Ford), Blade Runner (Warner Bros., 1982)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Rick Deckard.jpg",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Rick_Deckard.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/en/d/d4/Rick_Deckard.jpg",
+  "local": "assets/stills/deckard.jpg"
+ },
+ "br2049": {
+  "subject": "Blade Runner 2049 poster: K and Deckard (Alcon / Warner Bros., 2017)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Blade Runner 2049 poster.png",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Blade_Runner_2049_poster.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png",
+  "local": "assets/stills/br2049.png"
+ },
+ "vader": {
+  "subject": "Darth Vader (Lucasfilm)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Darth Vader in The Empire Strikes Back.jpg",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Darth_Vader_in_The_Empire_Strikes_Back.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Darth_Vader_in_The_Empire_Strikes_Back.jpg",
+  "local": "assets/stills/vader.jpg"
+ },
+ "gandalf": {
+  "subject": "Gandalf, drawing by J.R.R. Tolkien for The Hobbit (© The Tolkien Estate)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Gandalf from The Trolls are Turned to Stone - J.R.R Tolkien.jpg",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Gandalf_from_The_Trolls_are_Turned_to_Stone_-_J.R.R_Tolkien.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/Gandalf_from_The_Trolls_are_Turned_to_Stone_-_J.R.R_Tolkien.jpg",
+  "local": "assets/stills/gandalf.jpg"
+ },
+ "nausicaa": {
+  "subject": "Nausicaä, standing (Nausicaä of the Valley of the Wind, Studio Ghibli, 1984)",
+  "kind": "still",
+  "source": "ghibli",
+  "file": "nausicaa016.jpg",
+  "licence": "Studio Ghibli free-use stills",
+  "page": "https://www.ghibli.jp/info/013344/",
+  "url": "https://www.ghibli.jp/gallery/nausicaa016.jpg",
+  "local": "assets/stills/nausicaa.jpg"
+ },
+ "nausicaa_study": {
+  "subject": "Nausicaä studying a spore sample in the toxic forest (Studio Ghibli, 1984)",
+  "kind": "still",
+  "source": "ghibli",
+  "file": "nausicaa003.jpg",
+  "licence": "Studio Ghibli free-use stills",
+  "page": "https://www.ghibli.jp/info/013344/",
+  "url": "https://www.ghibli.jp/gallery/nausicaa003.jpg",
+  "local": "assets/stills/nausicaa_study.jpg"
+ },
+ "nausicaa_garden": {
+  "subject": "Nausicaä's secret garden of forest plants grown in clean water (Studio Ghibli, 1984)",
+  "kind": "still",
+  "source": "ghibli",
+  "file": "nausicaa020.jpg",
+  "licence": "Studio Ghibli free-use stills",
+  "page": "https://www.ghibli.jp/info/013344/",
+  "url": "https://www.ghibli.jp/gallery/nausicaa020.jpg",
+  "local": "assets/stills/nausicaa_garden.jpg"
+ },
+ "gilgamesh": {
+  "subject": "Hero mastering a lion (often identified as Gilgamesh), Khorsabad relief, Louvre AO 19862",
+  "kind": "pd",
+  "source": "commons",
+  "file": "Hero lion Dur-Sharrukin Louvre AO19862.jpg",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Hero_lion_Dur-Sharrukin_Louvre_AO19862.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hero_lion_Dur-Sharrukin_Louvre_AO19862.jpg",
+  "local": "assets/public_domain/gilgamesh.jpg"
+ },
+ "heracles": {
+  "subject": "Black-figure neck-amphora: Herakles and the Nemean Lion, Athens, 515–510 BCE (Cleveland Museum of Art 1970.16)",
+  "kind": "pd",
+  "source": "cleveland",
+  "file": null,
+  "licence": "CC0 (Cleveland Museum of Art Open Access)",
+  "page": "https://clevelandart.org/art/1970.16",
+  "url": "https://openaccess-cdn.clevelandart.org/1970.16/1970.16_print.jpg",
+  "local": "assets/public_domain/heracles.jpg"
+ },
+ "ravana": {
+  "subject": "Rama and Lakshmana Fighting Ravana, from a Dashavatara series, India, c. 1765 (Cleveland Museum of Art 1953.357)",
+  "kind": "pd",
+  "source": "cleveland",
+  "file": null,
+  "licence": "CC0 (Cleveland Museum of Art Open Access)",
+  "page": "https://clevelandart.org/art/1953.357",
+  "url": "https://openaccess-cdn.clevelandart.org/1953.357/1953.357_print.jpg",
+  "local": "assets/public_domain/ravana.jpg"
+ },
+ "guanyin": {
+  "subject": "Seated Guanyin, China, late 1100s–1200s (Cleveland Museum of Art 1984.70)",
+  "kind": "pd",
+  "source": "cleveland",
+  "file": null,
+  "licence": "CC0 (Cleveland Museum of Art Open Access)",
+  "page": "https://clevelandart.org/art/1984.70",
+  "url": "https://openaccess-cdn.clevelandart.org/1984.70/1984.70_print.jpg",
+  "local": "assets/public_domain/guanyin.jpg"
+ },
+ "krishna_arjuna": {
+  "subject": "Arjuna Slays Karna, from a copy of the Razmnama, Mughal, c. 1616–17 (Krishna drives Arjuna's chariot in this episode) (Art Institute of Chicago)",
+  "kind": "pd",
+  "source": "aic",
+  "file": null,
+  "licence": "CC0 (Art Institute of Chicago Open Access)",
+  "page": "https://www.artic.edu/artworks/60235",
+  "url": "https://www.artic.edu/iiif/2/180cdc30-fead-cf71-8f2c-b3fbb929f457/full/1686,/0/default.jpg",
+  "local": "assets/public_domain/krishna_arjuna.jpg"
+ },
+ "odysseus_alt": {
+  "subject": "The Adventures of Ulysses, Apollonio di Giovanni, 1435–45 (Art Institute of Chicago)",
+  "kind": "pd",
+  "source": "aic",
+  "file": null,
+  "licence": "CC0 (Art Institute of Chicago Open Access)",
+  "page": "https://www.artic.edu/artworks/110760",
+  "url": "https://www.artic.edu/iiif/2/2295d601-573b-72f8-9760-cfec0d116b48/full/1686,/0/default.jpg",
+  "local": "assets/public_domain/odysseus_alt.jpg"
+ },
+ "odysseus": {
+  "subject": "Odysseus and the Sirens, the Siren Vase (British Museum E440), c. 480–470 BCE",
+  "kind": "pd",
+  "source": "commons",
+  "file": "Odysseus Sirens BM E440.jpg",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Odysseus_Sirens_BM_E440.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Odysseus_Sirens_BM_E440.jpg/1280px-Odysseus_Sirens_BM_E440.jpg",
+  "local": "assets/public_domain/odysseus.jpg"
+ },
+ "anansi": {
+  "subject": "Anansi, illustration by Pamela Colman Smith (1899)",
+  "kind": "pd",
+  "source": "commons",
+  "file": "Anansi-34.png",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Anansi-34.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Anansi-34.png",
+  "local": "assets/public_domain/anansi.png"
+ },
+ "link_oot": {
+  "subject": "Link, Ocarina of Time artwork (Nintendo, 1998)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "ZELDA OCARINA OF TIME.jpg",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:ZELDA_OCARINA_OF_TIME.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/en/1/14/ZELDA_OCARINA_OF_TIME.jpg",
+  "local": "assets/stills/link_oot.jpg"
+ },
+ "guts": {
+  "subject": "Guts, Berserk (Kentaro Miura / Hakusensha)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "GutsBerserk.PNG",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:GutsBerserk.PNG",
+  "url": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG",
+  "local": "assets/stills/guts.png"
+ },
+ "link_botw": {
+  "subject": "Link, Breath of the Wild artwork (Nintendo, 2017)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "Link of the Wild.png",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:Link_of_the_Wild.png",
+  "url": "https://upload.wikimedia.org/wikipedia/en/2/21/Link_of_the_Wild.png",
+  "local": "assets/stills/link_botw.png"
+ },
+ "oot_battle": {
+  "subject": "Ocarina of Time gameplay screenshot (Nintendo, 1998)",
+  "kind": "still",
+  "source": "enwiki",
+  "file": "OcarinaOfTimeBattle.JPG",
+  "licence": "Fair use: non-free image hosted on en.wikipedia; used here for commentary",
+  "page": "https://en.wikipedia.org/wiki/File:OcarinaOfTimeBattle.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/en/a/a1/OcarinaOfTimeBattle.JPG",
+  "local": "assets/stills/oot_battle.jpg"
+ }
+}

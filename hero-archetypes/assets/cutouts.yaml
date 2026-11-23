@@ -1,0 +1,55 @@
+# How each image is cut out. See tools/make_cutouts.py for the options.
+# After changing a crop, re-run:  python tools/make_cutouts.py <id>
+
+# ── Ancient & world myth ────────────────────────────────────
+gilgamesh: {mode: card, tint: aged, crop: [0.04, 0.0, 0.96, 1.0]}
+flood_tablet:   {mode: rembg, tint: aged}
+heracles:       {mode: rembg}
+odysseus:       {mode: card, tint: aged}
+odysseus_alt:   {mode: card, crop: [0.035, 0.085, 0.965, 0.915], tint: aged}
+odysseus_dog:   {mode: card, tint: sepia}
+arthur_sword:   {mode: card, tint: sepia}
+merlin:         {mode: card, tint: sepia}
+krishna_arjuna: {mode: card, crop: [0.03, 0.47, 0.97, 0.975]}
+ravana:         {mode: card, crop: [0.42, 0.12, 0.875, 0.88]}
+guanyin:        {mode: rembg, crop: [0.0, 0.0, 1.0, 0.90]}
+loki:           {mode: card, tint: aged}
+anansi:         {mode: card, tint: aged}
+sun_wukong:     {mode: card}
+
+# ── Thinkers ────────────────────────────────────────────────
+jung:           {mode: rembg, crop: [0.52, 0.35, 0.85, 0.935], grey: true, min_h: 900}
+campbell:       {mode: rembg, grey: true}
+popper:         {mode: rembg, grey: true}
+deutsch:        {mode: rembg, grey: true}
+cover_hero1000: {mode: card}
+cover_boi:      {mode: card}
+
+# ── Zelda ───────────────────────────────────────────────────
+link:           {mode: card}                     # Hyrule Historia: many Links = "new forms"
+link_oot:       {mode: card}
+link_botw:      {mode: rembg}
+oot_cover:      {mode: card}
+oot_battle:     {mode: card}
+zelda:          {mode: rembg}
+ganondorf:      {mode: rembg}
+master_sword:   {mode: alpha, thresh: 60}
+
+# ── Modern heroes ───────────────────────────────────────────
+frodo:          {mode: rembg}
+sam: {mode: rembg, crop: [0.26, 0.0, 0.76, 1.0]}
+aragorn:        {mode: rembg}
+master_chief:   {mode: rembg}
+luke:           {mode: card}
+kusanagi:       {mode: card, crop: [0.0, 0.0, 1.0, 0.72]}
+guts:           {mode: rembg}
+goku:           {mode: rembg, crop: [0.0, 0.06, 0.56, 1.0]}
+naruto:         {mode: card, crop: [0.0, 0.0, 1.0, 0.86]}
+nausicaa:       {mode: rembg, crop: [0.22, 0.0, 0.80, 1.0]}
+nausicaa_study: {mode: card}
+nausicaa_garden: {mode: card}
+neo:            {mode: rembg}
+deckard: {mode: card, crop: [0.12, 0.0, 1.0, 1.0]}
+br2049:         {mode: card}
+vader:          {mode: rembg}
+gandalf:        {mode: card, tint: aged, crop: [0.5, 0.0, 1.0, 1.0]}
