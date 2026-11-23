@@ -1,0 +1,14 @@
+  §1  The Question         15.5s
+  §2  Campbell             37.4s
+  §3  Link                 45.9s
+  §4  Gilgamesh            31.5s
+  §5  Master Chief         40.4s
+  §6  Guts                 36.9s
+  §7  Aragorn              32.0s
+  §8  Frodo & Sam          33.6s
+  §9  Allies & Shadows     21.0s
+  §10 Nausicaä             20.8s
+  §11 K                    26.1s
+  §12 Popper & Deutsch     37.1s
+  §13 Infinite Faces       46.5s
+duration 450.2s (7:30.2)

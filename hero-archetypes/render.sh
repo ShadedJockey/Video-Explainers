@@ -10,6 +10,14 @@
 #   ./render.sh vertical   60 s 9:16 Shorts cut (Zelda section) → final/hero_archetypes_vertical.mp4
 #   ./render.sh docs       regenerate script/storyboard.md and the Images table in sources.md
 #   ./render.sh still 42.5 render single frames (seconds or refs like s3.2@0.5) → build/still_*.png
+#
+#   Draft 2 — "The Hero With Infinite Faces" (vertical, text-led collage; settings in draft2/config.yaml)
+#   ./render.sh v2-harvest   download themed public-domain art → assets/collage/
+#   ./render.sh v2-voice     narration from draft2/narration.md → draft2/build/vo.wav + captions
+#   ./render.sh v2-preview   540×960 preview → draft2/build/preview_540x960.mp4
+#   ./render.sh v2-final     1080×1920 → final/hero_infinite_faces_vertical.mp4
+#   ./render.sh v2-still s3.2@0.5   single frames → draft2/build/still_*.png
+#   ./render.sh v2-docs      regenerate draft2/storyboard.md + draft2/collage_sources.md
 set -euo pipefail
 cd "$(dirname "$0")"
 PY=.venv/bin/python
@@ -40,6 +48,12 @@ case "${1:-preview}" in
   vertical) $PY tools/render_vertical.py ;;
   docs)     $PY tools/make_docs.py ;;
   still)    $PY tools/render.py still "${@:2}" ;;
+  v2-harvest) $PY tools/harvest_esoteric.py ;;
+  v2-voice)   $PY tools/v2_voice.py ;;
+  v2-preview) $PY tools/render_v2.py preview ;;
+  v2-final)   $PY tools/render_v2.py final ;;
+  v2-still)   $PY tools/render_v2.py still "${@:2}" ;;
+  v2-docs)    $PY tools/v2_docs.py ;;
   all)      $PY tools/make_cutouts.py && $PY tools/make_voiceover.py && $PY tools/make_docs.py && $PY tools/render.py final ;;
-  *) sed -n '2,14p' "$0"; exit 1 ;;
+  *) sed -n '2,22p' "$0"; exit 1 ;;
 esac

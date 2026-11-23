@@ -1,0 +1,132 @@
+# ─────────────────────────────────────────────────────────────
+#  Draft 2: "The Hero With Infinite Faces". Render settings.
+#  Style reference: style/collage_style_prompt.md
+#  Build: ./render.sh v2-voice | v2-preview | v2-final | v2-still <t>
+# ─────────────────────────────────────────────────────────────
+
+output:
+  final:   {width: 1080, height: 1920, fps: 30, crf: 20, preset: medium,   file: final/hero_infinite_faces_vertical.mp4}
+  preview: {width: 540,  height: 960,  fps: 15, crf: 28, preset: veryfast, file: draft2/build/preview_540x960.mp4}
+
+voice:
+  engine: kokoro
+  kokoro_voice: af_heart          # calm, warm; alternatives: bf_emma, am_michael, bm_george
+  speed: 0.93                     # slightly unhurried
+  gap_between_lines: 0.45
+  gap_between_sections: 1.5
+  lead_in: 3.0                    # title card holds before the first word
+  tail: 4.5                       # outro hold (end tag)
+  pronunciations:
+    "Nausicaä": "Now-sick-ah"
+    "Utnapishtim": "Oot-nah-pish-teem"
+    "Enkidu": "En-kee-doo"
+    "Uruk": "Oo-rook"
+    "Gilgamesh": "Gill-guh-mesh"
+    "Isildur": "Iz-il-door"
+    "Estel": "Es-tell"
+    "Hyrule": "High-rule"
+    "Deku": "Day-koo"
+    "Ganondorf": "Gan-on-dorf"
+    "Deutsch": "Doytch"
+    "Ravana": "Rah-vah-nuh"
+    "Cortana": "Cor-tah-nuh"
+    "Casca": "Cass-kuh"
+    "monomyth": "mono-myth"
+
+music:
+  file: assets/music.mp3          # your royalty-free bed; if missing, the generated drone below is used
+  placeholder_drone: true         # original ambient drone made by tools/make_drone.py (no rights issues)
+  level_db: -24                   # bed level between lines
+  duck_db: 6                      # bed dips this much under the voice
+  duck_attack: 0.3
+  duck_release: 0.8
+
+# ── Look ─────────────────────────────────────────────────────
+fonts:
+  body:        assets/fonts/EBGaramond-Variable.ttf
+  body_italic: assets/fonts/EBGaramond-Italic-Variable.ttf
+  title:       assets/fonts/InstrumentSerif-Regular.ttf
+  title_italic: assets/fonts/InstrumentSerif-Italic.ttf
+
+colors:
+  strip: "#f6f1e6"                # warm paper white behind text
+  ink: "#141110"
+  end_tag_bg: "#0d0b0a"
+  end_tag_ink: "#f6f1e6"
+
+text:                             # sizes as fractions of frame width (W) / height (H)
+  size_w: 0.047                   # body font size ≈ 51 px at 1080 wide
+  max_width_w: 0.84               # longest line incl. padding
+  pad_x_w: 0.028
+  strip_h_em: 1.42                # strip height in ems
+  gap_h: 0.0042                   # gap between strips
+  para_gap_h: 0.012
+  column_top_h: 0.195
+  column_bottom_h: 0.76           # scroll when the stack passes this
+  left_x_w: [0.0, 0.045]          # paragraph indents are picked in this range
+  reveal_s: 0.22                  # left-to-right wipe per line
+  scroll_s: 0.38
+  section_clear_s: 0.5            # column slides away at each new section
+
+tags:
+  series: "Infinite Faces"        # left tag (bold); right tag shows the section's [tag: …]
+  y_h: 0.112
+  size_w: 0.036
+  right_x_w: 0.45
+  end_text: "Subscribe"           # replaces the topic tag on the black end tag
+
+title:
+  image: "query:Knight Death and the Devil"   # an image id, or "query:<harvest query>" (first match)
+  line1: "The Hero with"
+  line2: "*Infinite* Faces"
+  subtitle: "Campbell, Popper, Deutsch, and the problem that never ends"
+  size_w: 0.135
+  box: [0.0, 0.50, 0.70, 0.765]   # x0, y0, x1, y1 as fractions
+
+collage:
+  seed: 11
+  mean_gap_s: 0.95                # average time between landing pieces
+  cluster: [1, 4]                 # pieces per burst
+  size_w: [0.32, 0.78]
+  slide_s: [0.22, 0.5]
+  rotation_deg: 3.0
+  cut_mix: {rect: 0.5, poly: 0.4, torn: 0.1}
+  relevance: 0.45                 # share of pieces drawn from the section's themes
+  hero_size_w: [0.62, 0.92]       # hero images land bigger
+  swatch_share: 0.16              # flat colour / starfield swatches
+  swatches: ["#4a1c1f", "#6b2a2e", "#2a2340", "#1c2433", "#14182a", "#0e0f1c", "#b08a3e", "#c9a253", "#2f3b2f", "#5a1e2a", "#101014", "#1b1430"]
+  grade: {desaturate: 0.22, warm: 0.07, contrast: 1.1, vignette: 0.45, darken: 0.82}
+  finale_rate_s: 0.14             # gap between faces during the "infinite faces" cascade
+
+# Hero images per section (ids from assets/cutouts.yaml / image_manifest.yaml).
+# The first one lands as soon as the section starts.
+heroes:
+  1:  [cover_hero1000, gilgamesh, link_botw, heracles]
+  2:  [campbell, cover_hero1000]
+  3:  [link_oot, master_sword, oot_battle, ganondorf, link, link_botw]
+  4:  [gilgamesh, flood_tablet]
+  5:  [master_chief]
+  6:  [guts]
+  7:  [aragorn]
+  8:  [frodo, sam]
+  9:  [gandalf, ganondorf, vader, ravana]
+  10: [nausicaa_study, nausicaa_garden, nausicaa]
+  11: [br2049, deckard]
+  12: [popper, deutsch, cover_boi]
+  13: [luke, neo, goku, naruto, kusanagi, link_botw, guts, master_chief, frodo, sam, aragorn, nausicaa, gilgamesh, heracles, deckard, link_oot, krishna_arjuna, guanyin, odysseus, anansi, merlin]
+
+# Collage themes per section (see tools/harvest_esoteric.py)
+themes:
+  1:  [question, infinite, esoteric]
+  2:  [campbell, cosmos, esoteric]
+  3:  [link, cycle]
+  4:  [gilgamesh]
+  5:  [chief, cosmos]
+  6:  [guts, shadow]
+  7:  [aragorn, cosmos]
+  8:  [frodo]
+  9:  [wisdom, shadow]
+  10: [nausicaa]
+  11: [k]
+  12: [explain, cycle, infinity]
+  13: [infinite, question, cosmos]

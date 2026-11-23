@@ -1,10 +1,11 @@
+*.pyc
 .venv/
 __pycache__/
-build/models/
-build/masks/
-build/vo/lines/
-build/still_*.png
 build/*.log
+build/masks/
 build/mix.wav
-*.pyc
+build/models/
+build/still_*.png
 build/vo/
+build/vo/lines/
+draft2/build/

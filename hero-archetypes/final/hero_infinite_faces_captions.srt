@@ -1,0 +1,451 @@
+1
+00:00:03,000 --> 00:00:07,816
+In 1949, Joseph Campbell gave the hero a thousand faces.
+
+2
+00:00:08,266 --> 00:00:10,311
+Gilgamesh, the Buddha, King Arthur.
+
+3
+00:00:10,311 --> 00:00:13,700
+He believed they were one figure, wearing different masks.
+
+4
+00:00:14,150 --> 00:00:15,923
+But what if a thousand was too few?
+
+5
+00:00:16,373 --> 00:00:18,523
+What if the hero has infinite faces?
+
+6
+00:00:20,023 --> 00:00:22,097
+Campbell called it the monomyth.
+
+7
+00:00:22,097 --> 00:00:25,532
+The hero leaves home, is tested, and returns changed.
+
+8
+00:00:25,982 --> 00:00:28,787
+He drew it as a circle of seventeen stages:
+
+9
+00:00:28,787 --> 00:00:32,701
+the call, the mentor, the threshold, the ordeal, the return.
+
+10
+00:00:33,151 --> 00:00:36,847
+It is a beautiful map. But the territory keeps refusing it.
+
+11
+00:00:37,297 --> 00:00:42,962
+Folklorists pointed out that he chose the stories that fit, and quietly left out the ones that didn't.
+
+12
+00:00:43,412 --> 00:00:47,802
+Real heroes skip stages, repeat them, fail them, and invent new ones.
+
+13
+00:00:48,252 --> 00:00:52,122
+The wise mentor, the magic sword, the guardian at the gate.
+
+14
+00:00:52,122 --> 00:00:53,697
+These are local details.
+
+15
+00:00:53,697 --> 00:00:54,287
+Costumes.
+
+16
+00:00:54,737 --> 00:00:57,424
+Underneath the costumes, something else repeats.
+
+17
+00:00:58,924 --> 00:00:59,757
+Look at Link.
+
+18
+00:01:00,207 --> 00:01:07,837
+In Ocarina of Time he is a boy from the forest, the only child without a fairy, until the Great Deku Tree calls him.
+
+19
+00:01:08,287 --> 00:01:13,788
+He draws the Master Sword, and wakes seven years later in a Hyrule fallen to Ganondorf.
+
+20
+00:01:14,238 --> 00:01:19,450
+Every dungeon is a problem. Every death is an error. Every retry is a correction.
+
+21
+00:01:19,900 --> 00:01:24,129
+And when the story ends, Link does not stay. He returns as someone else.
+
+22
+00:01:24,579 --> 00:01:26,717
+A boy who sails a drowned world.
+
+23
+00:01:26,717 --> 00:01:29,323
+A hero forced into the shape of a wolf.
+
+24
+00:01:29,323 --> 00:01:32,062
+A knight who wakes after a hundred years.
+
+25
+00:01:32,512 --> 00:01:35,069
+A new body, a new Hyrule, a new problem.
+
+26
+00:01:35,519 --> 00:01:39,650
+Across the series, Link is a microcosm of the whole idea:
+
+27
+00:01:39,650 --> 00:01:44,869
+one hero, reborn again and again into problems no one has solved before.
+
+28
+00:01:46,369 --> 00:01:49,213
+The oldest hero we know made the oldest mistake.
+
+29
+00:01:49,663 --> 00:01:54,621
+When his friend Enkidu died, Gilgamesh decided the problem was death itself.
+
+30
+00:01:55,071 --> 00:02:00,082
+He crossed the waters of death to find Utnapishtim, the man who survived the flood.
+
+31
+00:02:00,532 --> 00:02:04,715
+His test was to stay awake for seven nights. He fell asleep at once.
+
+32
+00:02:05,165 --> 00:02:09,496
+He was given a plant that restores youth. A snake stole it while he bathed.
+
+33
+00:02:09,946 --> 00:02:14,583
+So he went home, and showed the boatman the walls of Uruk, the city he had built.
+
+34
+00:02:15,033 --> 00:02:17,861
+He never solved death. He corrected the question.
+
+35
+00:02:19,361 --> 00:02:24,770
+Thousands of years later, a soldier in green armour stands on a ring the size of a world.
+
+36
+00:02:25,220 --> 00:02:32,584
+Master Chief is told that the way to stop the Flood, a parasite that consumes every living mind, is to fire Halo.
+
+37
+00:02:33,034 --> 00:02:36,618
+It is the obvious solution. It is also a catastrophe.
+
+38
+00:02:37,068 --> 00:02:42,107
+Halo does not kill the Flood. It kills their food: every thinking being in range.
+
+39
+00:02:42,557 --> 00:02:47,075
+The guide who promised salvation was asking him to silence the galaxy.
+
+40
+00:02:47,525 --> 00:02:49,331
+So he does the harder thing.
+
+41
+00:02:49,331 --> 00:02:54,877
+He turns back, and with Cortana, overloads his own ship's engines to destroy the ring.
+
+42
+00:02:55,327 --> 00:02:59,794
+Sometimes the hero's greatest act is refusing the answer he was handed.
+
+43
+00:03:01,294 --> 00:03:04,758
+In Berserk, Guts loses everything in a single night:
+
+44
+00:03:04,758 --> 00:03:08,955
+his comrades, his arm, his eye, and the friend he trusted most.
+
+45
+00:03:09,405 --> 00:03:14,911
+His world is ruled by causality, a fate that seems to have planned every horror in advance.
+
+46
+00:03:15,361 --> 00:03:17,834
+For two years he answers with revenge.
+
+47
+00:03:17,834 --> 00:03:21,870
+He hunts demons, and leaves Casca, the woman he loves, behind.
+
+48
+00:03:22,320 --> 00:03:26,338
+It is an error, and the old blacksmith who sheltered them tells him so.
+
+49
+00:03:26,788 --> 00:03:30,312
+Guts turns back. Revenge slowly gives way to protection.
+
+50
+00:03:30,762 --> 00:03:34,181
+The story calls those who resist fate strugglers.
+
+51
+00:03:34,181 --> 00:03:36,414
+Guts has no destiny on his side.
+
+52
+00:03:36,414 --> 00:03:38,159
+Only the refusal to stop.
+
+53
+00:03:39,659 --> 00:03:41,281
+Aragorn inherits a failure.
+
+54
+00:03:41,731 --> 00:03:47,153
+His ancestor Isildur stood at the fire of Mount Doom with the Ring in his hand, and kept it.
+
+55
+00:03:47,603 --> 00:03:52,435
+As a child, Aragorn was hidden under another name: Estel, which means hope.
+
+56
+00:03:52,885 --> 00:03:57,678
+He spends decades as a wanderer before he accepts the crown he was born to.
+
+57
+00:03:58,128 --> 00:04:01,530
+And when the last battle comes, he does not march for victory.
+
+58
+00:04:01,980 --> 00:04:08,030
+He leads a small army to the Black Gate of Mordor, to draw the Dark Lord's eye away from two hobbits.
+
+59
+00:04:08,480 --> 00:04:11,636
+His plan is not to win. It is to buy them a chance.
+
+60
+00:04:13,136 --> 00:04:15,693
+Those two hobbits break Campbell's map completely.
+
+61
+00:04:16,143 --> 00:04:20,337
+At the edge of the fire, Frodo fails. He claims the Ring for himself.
+
+62
+00:04:20,787 --> 00:04:24,400
+The quest survives because of mercy shown long before.
+
+63
+00:04:24,400 --> 00:04:26,942
+Bilbo spared Gollum, and so did Frodo.
+
+64
+00:04:27,392 --> 00:04:31,703
+And it is Gollum, of all creatures, who falls into the fire with the Ring.
+
+65
+00:04:32,153 --> 00:04:35,252
+When Sam cannot carry the Ring for him, he carries Frodo.
+
+66
+00:04:35,702 --> 00:04:40,627
+Frodo does go home. But he cannot stay. Something in him was never repaired.
+
+67
+00:04:41,077 --> 00:04:46,691
+No clean return. No single hero. Errors, mercy, and hope, passed from hand to hand.
+
+68
+00:04:48,191 --> 00:04:51,173
+The figures they meet are not stock characters either.
+
+69
+00:04:51,623 --> 00:04:57,592
+Gandalf, the Great Deku Tree, the elders and the old books are the wisdom of traditions:
+
+70
+00:04:57,592 --> 00:05:00,576
+answers earlier problem-solvers left behind.
+
+71
+00:05:01,026 --> 00:05:04,261
+Wisdom is not a destination. It is a head start.
+
+72
+00:05:04,711 --> 00:05:09,219
+And the villains, Ganondorf, Vader, Ravana, are the problem given a face.
+
+73
+00:05:10,719 --> 00:05:15,245
+Nausicaä lives beside a toxic forest that is slowly swallowing her world.
+
+74
+00:05:15,695 --> 00:05:17,289
+Everyone else wants to burn it.
+
+75
+00:05:17,739 --> 00:05:19,208
+She studies it instead.
+
+76
+00:05:19,208 --> 00:05:25,084
+In a secret room, she grows its plants in clean water and clean sand, and they are harmless.
+
+77
+00:05:25,534 --> 00:05:29,009
+The forest was never the problem. The poisoned soil was.
+
+78
+00:05:29,459 --> 00:05:31,548
+Her heroism is an explanation.
+
+79
+00:05:33,048 --> 00:05:38,534
+In Blade Runner 2049, the replicant K comes to believe he is a miracle:
+
+80
+00:05:38,534 --> 00:05:41,238
+a child born to a replicant mother.
+
+81
+00:05:41,688 --> 00:05:43,469
+For a while, he has a destiny.
+
+82
+00:05:43,919 --> 00:05:48,900
+Then he learns he was wrong. He is not the chosen one. He is no one in particular.
+
+83
+00:05:49,350 --> 00:05:51,365
+And he does the heroic thing anyway.
+
+84
+00:05:51,365 --> 00:05:54,892
+He saves Deckard, and brings him to the daughter he never knew.
+
+85
+00:05:55,342 --> 00:05:59,120
+A hero without a prophecy. A choice, made after the error.
+
+86
+00:06:00,620 --> 00:06:03,389
+So what actually repeats beneath all these faces?
+
+87
+00:06:03,839 --> 00:06:05,695
+Not the stages. The cycle.
+
+88
+00:06:06,145 --> 00:06:06,824
+A problem.
+
+89
+00:06:06,824 --> 00:06:07,367
+A guess.
+
+90
+00:06:07,367 --> 00:06:07,978
+An error.
+
+91
+00:06:07,978 --> 00:06:08,861
+A correction.
+
+92
+00:06:08,861 --> 00:06:12,391
+And then a new problem that no one has faced before.
+
+93
+00:06:12,841 --> 00:06:18,980
+Karl Popper argued that all life is problem solving, and that knowledge grows by finding our mistakes.
+
+94
+00:06:19,430 --> 00:06:21,252
+David Deutsch went further.
+
+95
+00:06:21,252 --> 00:06:24,627
+Every person, he argues, is a universal explainer:
+
+96
+00:06:24,627 --> 00:06:29,082
+able, in principle, to understand anything that can be understood.
+
+97
+00:06:29,532 --> 00:06:32,523
+Problems are inevitable. Problems are soluble.
+
+98
+00:06:32,973 --> 00:06:37,710
+He called his book The Beginning of Infinity, because that process need never end.
+
+99
+00:06:39,210 --> 00:06:41,922
+That is why the hero never repeats exactly.
+
+100
+00:06:42,372 --> 00:06:46,141
+Every problem situation is new, so every hero must be new.
+
+101
+00:06:46,591 --> 00:06:48,735
+A farm boy on a desert planet.
+
+102
+00:06:48,735 --> 00:06:51,022
+A hacker who wakes from a dream.
+
+103
+00:06:51,022 --> 00:06:53,380
+A fighter who passes every limit.
+
+104
+00:06:53,380 --> 00:06:55,524
+An outcast who keeps his word.
+
+105
+00:06:55,524 --> 00:06:57,525
+A cyborg asking what she is.
+
+106
+00:06:57,975 --> 00:07:00,873
+The variety is not noise. It is the evidence.
+
+107
+00:07:01,323 --> 00:07:05,060
+If the hero were a formula, a thousand faces might be enough.
+
+108
+00:07:05,510 --> 00:07:09,207
+But the hero is a problem-solver, and problems never run out.
+
+109
+00:07:09,657 --> 00:07:13,869
+Campbell saw the faces. Popper and Deutsch show us what lies behind them.
+
+110
+00:07:14,319 --> 00:07:16,551
+Call it the Hero With Infinite Faces.
+
+111
+00:07:17,001 --> 00:07:18,982
+And one of those faces could be yours.
+
+112
+00:07:19,432 --> 00:07:21,800
+A hero is not someone who never fails.
+
+113
+00:07:21,800 --> 00:07:25,725
+It is someone who never stops correcting, and never loses hope.

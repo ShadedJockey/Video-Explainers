@@ -1,5 +1,12 @@
 # Hero Archetypes: collage explainer
 
+> **Two drafts live here.**
+> - **Draft 1** (below): *The Hero with a Thousand Faces*, 16:9 sticker-collage explainer, 3:27 → `final/hero_archetypes_1080p.mp4`.
+> - **Draft 2**: *The Hero With Infinite Faces*, vertical 9:16, text-led esoteric archival collage, about 7:30 → `final/hero_infinite_faces_vertical.mp4`. Script: `draft2/narration.md` · settings: `draft2/config.yaml` · style: `style/collage_style_prompt.md` · storyboard: `draft2/storyboard.md`.
+>
+> Draft 2 quick commands: `./render.sh v2-voice` (after editing the script) → `./render.sh v2-preview` → `./render.sh v2-final`.
+> Edit text in `draft2/narration.md`: `**bold**` = bold word on screen, `*…*` = italic line, `[tag: X]` = topic tag. Hero images per section, collage pacing, colours and fonts are in `draft2/config.yaml`. To drop an image from the collage, add its id to `draft2/collage_exclude.txt`. A real music bed goes in `assets/music.mp3` (otherwise a generated drone is used), and a recorded draft-2 voiceover goes in `assets/voiceover_draft2.wav`.
+
 A cut-out paper collage explainer (about 3:27, 1920×1080, 30 fps) about the hero archetype: Link as the Hero of Time, his ancient roots, modern heroes, the supporting cast, and why the hero keeps coming back (Campbell → Popper and Deutsch).
 
 Everything is built from text and data files by a small Python pipeline, so changes are made by editing a file and re-running one command.
