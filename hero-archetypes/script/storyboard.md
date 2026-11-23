@@ -58,13 +58,13 @@ Runtime: **3:26.7** · palettes and fonts in `config.yaml`.
 > Campbell's real discovery wasn't a formula. It was the recurrence itself. So why does every culture keep inventing the same hero? Hold that thought.
 
 - `0:30.9` marker note: “Not a formula.”
-- `0:32.8` cutout **gilgamesh** (pop)
-- `0:33.1` cutout **heracles** (pop)
-- `0:33.5` cutout **guanyin** (pop)
-- `0:33.8` cutout **krishna_arjuna** (pop)
-- `0:34.1` cutout **link_botw** (pop)
-- `0:34.4` cutout **luke** (pop)
-- `0:34.6` cutout **naruto** (pop)
+- `0:32.2` cutout **gilgamesh** (pop)
+- `0:32.5` cutout **heracles** (pop)
+- `0:32.7` cutout **guanyin** (pop)
+- `0:33.0` cutout **krishna_arjuna** (pop)
+- `0:33.2` cutout **link_botw** (pop)
+- `0:33.5` cutout **luke** (pop)
+- `0:33.8` cutout **naruto** (pop)
 - `0:33.5` bold title: “THE RECURRENCE”
 - `0:36.6` rubber stamp: “WHY?”
 - `0:38.4` marker note: “…hold that thought”

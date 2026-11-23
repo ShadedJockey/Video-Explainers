@@ -1,6 +1,6 @@
 # Narration: The Hero with a Thousand Faces
 
-**Status:** v3. Builds the Campbell → Popper/Deutsch link into the spine of the video and extends the runtime to about 3:05 (you gave permission to extend).
+**Status:** v3. Builds the Campbell → Popper/Deutsch link into the spine of the video. The runtime with the placeholder voice is **3:27**, extended with your permission; the montage has longer pauses so a hero lands every 3–4 s.
 **Pace:** about 150 words per minute. The final timings come from the voiceover track (see `build/narration_timing.json` after a build).
 **Main argument:** Campbell noticed that the same hero keeps appearing in every culture. Popper and Deutsch help explain why: every person is a problem-solver, and in Deutsch's phrase a *universal explainer*. A world full of problem-solvers keeps telling stories about one. The hero distils what greatness looks like against a problem: sometimes wrong, never giving up hope or will.
 

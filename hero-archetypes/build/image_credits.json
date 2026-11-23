@@ -408,5 +408,15 @@
   "page": "https://en.wikipedia.org/wiki/File:OcarinaOfTimeBattle.JPG",
   "url": "https://upload.wikimedia.org/wikipedia/en/a/a1/OcarinaOfTimeBattle.JPG",
   "local": "assets/stills/oot_battle.jpg"
+ },
+ "odysseus_dog": {
+  "subject": "Ulysses and his dog Argus, John Flaxman, Odyssey illustrations (1805)",
+  "kind": "pd",
+  "source": "commons",
+  "file": "Flaxman Odyssey Ulysses and his dog.jpg",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Flaxman_Odyssey_Ulysses_and_his_dog.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Flaxman_Odyssey_Ulysses_and_his_dog.jpg",
+  "local": "assets/public_domain/odysseus_dog.jpg"
  }
 }

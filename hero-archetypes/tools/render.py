@@ -517,7 +517,9 @@ class Renderer:
         self.W, self.H, self.fps = o["width"], o["height"], o["fps"]
         self.S = self.H / 1080
         self.mode = mode
-        self.grain = C.grain_frames(self.W, self.H, n=6, strength=7)
+        gcfg = CFG.get("grain", {})
+        self.grain_hold = gcfg.get("hold_frames", 3)
+        self.grain = C.grain_frames(self.W, self.H, n=4, strength=gcfg.get("strength", 2.5)) if gcfg.get("strength", 2.5) > 0 else None
         self.bg_cache = {}
         self.scenes = []
         for i, sc in enumerate(SCENES):
@@ -569,8 +571,9 @@ class Renderer:
             prev = self.scenes[idx - 1]
             old = self.scene_frame(prev, t)
             out = C.paper_tear(old, out, (t - sc["t0"]) / dur, self.S)
-        g = self.grain[int(t * self.fps) % len(self.grain)]
-        out = np.clip(out.astype(np.int16) + g[..., None], 0, 255).astype(np.uint8)
+        if self.grain is not None:
+            g = self.grain[(int(t * self.fps) // self.grain_hold) % len(self.grain)]
+            out = np.clip(out.astype(np.int16) + g[..., None], 0, 255).astype(np.uint8)
         return out
 
 

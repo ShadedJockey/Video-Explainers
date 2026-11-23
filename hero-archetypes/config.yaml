@@ -4,7 +4,7 @@
 # ─────────────────────────────────────────────────────────────
 
 output:
-  final:   {width: 1920, height: 1080, fps: 30, crf: 18, preset: slow,   file: final/hero_archetypes_1080p.mp4}
+  final:   {width: 1920, height: 1080, fps: 30, crf: 20, preset: medium, file: final/hero_archetypes_1080p.mp4}
   preview: {width: 960,  height: 540,  fps: 15, crf: 28, preset: veryfast, file: build/preview_540p.mp4}
 
 # ── Voice ────────────────────────────────────────────────────
@@ -66,6 +66,10 @@ sticker:
   shadow_offset: [10, 14]
   shadow_blur: 14
   shadow_opacity: 0.45
+
+grain:
+  strength: 0        # animated film grain (try 1.5–2.5); off by default: it triples file size and YouTube smears it
+  hold_frames: 3     # grain pattern changes every N frames
 
 motion:
   slide_in: 0.55       # seconds for a cutout to slide in
