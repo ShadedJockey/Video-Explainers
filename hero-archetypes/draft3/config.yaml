@@ -5,7 +5,7 @@
 # ─────────────────────────────────────────────────────────────
 
 output:
-  final:   {width: 1080, height: 1920, fps: 30, crf: 23, preset: slow,     file: final/hero_infinite_faces_v3_vertical.mp4}
+  final:   {width: 1080, height: 1920, fps: 30, crf: 25, preset: slow,     file: final/hero_infinite_faces_v3_vertical.mp4}   # crf 23 gave 110 MB; keep under GitHub's 100 MB
   preview: {width: 540,  height: 960,  fps: 15, crf: 28, preset: veryfast, file: draft3/build/preview_540x960.mp4}
 
 series_name: "SERIES_NAME"        # ← set this to your channel name (header tag + end card)

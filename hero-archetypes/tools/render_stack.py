@@ -214,7 +214,27 @@ class Stack:
             return self.phase_hero(frame, t, plan)
         if t < plan["fan"][0]:
             return self.phase_pull(frame, ease(ph("pull")))
-        return self.phase_stack(frame, t, plan, ph)
+        out = self.phase_stack(frame, t, plan, ph)
+        # continuity: the pull ends with the lineage framed inside TikTok's safe box, while the stack starts with
+        # pane 0 filling the frame height, so start the stack from the pull's framing and ease into its own
+        m = 1 - ease(min(1.0, ph("fan") * 2.2))
+        if m > 1e-3:
+            fs, (fx, fy) = self.pull_end_framing()
+            r = 1 + (fs - 1) * m
+            sc = out.resize((max(1, int(W * r)), max(1, int(H * r))), Image.BILINEAR)
+            base = Image.new("RGBA", (W, H), (10, 8, 14, 255))
+            base.alpha_composite(sc, (int(W / 2 + (fx - W / 2) * m - sc.width / 2), int(H / 2 + (fy - H / 2) * m - sc.height / 2))) \
+                if sc.width <= W else base.paste(sc.crop((0, 0, W, H)))
+            out = base
+        return out
+
+    def pull_end_framing(self):
+        """(scale of pane 0 relative to the stack's opening view, screen centre) at the end of the pull."""
+        W, H = self.W, self.H
+        L = self.lineage
+        bx0, bx1, by0, by1 = 0.0, W * (1 - 140 / 1080), H * 220 / 1920, H * 1440 / 1920
+        s1 = min((bx1 - bx0) / L.width, (by1 - by0) / L.height) * 0.98
+        return (s1 * L.height) / (H * 0.98), ((bx0 + bx1) / 2, (by0 + by1) / 2)
 
     def phase_hero(self, frame, t, plan):
         W, H = self.W, self.H

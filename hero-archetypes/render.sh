@@ -27,6 +27,7 @@
 #   ./render.sh v3-final     1080×1920 → final/hero_infinite_faces_v3_vertical.mp4
 #   ./render.sh v3-still [--safe] s4.10@0.5   single frames (optionally with TikTok's covered areas) → draft3/build/
 #   ./render.sh v3-docs      regenerate draft3/collage_sources.md
+#   ./render.sh v3-range 191.5 197.5   re-render a span at final quality → draft3/build/range_*.mp4 (for splicing)
 set -euo pipefail
 cd "$(dirname "$0")"
 PY=.venv/bin/python
@@ -70,6 +71,7 @@ case "${1:-preview}" in
   v3-final)   $PY tools/render_v3.py final ;;
   v3-still)   $PY tools/render_v3.py still "${@:2}" ;;
   v3-docs)    $PY tools/v3_docs.py ;;
+  v3-range)   $PY tools/render_v3.py range "${@:2}" ;;
   all)      $PY tools/make_cutouts.py && $PY tools/make_voiceover.py && $PY tools/make_docs.py && $PY tools/render.py final ;;
-  *) sed -n '2,32p' "$0"; exit 1 ;;
+  *) sed -n '2,33p' "$0"; exit 1 ;;
 esac

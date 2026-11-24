@@ -1216,7 +1216,7 @@ class Renderer:
                 else:
                     im = gr(self.feature(ev["art"], ev["w"] * W, rot=ev["rot"], cut="rect"))
                 land(im, ev["x"] * W, ev["t"], edge=(-1 if ev["x"] < 0.5 else 1), dur=0.3, y=ev["y"] * H - im.height / 2)
-        if "flammarion" in NAMED and T("s11.8") - 0.2 <= t < SECS[12]["start"] - 0.7:
+        if "flammarion" in NAMED and T("s11.8") - 0.2 <= t < self.reprise[0] + 1.3:   # held until the reprise covers it
             fl = self.load_art_named("flammarion")
             u = ease((t - T("s11.8") + 0.2) / 0.8)
             # starfield beyond the sky, then the engraving
@@ -1384,6 +1384,22 @@ def main():
             print(out.relative_to(ROOT), f"t={T(ref):.2f}")
         if MISSING:
             print("missing hero images:", sorted(MISSING))
+        return
+    if mode == "range":
+        # re-render frames [a, b) seconds at final quality into a near-lossless clip, for splicing into the master
+        a, b = float(args[1]), float(args[2])
+        R = Renderer("final")
+        i0, i1 = round(a * R.fps), round(b * R.fps)
+        out = D3 / "build" / f"range_{i0}_{i1}.mp4"
+        import subprocess
+        pr = subprocess.Popen(["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{R.W}x{R.H}",
+                               "-r", str(R.fps), "-i", "-", "-c:v", "libx264", "-crf", "10", "-preset", "medium",
+                               "-pix_fmt", "yuv420p", str(out)], stdin=subprocess.PIPE)
+        for i in range(i0, i1):
+            pr.stdin.write(np.ascontiguousarray(R.frame(i / R.fps)).tobytes())
+        pr.stdin.close()
+        pr.wait()
+        print("wrote", out.relative_to(ROOT), i0, i1)
         return
     from moviepy.editor import AudioFileClip, VideoClip
     R = Renderer(mode)
