@@ -18,6 +18,15 @@
 #   ./render.sh v2-final     1080×1920 → final/hero_infinite_faces_vertical.mp4
 #   ./render.sh v2-still s3.2@0.5   single frames → draft2/build/still_*.png
 #   ./render.sh v2-docs      regenerate draft2/storyboard.md + draft2/collage_sources.md
+#
+#   Draft 3 — TikTok cut (settings in draft3/config.yaml, design in draft3/DESIGN.md)
+#   ./render.sh v3-harvest   themed art + named works → assets/collage/, assets/v3/
+#   ./render.sh v3-voice     narration from draft3/narration.md → draft3/build/vo.wav, timing, draft3/*.srt
+#   ./render.sh v3-sound     drone envelope + foley → draft3/build/sound_bed.wav
+#   ./render.sh v3-preview   540×960 preview → draft3/build/preview_540x960.mp4
+#   ./render.sh v3-final     1080×1920 → final/hero_infinite_faces_v3_vertical.mp4
+#   ./render.sh v3-still [--safe] s4.10@0.5   single frames (optionally with TikTok's covered areas) → draft3/build/
+#   ./render.sh v3-docs      regenerate draft3/collage_sources.md
 set -euo pipefail
 cd "$(dirname "$0")"
 PY=.venv/bin/python
@@ -54,6 +63,13 @@ case "${1:-preview}" in
   v2-final)   $PY tools/render_v2.py final ;;
   v2-still)   $PY tools/render_v2.py still "${@:2}" ;;
   v2-docs)    $PY tools/v2_docs.py ;;
+  v3-harvest) $PY tools/harvest_v3.py themes && $PY tools/harvest_v3.py named && $PY tools/harvest_v3.py commons ;;
+  v3-voice)   $PY tools/v3_voice.py ;;
+  v3-sound)   $PY tools/make_sound_v3.py ;;
+  v3-preview) $PY tools/render_v3.py preview ;;
+  v3-final)   $PY tools/render_v3.py final ;;
+  v3-still)   $PY tools/render_v3.py still "${@:2}" ;;
+  v3-docs)    $PY tools/v3_docs.py ;;
   all)      $PY tools/make_cutouts.py && $PY tools/make_voiceover.py && $PY tools/make_docs.py && $PY tools/render.py final ;;
-  *) sed -n '2,22p' "$0"; exit 1 ;;
+  *) sed -n '2,32p' "$0"; exit 1 ;;
 esac

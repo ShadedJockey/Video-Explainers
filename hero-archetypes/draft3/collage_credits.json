@@ -1,0 +1,2798 @@
+{
+ "cma_162888": {
+  "id": "cma_162888",
+  "img": "https://openaccess-cdn.clevelandart.org/2003.37/2003.37_web.jpg",
+  "title": "Study of Hands (1842)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2003.37",
+  "themes": [
+   "hands",
+   "prologue"
+  ],
+  "query": "hands",
+  "local": "assets/collage/cma_162888.jpg"
+ },
+ "cma_111054": {
+  "id": "cma_111054",
+  "img": "https://openaccess-cdn.clevelandart.org/1929.549.a/1929.549.a_web.jpg",
+  "title": "Studies of Hands (recto) (c. 1586)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1929.549.a",
+  "themes": [
+   "hands",
+   "prologue"
+  ],
+  "query": "hands",
+  "local": "assets/collage/cma_111054.jpg"
+ },
+ "cma_111053": {
+  "id": "cma_111053",
+  "img": "https://openaccess-cdn.clevelandart.org/1929.549/1929.549_web.jpg",
+  "title": "Studies of Hands (recto); Sketch of a Child's Head (verso) (c. 1586)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1929.549",
+  "themes": [
+   "hands",
+   "prologue"
+  ],
+  "query": "hands",
+  "local": "assets/collage/cma_111053.jpg"
+ },
+ "cma_396848": {
+  "id": "cma_396848",
+  "img": "https://openaccess-cdn.clevelandart.org/2020.260/2020.260_web.jpg",
+  "title": "Study of a Man with Hands in His Pockets (1893)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2020.260",
+  "themes": [
+   "hands",
+   "prologue"
+  ],
+  "query": "hands",
+  "local": "assets/collage/cma_396848.jpg"
+ },
+ "cma_125010": {
+  "id": "cma_125010",
+  "img": "https://openaccess-cdn.clevelandart.org/1946.447.a/1946.447.a_web.jpg",
+  "title": "Study of Hands (recto) (1700s)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1946.447.a",
+  "themes": [
+   "hands",
+   "prologue"
+  ],
+  "query": "hands",
+  "local": "assets/collage/cma_125010.jpg"
+ },
+ "wellcome_bfrwyc62": {
+  "id": "wellcome_bfrwyc62",
+  "img": "https://iiif.wellcomecollection.org/image/V0008612/full/1100,/0/default.jpg",
+  "title": "The hand: three figures, (left to right) bones, muscles, and surface anatomy. Colour lithograph, 1868, after J.A. Vinter.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/z3p6av79",
+  "themes": [
+   "hands",
+   "prologue"
+  ],
+  "query": "hand anatomy",
+  "local": "assets/collage/wellcome_bfrwyc62.jpg"
+ },
+ "wellcome_qjdk885g": {
+  "id": "wellcome_qjdk885g",
+  "img": "https://iiif.wellcomecollection.org/image/V0048804/full/1100,/0/default.jpg",
+  "title": "Anatomy: écorché palm of the hand showing muscles, nerves, vessels and tendons. Photograph, ca. 1900.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/peu258t6",
+  "themes": [
+   "hands",
+   "prologue"
+  ],
+  "query": "hand anatomy",
+  "local": "assets/collage/wellcome_qjdk885g.jpg"
+ },
+ "wellcome_s5mbw6x6": {
+  "id": "wellcome_s5mbw6x6",
+  "img": "https://iiif.wellcomecollection.org/image/L0009775/full/1100,/0/default.jpg",
+  "title": "Johann Georg Roederer, professor of anatomy and midwifery at Goettingen, with left hand on glass jar containing foetus. Engraving by J.P. Kaltenhofer after himself.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ppkgu768",
+  "themes": [
+   "hands",
+   "prologue"
+  ],
+  "query": "hand anatomy",
+  "local": "assets/collage/wellcome_s5mbw6x6.jpg"
+ },
+ "wellcome_wpvvh85v": {
+  "id": "wellcome_wpvvh85v",
+  "img": "https://iiif.wellcomecollection.org/image/V0005056/full/1100,/0/default.jpg",
+  "title": "Johann Georg Roederer, professor of anatomy and midwifery at Goettingen, with left hand on glass jar containing foetus. Engraving by J.P. Kaltenhofer after himself.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ppkgu768",
+  "themes": [
+   "hands",
+   "prologue"
+  ],
+  "query": "hand anatomy",
+  "local": "assets/collage/wellcome_wpvvh85v.jpg"
+ },
+ "wellcome_uwydyzm9": {
+  "id": "wellcome_uwydyzm9",
+  "img": "https://iiif.wellcomecollection.org/image/V0008227/full/1100,/0/default.jpg",
+  "title": "Écorché leg of man riding a horse, and écorché hand with outstretched palm. Pencil and ink wash drawing, after an unidentified work on anatomy, ca. 1830(?).",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/zpzjpkdj",
+  "themes": [
+   "hands",
+   "prologue"
+  ],
+  "query": "hand anatomy",
+  "local": "assets/collage/wellcome_uwydyzm9.jpg"
+ },
+ "wellcome_saq8mta3": {
+  "id": "wellcome_saq8mta3",
+  "img": "https://iiif.wellcomecollection.org/image/V0045268/full/1100,/0/default.jpg",
+  "title": "A torch-bearer and wife. Gouache drawing.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/tpbvz2se",
+  "themes": [
+   "fire",
+   "prologue",
+   "tradition"
+  ],
+  "query": "torch",
+  "local": "assets/collage/wellcome_saq8mta3.jpg"
+ },
+ "wellcome_ukwhwfx2": {
+  "id": "wellcome_ukwhwfx2",
+  "img": "https://iiif.wellcomecollection.org/image/L0027365/full/1100,/0/default.jpg",
+  "title": "A burning torch representing Hale's life tonic. Process print.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/knyjccac",
+  "themes": [
+   "fire",
+   "prologue",
+   "tradition"
+  ],
+  "query": "torch",
+  "local": "assets/collage/wellcome_ukwhwfx2.jpg"
+ },
+ "wellcome_ha7z5bcc": {
+  "id": "wellcome_ha7z5bcc",
+  "img": "https://iiif.wellcomecollection.org/image/V0049706/full/1100,/0/default.jpg",
+  "title": "Two winged boys, one of whom holds a lighted torch. Etching, unfinished, after A. Carracci.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/qfrpcmkj",
+  "themes": [
+   "fire",
+   "prologue",
+   "tradition"
+  ],
+  "query": "torch",
+  "local": "assets/collage/wellcome_ha7z5bcc.jpg"
+ },
+ "wellcome_z5g3cwfe": {
+  "id": "wellcome_z5g3cwfe",
+  "img": "https://iiif.wellcomecollection.org/image/V0015963/full/1100,/0/default.jpg",
+  "title": "A Dayak shaman or medicine man holding a flaming torch and some charms. Wood engraving.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/xrt9ke67",
+  "themes": [
+   "fire",
+   "prologue",
+   "tradition"
+  ],
+  "query": "torch",
+  "local": "assets/collage/wellcome_z5g3cwfe.jpg"
+ },
+ "wellcome_anfbf88t": {
+  "id": "wellcome_anfbf88t",
+  "img": "https://iiif.wellcomecollection.org/image/V0044348/full/1100,/0/default.jpg",
+  "title": "A torch lily (Kniphofia alooides): flowering stem, leaf and floral segments. Coloured engraving, c. 1799, after H. Andrews.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/djmuttbj",
+  "themes": [
+   "fire",
+   "prologue",
+   "tradition"
+  ],
+  "query": "torch",
+  "local": "assets/collage/wellcome_anfbf88t.jpg"
+ },
+ "cma_149782": {
+  "id": "cma_149782",
+  "img": "https://openaccess-cdn.clevelandart.org/1979.93/1979.93_web.jpg",
+  "title": "Sibyl Reading with a Child Holding a Torch (1518–27)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1979.93",
+  "themes": [
+   "fire",
+   "prologue",
+   "tradition"
+  ],
+  "query": "torch",
+  "local": "assets/collage/cma_149782.jpg"
+ },
+ "cma_138393": {
+  "id": "cma_138393",
+  "img": "https://openaccess-cdn.clevelandart.org/1962.32/1962.32_web.jpg",
+  "title": "Panel with Royal Woman (c. 795)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1962.32",
+  "themes": [
+   "fire",
+   "prologue",
+   "tradition"
+  ],
+  "query": "torch",
+  "local": "assets/collage/cma_138393.jpg"
+ },
+ "cma_127481": {
+  "id": "cma_127481",
+  "img": "https://openaccess-cdn.clevelandart.org/1950.161/1950.161_web.jpg",
+  "title": "Eccentric Flint (600–900)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1950.161",
+  "themes": [
+   "fire",
+   "prologue",
+   "tradition"
+  ],
+  "query": "torch",
+  "local": "assets/collage/cma_127481.jpg"
+ },
+ "cma_120473": {
+  "id": "cma_120473",
+  "img": "https://openaccess-cdn.clevelandart.org/1941.294.b/1941.294.b_web.jpg",
+  "title": "Tetradrachm: Zeus, Seated, l., Holding Staff and Eagle, Torch Left (reverse) (336–323 BCE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1941.294.b",
+  "themes": [
+   "fire",
+   "prologue",
+   "tradition"
+  ],
+  "query": "torch",
+  "local": "assets/collage/cma_120473.jpg"
+ },
+ "cma_147424": {
+  "id": "cma_147424",
+  "img": "https://openaccess-cdn.clevelandart.org/1973.167/1973.167_web.jpg",
+  "title": "Hercules and the Hydra (late 1500s-early 1600s)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1973.167",
+  "themes": [
+   "fire",
+   "prologue",
+   "tradition"
+  ],
+  "query": "torch",
+  "local": "assets/collage/cma_147424.jpg"
+ },
+ "cma_152017": {
+  "id": "cma_152017",
+  "img": "https://openaccess-cdn.clevelandart.org/1984.68/1984.68_web.jpg",
+  "title": "Fire-flame Cooking Vessel (Ka'en Doki) (c. 2500 BCE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1984.68",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "fire flames",
+  "local": "assets/collage/cma_152017.jpg"
+ },
+ "cma_133111": {
+  "id": "cma_133111",
+  "img": "https://openaccess-cdn.clevelandart.org/1955.51/1955.51_web.jpg",
+  "title": "Agni, God of Fire (c. 1000)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1955.51",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "fire flames",
+  "local": "assets/collage/cma_133111.jpg"
+ },
+ "cma_122351": {
+  "id": "cma_122351",
+  "img": "https://openaccess-cdn.clevelandart.org/1942.647/1942.647_web.jpg",
+  "title": "The Burning of the Houses of Lords and Commons, 16 October 1834 (1835)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1942.647",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "fire flames",
+  "local": "assets/collage/cma_122351.jpg"
+ },
+ "cma_132030": {
+  "id": "cma_132030",
+  "img": "https://openaccess-cdn.clevelandart.org/1954.593/1954.593_web.jpg",
+  "title": "Fire Altar Intaglio (c. 400 CE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1954.593",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "fire flames",
+  "local": "assets/collage/cma_132030.jpg"
+ },
+ "cma_123468": {
+  "id": "cma_123468",
+  "img": "https://openaccess-cdn.clevelandart.org/1943.72/1943.72_web.jpg",
+  "title": "Veneration of the Buddha as a Fiery Pillar (200s CE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1943.72",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "fire flames",
+  "local": "assets/collage/cma_123468.jpg"
+ },
+ "wellcome_cwcsazs5": {
+  "id": "wellcome_cwcsazs5",
+  "img": "https://iiif.wellcomecollection.org/image/V0035425/full/1100,/0/default.jpg",
+  "title": "A procession to St. Mary's Church, Cambridge, and the burning of Protestant books in Cambridge marketplace. Etching by G. Terry.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/mfenszme",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "burning books",
+  "local": "assets/collage/wellcome_cwcsazs5.jpg"
+ },
+ "wellcome_fwrsh2b6": {
+  "id": "wellcome_fwrsh2b6",
+  "img": "https://iiif.wellcomecollection.org/image/V0034987/full/1100,/0/default.jpg",
+  "title": "Residents of Ephesus burn their books on the magic arts before Saint Paul. Engraving, 18th century, after J. Thornhill.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/t672pvzv",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "burning books",
+  "local": "assets/collage/wellcome_fwrsh2b6.jpg"
+ },
+ "wellcome_gzttkz2a": {
+  "id": "wellcome_gzttkz2a",
+  "img": "https://iiif.wellcomecollection.org/image/V0040284/full/1100,/0/default.jpg",
+  "title": "A young woman is leaning against a wall reading a book as snowflakes fall. Wood engraving by Dalziel Brothers, 1863, after E. Burne-Jones.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/n745jcc6",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "burning books",
+  "local": "assets/collage/wellcome_gzttkz2a.jpg"
+ },
+ "wellcome_u84kajmx": {
+  "id": "wellcome_u84kajmx",
+  "img": "https://iiif.wellcomecollection.org/image/V0014249/full/1100,/0/default.jpg",
+  "title": "A procession to St. Mary's Church, Oxford by the convocations of the Universities of Oxford and Cambridge; and the burning of the bones of Protestant theologians in Cambridge. Line engraving by Myers.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/kry3ryfw",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "burning books",
+  "local": "assets/collage/wellcome_u84kajmx.jpg"
+ },
+ "wellcome_hmy3y9bc": {
+  "id": "wellcome_hmy3y9bc",
+  "img": "https://iiif.wellcomecollection.org/image/L0038805/full/1100,/0/default.jpg",
+  "title": "Chinese woodcut: Shingles and other itchy rashes",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/w57xyf3g",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "burning books",
+  "local": "assets/collage/wellcome_hmy3y9bc.jpg"
+ },
+ "aic_12977": {
+  "id": "aic_12977",
+  "img": "https://www.artic.edu/iiif/2/4bdff9ea-3a92-cde8-b3a2-0bde3f0d717a/full/843,/0/default.jpg",
+  "title": "Cupid's Hunting Fields (1885) Sir Edward Burne-Jones",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/12977",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "book burning",
+  "local": "assets/collage/aic_12977.jpg"
+ },
+ "aic_7169": {
+  "id": "aic_7169",
+  "img": "https://www.artic.edu/iiif/2/0534abcb-8bf1-dbc8-16a7-5eeb818dbcf7/full/843,/0/default.jpg",
+  "title": "Perseus and Andromeda, study for The Doom Fulfilled (1875) Sir Edward Burne-Jones",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/7169",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "book burning",
+  "local": "assets/collage/aic_7169.jpg"
+ },
+ "aic_78901": {
+  "id": "aic_78901",
+  "img": "https://www.artic.edu/iiif/2/21757a3a-55bd-f3a4-0d3b-600e61b65d43/full/843,/0/default.jpg",
+  "title": "Back View of Standing Male Nude (c. 1873–77) Sir Edward Burne-Jones",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/78901",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "book burning",
+  "local": "assets/collage/aic_78901.jpg"
+ },
+ "aic_78919": {
+  "id": "aic_78919",
+  "img": "https://www.artic.edu/iiif/2/ff53f5a9-7264-bf30-8543-6e46b5ad9074/full/843,/0/default.jpg",
+  "title": "Semi-Nude Female Figure with Mirror in Right Hand (c. 1873–77) Sir Edward Burne-Jones",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/78919",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "book burning",
+  "local": "assets/collage/aic_78919.jpg"
+ },
+ "aic_78963": {
+  "id": "aic_78963",
+  "img": "https://www.artic.edu/iiif/2/520f2660-9a16-a62f-acc7-36fba2b620e8/full/843,/0/default.jpg",
+  "title": "Backview of Standing Nude Woman and Sketch of a Foot (c. 1873–77) Sir Edward Burne-Jones",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/78963",
+  "themes": [
+   "fire",
+   "prologue"
+  ],
+  "query": "book burning",
+  "local": "assets/collage/aic_78963.jpg"
+ },
+ "wellcome_ys9bvgrf": {
+  "id": "wellcome_ys9bvgrf",
+  "img": "https://iiif.wellcomecollection.org/image/V0009167/full/1100,/0/default.jpg",
+  "title": "A physiognomy exemplifying what Lavater calls the 'homogeneity' of the face. Drawing, c. 1791.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/afqc2jwh",
+  "themes": [
+   "faces",
+   "scripture"
+  ],
+  "query": "physiognomy faces",
+  "local": "assets/collage/wellcome_ys9bvgrf.jpg"
+ },
+ "wellcome_qws7a86f": {
+  "id": "wellcome_qws7a86f",
+  "img": "https://iiif.wellcomecollection.org/image/V0009309EC/full/1100,/0/default.jpg",
+  "title": "A man whose face expresses (according to the study of physiognomy) austerity blended with wit and rhetorical powers. Engraving by Barlow, 19th century.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/qhp8qvz6",
+  "themes": [
+   "faces",
+   "scripture"
+  ],
+  "query": "physiognomy faces",
+  "local": "assets/collage/wellcome_qws7a86f.jpg"
+ },
+ "wellcome_v8vm5tdu": {
+  "id": "wellcome_v8vm5tdu",
+  "img": "https://iiif.wellcomecollection.org/image/L0067696/full/1100,/0/default.jpg",
+  "title": "New physiognomy, or, Signs of character as manifested through temperament and external forms, and especially in \"the human face divine\" / by Samuel R. Wells...with more than one thousand illustrations.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/kr8f69m9",
+  "themes": [
+   "faces",
+   "scripture"
+  ],
+  "query": "physiognomy faces",
+  "local": "assets/collage/wellcome_v8vm5tdu.jpg"
+ },
+ "wellcome_btx8brva": {
+  "id": "wellcome_btx8brva",
+  "img": "https://iiif.wellcomecollection.org/image/V0009459/full/1100,/0/default.jpg",
+  "title": "A profile of an old mentally disabled man, skulls of various races, skulls of a monkey and an orangutan, and a perfect, diagrammed human face; demonstrating the methods of physiognomy. Coloured engraving by H. Adlard, 1824.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/pbp4j9ka",
+  "themes": [
+   "faces",
+   "scripture"
+  ],
+  "query": "physiognomy faces",
+  "local": "assets/collage/wellcome_btx8brva.jpg"
+ },
+ "wellcome_b5bz2scq": {
+  "id": "wellcome_b5bz2scq",
+  "img": "https://iiif.wellcomecollection.org/image/b11917842_V0009408-LS-LS.jp2/full/1100,/0/default.jpg",
+  "title": "Designs showing the lower half of the face in various physiognomies and actions. Engraving after C. Le Brun.",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/yyw3y5t9",
+  "themes": [
+   "faces",
+   "scripture"
+  ],
+  "query": "physiognomy faces",
+  "local": "assets/collage/wellcome_b5bz2scq.jpg"
+ },
+ "wellcome_ckt3c524": {
+  "id": "wellcome_ckt3c524",
+  "img": "https://iiif.wellcomecollection.org/image/L0013415/full/1100,/0/default.jpg",
+  "title": "Line engraving: portrait of J. Abernethy;",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/w5scxmtb",
+  "themes": [
+   "faces",
+   "portrait",
+   "frontier"
+  ],
+  "query": "portrait engraving",
+  "local": "assets/collage/wellcome_ckt3c524.jpg"
+ },
+ "wellcome_mvexkxsk": {
+  "id": "wellcome_mvexkxsk",
+  "img": "https://iiif.wellcomecollection.org/image/L0020494/full/1100,/0/default.jpg",
+  "title": "Stipple engraving: portrait profile of J.",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/p37awgzj",
+  "themes": [
+   "faces",
+   "portrait",
+   "frontier"
+  ],
+  "query": "portrait engraving",
+  "local": "assets/collage/wellcome_mvexkxsk.jpg"
+ },
+ "wellcome_shcnbaq7": {
+  "id": "wellcome_shcnbaq7",
+  "img": "https://iiif.wellcomecollection.org/image/L0013348/full/1100,/0/default.jpg",
+  "title": "Stipple engraving: portrait of J.B. van",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/p5xs3mga",
+  "themes": [
+   "faces",
+   "portrait",
+   "frontier"
+  ],
+  "query": "portrait engraving",
+  "local": "assets/collage/wellcome_shcnbaq7.jpg"
+ },
+ "wellcome_jbmrvh53": {
+  "id": "wellcome_jbmrvh53",
+  "img": "https://iiif.wellcomecollection.org/image/V0002221/full/1100,/0/default.jpg",
+  "title": "John Gerard: portrait and botanical motifs. Line engraving by J. Payne, 1633.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/t2wgxnxy",
+  "themes": [
+   "faces",
+   "portrait",
+   "frontier"
+  ],
+  "query": "portrait engraving",
+  "local": "assets/collage/wellcome_jbmrvh53.jpg"
+ },
+ "wellcome_rp6na57s": {
+  "id": "wellcome_rp6na57s",
+  "img": "https://iiif.wellcomecollection.org/image/V0001165/full/1100,/0/default.jpg",
+  "title": "Philipp Cluverius: portrait and allegory of his work on geography. Line engraving.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/eca75xvq",
+  "themes": [
+   "faces",
+   "portrait",
+   "frontier"
+  ],
+  "query": "portrait engraving",
+  "local": "assets/collage/wellcome_rp6na57s.jpg"
+ },
+ "aic_11": {
+  "id": "aic_11",
+  "img": "https://www.artic.edu/iiif/2/7b7a6f39-1cd8-ea2f-9811-18b0e23edac0/full/843,/0/default.jpg",
+  "title": "Self-Portrait (1878) Walter Shirlaw",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/11",
+  "themes": [
+   "faces",
+   "portrait",
+   "frontier"
+  ],
+  "query": "portrait",
+  "local": "assets/collage/aic_11.jpg"
+ },
+ "aic_862": {
+  "id": "aic_862",
+  "img": "https://www.artic.edu/iiif/2/c95d58bf-fe9e-e5bb-2c71-ab8bad984759/full/843,/0/default.jpg",
+  "title": "Portrait of an Artist (1644) Follower of Frans Hals",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/862",
+  "themes": [
+   "faces",
+   "portrait",
+   "frontier"
+  ],
+  "query": "portrait",
+  "local": "assets/collage/aic_862.jpg"
+ },
+ "aic_80607": {
+  "id": "aic_80607",
+  "img": "https://www.artic.edu/iiif/2/47c5bcb8-62ef-e5d7-55e7-f5121f409a30/full/843,/0/default.jpg",
+  "title": "Self-Portrait (1887) Vincent van Gogh",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/80607",
+  "themes": [
+   "faces",
+   "portrait",
+   "frontier"
+  ],
+  "query": "portrait",
+  "local": "assets/collage/aic_80607.jpg"
+ },
+ "aic_29230": {
+  "id": "aic_29230",
+  "img": "https://www.artic.edu/iiif/2/7582416c-67cd-3682-bf97-5f9883bdd972/full/843,/0/default.jpg",
+  "title": "Julia Jackson (1867) Julia Margaret Cameron",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/29230",
+  "themes": [
+   "faces",
+   "portrait",
+   "frontier"
+  ],
+  "query": "portrait",
+  "local": "assets/collage/aic_29230.jpg"
+ },
+ "aic_193664": {
+  "id": "aic_193664",
+  "img": "https://www.artic.edu/iiif/2/5490fd49-dd52-4fd7-7d41-d871dcffae55/full/843,/0/default.jpg",
+  "title": "The Captive Slave (Ira Aldridge) (1827) John Philip Simpson",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/193664",
+  "themes": [
+   "faces",
+   "portrait",
+   "frontier"
+  ],
+  "query": "portrait",
+  "local": "assets/collage/aic_193664.jpg"
+ },
+ "aic_136740": {
+  "id": "aic_136740",
+  "img": "https://www.artic.edu/iiif/2/6ff83986-8938-20c2-c0c3-82f34ae0035f/full/843,/0/default.jpg",
+  "title": "Funerary Mask (Late Ptolemaic Period-early Roman Period, 1st century BCE) Ancient Egyptian",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/136740",
+  "themes": [
+   "faces",
+   "scripture"
+  ],
+  "query": "mask",
+  "local": "assets/collage/aic_136740.jpg"
+ },
+ "aic_181740": {
+  "id": "aic_181740",
+  "img": "https://www.artic.edu/iiif/2/65010653-87cb-a15c-1803-bca5b6617a75/full/843,/0/default.jpg",
+  "title": "Male Face Mask (Chihongo) (Mid–late 19th century) Chokwe",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/181740",
+  "themes": [
+   "faces",
+   "scripture"
+  ],
+  "query": "mask",
+  "local": "assets/collage/aic_181740.jpg"
+ },
+ "aic_212967": {
+  "id": "aic_212967",
+  "img": "https://www.artic.edu/iiif/2/ac383837-c925-af46-0833-f7ac8595a68d/full/843,/0/default.jpg",
+  "title": "Face (300–600 CE) Teotihuacan",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/212967",
+  "themes": [
+   "faces",
+   "scripture"
+  ],
+  "query": "mask",
+  "local": "assets/collage/aic_212967.jpg"
+ },
+ "aic_16052": {
+  "id": "aic_16052",
+  "img": "https://www.artic.edu/iiif/2/15da2bf5-9976-06d3-a7e7-0a56446299d2/full/843,/0/default.jpg",
+  "title": "Mask from an Incense Burner Portraying the Old Deity of Fire (450–750 CE) Teotihuacan",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/16052",
+  "themes": [
+   "faces",
+   "scripture"
+  ],
+  "query": "mask",
+  "local": "assets/collage/aic_16052.jpg"
+ },
+ "aic_51194": {
+  "id": "aic_51194",
+  "img": "https://www.artic.edu/iiif/2/ac199022-1bc7-5a42-a1d7-3f811a3b149c/full/843,/0/default.jpg",
+  "title": "Mask for Egungun (Ere Egungun) (Late 19th century) Yoruba",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/51194",
+  "themes": [
+   "faces",
+   "scripture"
+  ],
+  "query": "mask",
+  "local": "assets/collage/aic_51194.jpg"
+ },
+ "wellcome_b8w369ax": {
+  "id": "wellcome_b8w369ax",
+  "img": "https://iiif.wellcomecollection.org/image/L0010553/full/1100,/0/default.jpg",
+  "title": "Hans Buling, an itinerant medicine vendor, dressed in theatrical costume while selling his wares, assisted by another costumed person and a monkey. Engraving by I.R. Cruikshank after a Delft plate by B.S., 1750.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/y9r265v8",
+  "themes": [
+   "costume",
+   "scripture"
+  ],
+  "query": "costume plate",
+  "local": "assets/collage/wellcome_b8w369ax.jpg"
+ },
+ "wellcome_dbmsq3pk": {
+  "id": "wellcome_dbmsq3pk",
+  "img": "https://iiif.wellcomecollection.org/image/V0016172/full/1100,/0/default.jpg",
+  "title": "Hans Buling, an itinerant medicine vendor, dressed in theatrical costume while selling his wares, assisted by another costumed person and a monkey. Engraving by I.R. Cruikshank after a Delft plate by B.S., 1750.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/y9r265v8",
+  "themes": [
+   "costume",
+   "scripture"
+  ],
+  "query": "costume plate",
+  "local": "assets/collage/wellcome_dbmsq3pk.jpg"
+ },
+ "wellcome_b7y3vvds": {
+  "id": "wellcome_b7y3vvds",
+  "img": "https://iiif.wellcomecollection.org/image/L0038560/full/1100,/0/default.jpg",
+  "title": "[50 coloured plates / engraved by Martin Engelbrecht, from 18th-cent. German works. These are caricatures of different types of tradesmen and their wives, with the costume, tools, and apparatus of their craft. Among them are an apothecary, a spicer, and a spectacle-maker. The plates are similar to those in Larmessin's 'Album des métiers'. The artists include J.J. Stelzer, P.A. Dagmier, and P.F. Engelbrecht. All the plates except the first two have legends in French and German and appear to be from the same work].",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/texrydgz",
+  "themes": [
+   "costume",
+   "scripture"
+  ],
+  "query": "costume plate",
+  "local": "assets/collage/wellcome_b7y3vvds.jpg"
+ },
+ "wellcome_c8z8e3ue": {
+  "id": "wellcome_c8z8e3ue",
+  "img": "https://iiif.wellcomecollection.org/image/L0038558/full/1100,/0/default.jpg",
+  "title": "[50 coloured plates / engraved by Martin Engelbrecht, from 18th-cent. German works. These are caricatures of different types of tradesmen and their wives, with the costume, tools, and apparatus of their craft. Among them are an apothecary, a spicer, and a spectacle-maker. The plates are similar to those in Larmessin's 'Album des métiers'. The artists include J.J. Stelzer, P.A. Dagmier, and P.F. Engelbrecht. All the plates except the first two have legends in French and German and appear to be from the same work].",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/texrydgz",
+  "themes": [
+   "costume",
+   "scripture"
+  ],
+  "query": "costume plate",
+  "local": "assets/collage/wellcome_c8z8e3ue.jpg"
+ },
+ "wellcome_desa79z9": {
+  "id": "wellcome_desa79z9",
+  "img": "https://iiif.wellcomecollection.org/image/L0038539/full/1100,/0/default.jpg",
+  "title": "[50 coloured plates / engraved by Martin Engelbrecht, from 18th-cent. German works. These are caricatures of different types of tradesmen and their wives, with the costume, tools, and apparatus of their craft. Among them are an apothecary, a spicer, and a spectacle-maker. The plates are similar to those in Larmessin's 'Album des métiers'. The artists include J.J. Stelzer, P.A. Dagmier, and P.F. Engelbrecht. All the plates except the first two have legends in French and German and appear to be from the same work].",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/texrydgz",
+  "themes": [
+   "costume",
+   "scripture"
+  ],
+  "query": "costume plate",
+  "local": "assets/collage/wellcome_desa79z9.jpg"
+ },
+ "cma_148747": {
+  "id": "cma_148747",
+  "img": "https://openaccess-cdn.clevelandart.org/1976.188/1976.188_web.jpg",
+  "title": "Egúngún Masquerade Dance Costume (1900s)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1976.188",
+  "themes": [
+   "costume",
+   "scripture"
+  ],
+  "query": "costume",
+  "local": "assets/collage/cma_148747.jpg"
+ },
+ "cma_148746": {
+  "id": "cma_148746",
+  "img": "https://openaccess-cdn.clevelandart.org/1976.187/1976.187_web.jpg",
+  "title": "Egúngún Masquerade Dance Costume (1900s)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1976.187",
+  "themes": [
+   "costume",
+   "scripture"
+  ],
+  "query": "costume",
+  "local": "assets/collage/cma_148746.jpg"
+ },
+ "cma_159386": {
+  "id": "cma_159386",
+  "img": "https://openaccess-cdn.clevelandart.org/1996.210/1996.210_web.jpg",
+  "title": "Studies of a Costume, Sleeve, and Hand (c. 1747)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1996.210",
+  "themes": [
+   "costume",
+   "scripture"
+  ],
+  "query": "costume",
+  "local": "assets/collage/cma_159386.jpg"
+ },
+ "cma_147523": {
+  "id": "cma_147523",
+  "img": "https://openaccess-cdn.clevelandart.org/1973.33/1973.33_web.jpg",
+  "title": "Count Demetrius de Palatiano in Suliot Costume (not dated)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1973.33",
+  "themes": [
+   "costume",
+   "scripture"
+  ],
+  "query": "costume",
+  "local": "assets/collage/cma_147523.jpg"
+ },
+ "cma_152023": {
+  "id": "cma_152023",
+  "img": "https://openaccess-cdn.clevelandart.org/1984.71/1984.71_web.jpg",
+  "title": "The Three Fates, Costume Designs (c. 1534)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1984.71",
+  "themes": [
+   "costume",
+   "scripture"
+  ],
+  "query": "costume",
+  "local": "assets/collage/cma_152023.jpg"
+ },
+ "wellcome_g535w9xu": {
+  "id": "wellcome_g535w9xu",
+  "img": "https://iiif.wellcomecollection.org/image/L0034555/full/1100,/0/default.jpg",
+  "title": "A map of the world c. 1600",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/yct9q7vm",
+  "themes": [
+   "map",
+   "mythmaker",
+   "frontier"
+  ],
+  "query": "world map",
+  "local": "assets/collage/wellcome_g535w9xu.jpg"
+ },
+ "wellcome_xc8xcgcf": {
+  "id": "wellcome_xc8xcgcf",
+  "img": "https://iiif.wellcomecollection.org/image/L0001372/full/1100,/0/default.jpg",
+  "title": "Diego Ribero's map of the world, 1529.",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/bef47zjk",
+  "themes": [
+   "map",
+   "mythmaker",
+   "frontier"
+  ],
+  "query": "world map",
+  "local": "assets/collage/wellcome_xc8xcgcf.jpg"
+ },
+ "wellcome_c5afg3y3": {
+  "id": "wellcome_c5afg3y3",
+  "img": "https://iiif.wellcomecollection.org/image/V0025076/full/1100,/0/default.jpg",
+  "title": "Geography: a map of the world, with local scenes around. Coloured lithograph.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ytbjhw35",
+  "themes": [
+   "map",
+   "mythmaker",
+   "frontier"
+  ],
+  "query": "world map",
+  "local": "assets/collage/wellcome_c5afg3y3.jpg"
+ },
+ "wellcome_ntvwrkj8": {
+  "id": "wellcome_ntvwrkj8",
+  "img": "https://iiif.wellcomecollection.org/image/V0017196/full/1100,/0/default.jpg",
+  "title": "The black death: map of the world, with vignettes. Watercolour by Monro S. Orr.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/jy53bdmn",
+  "themes": [
+   "map",
+   "mythmaker",
+   "frontier"
+  ],
+  "query": "world map",
+  "local": "assets/collage/wellcome_ntvwrkj8.jpg"
+ },
+ "wellcome_r5sgbk9g": {
+  "id": "wellcome_r5sgbk9g",
+  "img": "https://iiif.wellcomecollection.org/image/L0010219/full/1100,/0/default.jpg",
+  "title": "The black death: map of the world, with vignettes. Watercolour by Monro S. Orr.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/jy53bdmn",
+  "themes": [
+   "map",
+   "mythmaker",
+   "frontier"
+  ],
+  "query": "world map",
+  "local": "assets/collage/wellcome_r5sgbk9g.jpg"
+ },
+ "cma_152543": {
+  "id": "cma_152543",
+  "img": "https://openaccess-cdn.clevelandart.org/1985.36/1985.36_web.jpg",
+  "title": "Map/Print Case (late 1800s)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1985.36",
+  "themes": [
+   "map",
+   "mythmaker"
+  ],
+  "query": "map",
+  "local": "assets/collage/cma_152543.jpg"
+ },
+ "cma_423526": {
+  "id": "cma_423526",
+  "img": "https://openaccess-cdn.clevelandart.org/2020.276.15/2020.276.15_web.jpg",
+  "title": "Nuova pianta di Roma data in luce da Giambattista Nolli l’anno MDCCXLVII, known as La Pianta Grande di Roma (1748)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2020.276.15",
+  "themes": [
+   "map",
+   "mythmaker"
+  ],
+  "query": "map",
+  "local": "assets/collage/cma_423526.jpg"
+ },
+ "cma_423518": {
+  "id": "cma_423518",
+  "img": "https://openaccess-cdn.clevelandart.org/2020.276.10/2020.276.10_web.jpg",
+  "title": "Nuova pianta di Roma data in luce da Giambattista Nolli l’anno MDCCXLVII, known as La Pianta Grande di Roma (1748)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2020.276.10",
+  "themes": [
+   "map",
+   "mythmaker"
+  ],
+  "query": "map",
+  "local": "assets/collage/cma_423518.jpg"
+ },
+ "cma_423521": {
+  "id": "cma_423521",
+  "img": "https://openaccess-cdn.clevelandart.org/2020.276.11/2020.276.11_web.jpg",
+  "title": "Nuova pianta di Roma data in luce da Giambattista Nolli l’anno MDCCXLVII, known as La Pianta Grande di Roma (1748)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2020.276.11",
+  "themes": [
+   "map",
+   "mythmaker"
+  ],
+  "query": "map",
+  "local": "assets/collage/cma_423521.jpg"
+ },
+ "cma_423516": {
+  "id": "cma_423516",
+  "img": "https://openaccess-cdn.clevelandart.org/2020.276.8/2020.276.8_web.jpg",
+  "title": "Nuova pianta di Roma data in luce da Giambattista Nolli l’anno MDCCXLVII, known as La Pianta Grande di Roma (1748)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2020.276.8",
+  "themes": [
+   "map",
+   "mythmaker"
+  ],
+  "query": "map",
+  "local": "assets/collage/cma_423516.jpg"
+ },
+ "cma_135909": {
+  "id": "cma_135909",
+  "img": "https://openaccess-cdn.clevelandart.org/1959.41/1959.41_web.jpg",
+  "title": "Bloodstone Cameo with Saint George (1000–1100)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1959.41",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "Saint George dragon",
+  "local": "assets/collage/cma_135909.jpg"
+ },
+ "cma_146164": {
+  "id": "cma_146164",
+  "img": "https://openaccess-cdn.clevelandart.org/1971.60/1971.60_web.jpg",
+  "title": "St. George and the Dragon (1520)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1971.60",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "Saint George dragon",
+  "local": "assets/collage/cma_146164.jpg"
+ },
+ "cma_135829": {
+  "id": "cma_135829",
+  "img": "https://openaccess-cdn.clevelandart.org/1959.341/1959.341_web.jpg",
+  "title": "Saint George and the Dragon (late 1600s)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1959.341",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "Saint George dragon",
+  "local": "assets/collage/cma_135829.jpg"
+ },
+ "cma_144565": {
+  "id": "cma_144565",
+  "img": "https://openaccess-cdn.clevelandart.org/1969.222/1969.222_web.jpg",
+  "title": "Two Pound Piece: George V (obverse); St. George and the Dragon (reverse) (1911)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1969.222",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "Saint George dragon",
+  "local": "assets/collage/cma_144565.jpg"
+ },
+ "cma_144534": {
+  "id": "cma_144534",
+  "img": "https://openaccess-cdn.clevelandart.org/1969.212/1969.212_web.jpg",
+  "title": "Sovereign: George III (obverse); St. George and the Dragon (reverse) (1817)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1969.212",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "Saint George dragon",
+  "local": "assets/collage/cma_144534.jpg"
+ },
+ "aic_15468": {
+  "id": "aic_15468",
+  "img": "https://www.artic.edu/iiif/2/8a0e4ac9-43ea-bc3e-884b-ee27f8a10501/full/843,/0/default.jpg",
+  "title": "Saint George and the Dragon (1434–35) Bernat Martorell",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/15468",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "Saint George dragon",
+  "local": "assets/collage/aic_15468.jpg"
+ },
+ "aic_21394": {
+  "id": "aic_21394",
+  "img": "https://www.artic.edu/iiif/2/f1aab371-ce5a-dae4-a7c4-6330fba69c0f/full/843,/0/default.jpg",
+  "title": "Saint George and the Dragon (1542) Enea Vico",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/21394",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "Saint George dragon",
+  "local": "assets/collage/aic_21394.jpg"
+ },
+ "aic_23081": {
+  "id": "aic_23081",
+  "img": "https://www.artic.edu/iiif/2/758afe0c-9119-3387-6b59-0995aa9ad116/full/843,/0/default.jpg",
+  "title": "Saint George and the Dragon (1570/1600) Giuseppe Scolari",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/23081",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "Saint George dragon",
+  "local": "assets/collage/aic_23081.jpg"
+ },
+ "aic_3149": {
+  "id": "aic_3149",
+  "img": "https://www.artic.edu/iiif/2/4f68cb52-579a-7dba-9edb-eb05d20739ab/full/843,/0/default.jpg",
+  "title": "Saint George and the Dragon (n.d.) Giovanni Ponticelli",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/3149",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "Saint George dragon",
+  "local": "assets/collage/aic_3149.jpg"
+ },
+ "wellcome_y7ymnaab": {
+  "id": "wellcome_y7ymnaab",
+  "img": "https://iiif.wellcomecollection.org/image/V0023075/full/1100,/0/default.jpg",
+  "title": "A winged dragon. Woodcut.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/zxqyy6ra",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "dragon",
+  "local": "assets/collage/wellcome_y7ymnaab.jpg"
+ },
+ "wellcome_gj8jhj5j": {
+  "id": "wellcome_gj8jhj5j",
+  "img": "https://iiif.wellcomecollection.org/image/B0008752/full/1100,/0/default.jpg",
+  "title": "Bearded dragon (Pogona vitticeps) skeleton",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/uwxyuds2",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "dragon",
+  "local": "assets/collage/wellcome_gj8jhj5j.jpg"
+ },
+ "wellcome_mzpeumxc": {
+  "id": "wellcome_mzpeumxc",
+  "img": "https://iiif.wellcomecollection.org/image/L0086427/full/1100,/0/default.jpg",
+  "title": "Wodocut of a seven-headed dragon, 1697.",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/sp6uqcuy",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "dragon",
+  "local": "assets/collage/wellcome_mzpeumxc.jpg"
+ },
+ "wellcome_gv7ppjwp": {
+  "id": "wellcome_gv7ppjwp",
+  "img": "https://iiif.wellcomecollection.org/image/L0068894/full/1100,/0/default.jpg",
+  "title": "Verso folio of Barham Gur killing the dragon",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/vcua4bv2",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "dragon",
+  "local": "assets/collage/wellcome_gv7ppjwp.jpg"
+ },
+ "wellcome_pyakdvtj": {
+  "id": "wellcome_pyakdvtj",
+  "img": "https://iiif.wellcomecollection.org/image/V0046595/full/1100,/0/default.jpg",
+  "title": "Temple sculpture: a dragon-shaped vessel. Pencil drawing.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/khzgzubs",
+  "themes": [
+   "dragon",
+   "mythmaker"
+  ],
+  "query": "dragon",
+  "local": "assets/collage/wellcome_pyakdvtj.jpg"
+ },
+ "wellcome_mp6yyvg6": {
+  "id": "wellcome_mp6yyvg6",
+  "img": "https://iiif.wellcomecollection.org/image/L0007195/full/1100,/0/default.jpg",
+  "title": "Ophtalmology: Anatomy of the eye: 9th century.",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/bj86kmj6",
+  "themes": [
+   "eyes",
+   "rational"
+  ],
+  "query": "eye anatomy",
+  "local": "assets/collage/wellcome_mp6yyvg6.jpg"
+ },
+ "wellcome_wjnwt3wk": {
+  "id": "wellcome_wjnwt3wk",
+  "img": "https://iiif.wellcomecollection.org/image/B0010954/full/1100,/0/default.jpg",
+  "title": "Dopaminergic neurons in the zebrafish forebrain. Confocal micrograph of a 4 day old transgenic zebrafish embryo viewed from a lateral aspect. Neurons in the olfactory bulb, telencepahlon, ventral diencephalon, pretectum and hypothalamus are labelled in green. Axonal tracts are shown in cyan and neuropil in magenta. In order to show the anatomy of the brain better the skin and eyes of the embryo have been removed post-fixation. ",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/gdephdx3",
+  "themes": [
+   "eyes",
+   "rational"
+  ],
+  "query": "eye anatomy",
+  "local": "assets/collage/wellcome_wjnwt3wk.jpg"
+ },
+ "wellcome_t6d6frr4": {
+  "id": "wellcome_t6d6frr4",
+  "img": "https://iiif.wellcomecollection.org/image/V0007959/full/1100,/0/default.jpg",
+  "title": "Organs of sensation: eight figures of the ear and eye. Line engraving by Kirkwood & Son, 1813.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/k2evudvc",
+  "themes": [
+   "eyes",
+   "rational"
+  ],
+  "query": "eye anatomy",
+  "local": "assets/collage/wellcome_t6d6frr4.jpg"
+ },
+ "wellcome_tn28egg4": {
+  "id": "wellcome_tn28egg4",
+  "img": "https://iiif.wellcomecollection.org/image/L0013379/full/1100,/0/default.jpg",
+  "title": "Muscles of the right side of the head and neck. Colour mezzotint by J.F. Gautier d'Agoty, 1745-1746.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/gz83v5ak",
+  "themes": [
+   "eyes",
+   "rational"
+  ],
+  "query": "eye anatomy",
+  "local": "assets/collage/wellcome_tn28egg4.jpg"
+ },
+ "wellcome_bn5ttgm8": {
+  "id": "wellcome_bn5ttgm8",
+  "img": "https://iiif.wellcomecollection.org/image/V0048031/full/1100,/0/default.jpg",
+  "title": "Section of the eye. Colour lithograph by F. Foedisch, 1875.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/yt2cpdgn",
+  "themes": [
+   "eyes",
+   "rational"
+  ],
+  "query": "eye anatomy",
+  "local": "assets/collage/wellcome_bn5ttgm8.jpg"
+ },
+ "wellcome_tkje96qa": {
+  "id": "wellcome_tkje96qa",
+  "img": "https://iiif.wellcomecollection.org/image/V0047461/full/1100,/0/default.jpg",
+  "title": "A woman abalone diver wrestling with an octopus. Colour woodcut by Yoshitoshi, 1870s.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/cs4akf9g",
+  "themes": [
+   "eyes",
+   "rational"
+  ],
+  "query": "octopus",
+  "local": "assets/collage/wellcome_tkje96qa.jpg"
+ },
+ "wellcome_nhh5xr8g": {
+  "id": "wellcome_nhh5xr8g",
+  "img": "https://iiif.wellcomecollection.org/image/V0047321/full/1100,/0/default.jpg",
+  "title": "A large octopus is encircled by a huge rosary held by various bizarre creatures. Colour woodcut by Kyōsai, 1864.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/qhd4b5nm",
+  "themes": [
+   "eyes",
+   "rational"
+  ],
+  "query": "octopus",
+  "local": "assets/collage/wellcome_nhh5xr8g.jpg"
+ },
+ "wellcome_brpt26pk": {
+  "id": "wellcome_brpt26pk",
+  "img": "https://iiif.wellcomecollection.org/image/V0020779EL/full/1100,/0/default.jpg",
+  "title": "Above, an edible sea urchin, a star fish and a purple spantangus; below, a common octopus and a large cuttlefish. Coloured engraving by W. H. Lizars.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/shq844bv",
+  "themes": [
+   "eyes",
+   "rational"
+  ],
+  "query": "octopus",
+  "local": "assets/collage/wellcome_brpt26pk.jpg"
+ },
+ "wellcome_xvv63vxd": {
+  "id": "wellcome_xvv63vxd",
+  "img": "https://iiif.wellcomecollection.org/image/L0008563/full/1100,/0/default.jpg",
+  "title": "Shaman's charm of bone carved in Totemic British Columbia. North West Coast of America. Designs representing the Octopus and anthropoozomorphic bird. Abalone inlays in eyes. Hole pierced at top for pendant.",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/dfkdbuqr",
+  "themes": [
+   "eyes",
+   "rational"
+  ],
+  "query": "octopus",
+  "local": "assets/collage/wellcome_xvv63vxd.jpg"
+ },
+ "wellcome_n33mp2a2": {
+  "id": "wellcome_n33mp2a2",
+  "img": "https://iiif.wellcomecollection.org/image/V0022902EL/full/1100,/0/default.jpg",
+  "title": "Calves and sheep with congenital defects to the spine. Lithograph.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/tccb3zj3",
+  "themes": [
+   "eyes",
+   "rational"
+  ],
+  "query": "octopus",
+  "local": "assets/collage/wellcome_n33mp2a2.jpg"
+ },
+ "wellcome_ddpmmsup": {
+  "id": "wellcome_ddpmmsup",
+  "img": "https://iiif.wellcomecollection.org/image/V0020562ER/full/1100,/0/default.jpg",
+  "title": "Seven insects of the order Lepidoptera, with four scale-covered wings, including butterflies and moths. Line engraving by Milton, 1806.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/j9wjm5u9",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "insect wings",
+  "local": "assets/collage/wellcome_ddpmmsup.jpg"
+ },
+ "wellcome_rrcfrtyt": {
+  "id": "wellcome_rrcfrtyt",
+  "img": "https://iiif.wellcomecollection.org/image/V0020755ER/full/1100,/0/default.jpg",
+  "title": "Six winged insects. Coloured engraving by W. H. Lizars.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/bmxer834",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "insect wings",
+  "local": "assets/collage/wellcome_rrcfrtyt.jpg"
+ },
+ "wellcome_tkqeqsfu": {
+  "id": "wellcome_tkqeqsfu",
+  "img": "https://iiif.wellcomecollection.org/image/V0020756ER/full/1100,/0/default.jpg",
+  "title": "Six winged insects. Coloured engraving by W. H. Lizars.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/xntvpgtt",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "insect wings",
+  "local": "assets/collage/wellcome_tkqeqsfu.jpg"
+ },
+ "wellcome_vkky8z3w": {
+  "id": "wellcome_vkky8z3w",
+  "img": "https://iiif.wellcomecollection.org/image/V0022500ER/full/1100,/0/default.jpg",
+  "title": "A winged insect emerging from its pupa. Coloured etching.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/hxx7bg8g",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "insect wings",
+  "local": "assets/collage/wellcome_vkky8z3w.jpg"
+ },
+ "wellcome_zhchr3gz": {
+  "id": "wellcome_zhchr3gz",
+  "img": "https://iiif.wellcomecollection.org/image/V0020755EL/full/1100,/0/default.jpg",
+  "title": "Three winged insects. Coloured engraving by W. H. Lizars.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/qubcvrwd",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "insect wings",
+  "local": "assets/collage/wellcome_zhchr3gz.jpg"
+ },
+ "wellcome_m3nkzjdc": {
+  "id": "wellcome_m3nkzjdc",
+  "img": "https://iiif.wellcomecollection.org/image/V0046249EL/full/1100,/0/default.jpg",
+  "title": "A north Indian bird with black and white striped wings, perched on a flower stem. Gouache painting on mica by an Indian artist.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/tfg5xyfy",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "bird wing",
+  "local": "assets/collage/wellcome_m3nkzjdc.jpg"
+ },
+ "wellcome_yk5zjes9": {
+  "id": "wellcome_yk5zjes9",
+  "img": "https://iiif.wellcomecollection.org/image/L0023720/full/1100,/0/default.jpg",
+  "title": "A golden-winged flycatcher (bird) catching an insect. Watercolour by J.C. Lettsom, 1757.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/bnpn3w6z",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "bird wing",
+  "local": "assets/collage/wellcome_yk5zjes9.jpg"
+ },
+ "wellcome_ynt9np7y": {
+  "id": "wellcome_ynt9np7y",
+  "img": "https://iiif.wellcomecollection.org/image/V0046213ER/full/1100,/0/default.jpg",
+  "title": "A blue beaked, yellow winged bird. Gouache painting on mica by an Indian artist.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ubkys8u4",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "bird wing",
+  "local": "assets/collage/wellcome_ynt9np7y.jpg"
+ },
+ "wellcome_myhs73rp": {
+  "id": "wellcome_myhs73rp",
+  "img": "https://iiif.wellcomecollection.org/image/V0049729/full/1100,/0/default.jpg",
+  "title": "A sumptuously dressed lady gestures towards a mid-air battle between winged fools; small injured figures fall from a bird-house like edifice. Woodcut by Tobias Stimmer, 1580.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/dp5bq8p4",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "bird wing",
+  "local": "assets/collage/wellcome_myhs73rp.jpg"
+ },
+ "wellcome_wh4tm9wx": {
+  "id": "wellcome_wh4tm9wx",
+  "img": "https://iiif.wellcomecollection.org/image/V0024845/full/1100,/0/default.jpg",
+  "title": "Astronomy: the astronomer Sidrophel, using a telescope, misidentifies a kite as a comet. Etching by W. Hogarth, ca. 1721.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/rg8wdpgm",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "bird wing",
+  "local": "assets/collage/wellcome_wh4tm9wx.jpg"
+ },
+ "wellcome_jqtv2e89": {
+  "id": "wellcome_jqtv2e89",
+  "img": "https://iiif.wellcomecollection.org/image/B0007596/full/1100,/0/default.jpg",
+  "title": "Fruit bat tongue",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/kznjb89y",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "bat",
+  "local": "assets/collage/wellcome_jqtv2e89.jpg"
+ },
+ "wellcome_mm93bex9": {
+  "id": "wellcome_mm93bex9",
+  "img": "https://iiif.wellcomecollection.org/image/V0009144ER/full/1100,/0/default.jpg",
+  "title": "Heads of a horse shoe bat and a common bat. Drawing, c. 1789.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/g6w932my",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "bat",
+  "local": "assets/collage/wellcome_mm93bex9.jpg"
+ },
+ "wellcome_wesxvmzh": {
+  "id": "wellcome_wesxvmzh",
+  "img": "https://iiif.wellcomecollection.org/image/V0048099EL/full/1100,/0/default.jpg",
+  "title": "Top, a barbastelle bat; bottom, a pipistrelle bat. Engraving by J.C. Baquoy after Buvée l'Ameriquain, 1760.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ab2hb265",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "bat",
+  "local": "assets/collage/wellcome_wesxvmzh.jpg"
+ },
+ "wellcome_qy4ked5h": {
+  "id": "wellcome_qy4ked5h",
+  "img": "https://iiif.wellcomecollection.org/image/V0020743/full/1100,/0/default.jpg",
+  "title": "A flying short eared bat. Etching.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ycz6axqx",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "bat",
+  "local": "assets/collage/wellcome_qy4ked5h.jpg"
+ },
+ "wellcome_vkf7ugpv": {
+  "id": "wellcome_vkf7ugpv",
+  "img": "https://iiif.wellcomecollection.org/image/V0048099ER/full/1100,/0/default.jpg",
+  "title": "Top, the lesser horseshoe bat; bottom, a bat with large ears. Engraving by J.C. Baquoy after Buvée l'Ameriquain, 1760.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/r4nm94n6",
+  "themes": [
+   "wings",
+   "rational"
+  ],
+  "query": "bat",
+  "local": "assets/collage/wellcome_vkf7ugpv.jpg"
+ },
+ "wellcome_ps9jy27e": {
+  "id": "wellcome_ps9jy27e",
+  "img": "https://iiif.wellcomecollection.org/image/L0033034/full/1100,/0/default.jpg",
+  "title": "Plate from Haeckel, Anthropogenie",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/mjtv47mp",
+  "themes": [
+   "haeckel",
+   "rational",
+   "nausicaa"
+  ],
+  "query": "Haeckel",
+  "local": "assets/collage/wellcome_ps9jy27e.jpg"
+ },
+ "wellcome_d3dmuyr5": {
+  "id": "wellcome_d3dmuyr5",
+  "img": "https://iiif.wellcomecollection.org/image/L0026710/full/1100,/0/default.jpg",
+  "title": "Haeckel, Ernst The Evolution of Man, 1887",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/f2mc8dzd",
+  "themes": [
+   "haeckel",
+   "rational",
+   "nausicaa"
+  ],
+  "query": "Haeckel",
+  "local": "assets/collage/wellcome_d3dmuyr5.jpg"
+ },
+ "wellcome_fay4ggk5": {
+  "id": "wellcome_fay4ggk5",
+  "img": "https://iiif.wellcomecollection.org/image/V0026500/full/1100,/0/default.jpg",
+  "title": "Ernst Heinrich Philipp August Haeckel. Process print.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/t35e5ema",
+  "themes": [
+   "haeckel",
+   "rational",
+   "nausicaa"
+  ],
+  "query": "Haeckel",
+  "local": "assets/collage/wellcome_fay4ggk5.jpg"
+ },
+ "wellcome_jvwxhmww": {
+  "id": "wellcome_jvwxhmww",
+  "img": "https://iiif.wellcomecollection.org/image/V0026501/full/1100,/0/default.jpg",
+  "title": "Ernst Heinrich Philipp August Haeckel. Process print.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/yzysnvya",
+  "themes": [
+   "haeckel",
+   "rational",
+   "nausicaa"
+  ],
+  "query": "Haeckel",
+  "local": "assets/collage/wellcome_jvwxhmww.jpg"
+ },
+ "wellcome_zgppskvc": {
+  "id": "wellcome_zgppskvc",
+  "img": "https://iiif.wellcomecollection.org/image/L0023110/full/1100,/0/default.jpg",
+  "title": "Ernst Haeckel, The evolution of man; embryos",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/hk5d7sg6",
+  "themes": [
+   "haeckel",
+   "rational",
+   "nausicaa"
+  ],
+  "query": "Haeckel",
+  "local": "assets/collage/wellcome_zgppskvc.jpg"
+ },
+ "wellcome_cwyfbucm": {
+  "id": "wellcome_cwyfbucm",
+  "img": "https://iiif.wellcomecollection.org/image/V0043404/full/1100,/0/default.jpg",
+  "title": "Parasitic fungi (Nyctalis species) growing on decayed Russula fungi. Watercolour by R. Baker, 1889.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/c86kbkjn",
+  "themes": [
+   "haeckel",
+   "nausicaa"
+  ],
+  "query": "fungi",
+  "local": "assets/collage/wellcome_cwyfbucm.jpg"
+ },
+ "wellcome_tnzfeks6": {
+  "id": "wellcome_tnzfeks6",
+  "img": "https://iiif.wellcomecollection.org/image/V0043366/full/1100,/0/default.jpg",
+  "title": "A group of fallen fungi (Pholiota squarrosa). Watercolour.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/cun2ea43",
+  "themes": [
+   "haeckel",
+   "nausicaa"
+  ],
+  "query": "fungi",
+  "local": "assets/collage/wellcome_tnzfeks6.jpg"
+ },
+ "wellcome_j2br694c": {
+  "id": "wellcome_j2br694c",
+  "img": "https://iiif.wellcomecollection.org/image/V0043731/full/1100,/0/default.jpg",
+  "title": "Three types of fungi, including a Cantharellus species. Watercolour.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/zmjdbh6t",
+  "themes": [
+   "haeckel",
+   "nausicaa"
+  ],
+  "query": "fungi",
+  "local": "assets/collage/wellcome_j2br694c.jpg"
+ },
+ "wellcome_ddyy4tbm": {
+  "id": "wellcome_ddyy4tbm",
+  "img": "https://iiif.wellcomecollection.org/image/V0043362/full/1100,/0/default.jpg",
+  "title": "A group of dung roundhead fungi (Stropharia semiglobata). Watercolour.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/u8xjgsva",
+  "themes": [
+   "haeckel",
+   "nausicaa"
+  ],
+  "query": "fungi",
+  "local": "assets/collage/wellcome_ddyy4tbm.jpg"
+ },
+ "wellcome_ykfmuwhj": {
+  "id": "wellcome_ykfmuwhj",
+  "img": "https://iiif.wellcomecollection.org/image/V0043674EL/full/1100,/0/default.jpg",
+  "title": "Three shelf fungi: fruiting bodies, one showing underside of cap. Watercolour.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/qtugx4zh",
+  "themes": [
+   "haeckel",
+   "nausicaa"
+  ],
+  "query": "fungi",
+  "local": "assets/collage/wellcome_ykfmuwhj.jpg"
+ },
+ "wellcome_h4zj9b5e": {
+  "id": "wellcome_h4zj9b5e",
+  "img": "https://iiif.wellcomecollection.org/image/V0036175/full/1100,/0/default.jpg",
+  "title": "British Association for the Advancement of Science, meeting, Southampton, 1846: some of the participants. Wood engraving by Smyth, 1846.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/fx4hxwz6",
+  "themes": [
+   "soil",
+   "nausicaa"
+  ],
+  "query": "geological section",
+  "local": "assets/collage/wellcome_h4zj9b5e.jpg"
+ },
+ "wellcome_nh8ck68a": {
+  "id": "wellcome_nh8ck68a",
+  "img": "https://iiif.wellcomecollection.org/image/L0031773/full/1100,/0/default.jpg",
+  "title": "Darwin's single microscope",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/bxa32txg",
+  "themes": [
+   "microscope",
+   "rational",
+   "nausicaa"
+  ],
+  "query": "microscope",
+  "local": "assets/collage/wellcome_nh8ck68a.jpg"
+ },
+ "wellcome_dgets69j": {
+  "id": "wellcome_dgets69j",
+  "img": "https://iiif.wellcomecollection.org/image/L0081489/full/1100,/0/default.jpg",
+  "title": "Illustration of Lister's microscope.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/a58x6zgj",
+  "themes": [
+   "microscope",
+   "rational",
+   "nausicaa"
+  ],
+  "query": "microscope",
+  "local": "assets/collage/wellcome_dgets69j.jpg"
+ },
+ "wellcome_nkdgmmw2": {
+  "id": "wellcome_nkdgmmw2",
+  "img": "https://iiif.wellcomecollection.org/image/V0025386/full/1100,/0/default.jpg",
+  "title": "Optics: a simple microscope. Engraving.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/au7nmzxq",
+  "themes": [
+   "microscope",
+   "rational",
+   "nausicaa"
+  ],
+  "query": "microscope",
+  "local": "assets/collage/wellcome_nkdgmmw2.jpg"
+ },
+ "wellcome_y38jn2d2": {
+  "id": "wellcome_y38jn2d2",
+  "img": "https://iiif.wellcomecollection.org/image/L0073720/full/1100,/0/default.jpg",
+  "title": "Swift & Son's new patent microscope.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/shz53d52",
+  "themes": [
+   "microscope",
+   "rational",
+   "nausicaa"
+  ],
+  "query": "microscope",
+  "local": "assets/collage/wellcome_y38jn2d2.jpg"
+ },
+ "wellcome_agcgs8nv": {
+  "id": "wellcome_agcgs8nv",
+  "img": "https://iiif.wellcomecollection.org/image/L0073721/full/1100,/0/default.jpg",
+  "title": "Swift & Son's new patent microscope.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/aprfyvh6",
+  "themes": [
+   "microscope",
+   "rational",
+   "nausicaa"
+  ],
+  "query": "microscope",
+  "local": "assets/collage/wellcome_agcgs8nv.jpg"
+ },
+ "wellcome_vdtuaay8": {
+  "id": "wellcome_vdtuaay8",
+  "img": "https://iiif.wellcomecollection.org/image/L0089509/full/1100,/0/default.jpg",
+  "title": "Verso of Emblem of Healing advertisement",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/mwv7dgse",
+  "themes": [
+   "emblem",
+   "rational"
+  ],
+  "query": "emblem",
+  "local": "assets/collage/wellcome_vdtuaay8.jpg"
+ },
+ "wellcome_djwannbe": {
+  "id": "wellcome_djwannbe",
+  "img": "https://iiif.wellcomecollection.org/image/V0010812EL/full/1100,/0/default.jpg",
+  "title": "A man pounding a mixture with a pestle and mortar - an emblem from a drug jar. Watercolour.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/kcexxg5e",
+  "themes": [
+   "emblem",
+   "rational"
+  ],
+  "query": "emblem",
+  "local": "assets/collage/wellcome_djwannbe.jpg"
+ },
+ "wellcome_qcwe6ar4": {
+  "id": "wellcome_qcwe6ar4",
+  "img": "https://iiif.wellcomecollection.org/image/L0006456/full/1100,/0/default.jpg",
+  "title": "Johann Peter Magnus, M.D. Physician at Vienna. Oval in rectangle, in corners, emblem, coat-of-arms, ornament.",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/rd65vkmr",
+  "themes": [
+   "emblem",
+   "rational"
+  ],
+  "query": "emblem",
+  "local": "assets/collage/wellcome_qcwe6ar4.jpg"
+ },
+ "wellcome_rmetppuf": {
+  "id": "wellcome_rmetppuf",
+  "img": "https://iiif.wellcomecollection.org/image/L0011149/full/1100,/0/default.jpg",
+  "title": "Engraved emblem of Hercules choosing between Virtue and Vice, Vice taking off a mask and showing the deformities of syphilis.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/yff7cxer",
+  "themes": [
+   "emblem",
+   "rational"
+  ],
+  "query": "emblem",
+  "local": "assets/collage/wellcome_rmetppuf.jpg"
+ },
+ "wellcome_m2w2jwns": {
+  "id": "wellcome_m2w2jwns",
+  "img": "https://iiif.wellcomecollection.org/image/V0010812ER/full/1100,/0/default.jpg",
+  "title": "A scholar/apothecary mixing a concoction with a pestle and mortar and writing down the remedy; an emblem from a drug jar. Watercolour.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/r2sagcxz",
+  "themes": [
+   "emblem",
+   "rational"
+  ],
+  "query": "emblem",
+  "local": "assets/collage/wellcome_m2w2jwns.jpg"
+ },
+ "wellcome_yas43t4b": {
+  "id": "wellcome_yas43t4b",
+  "img": "https://iiif.wellcomecollection.org/image/V0011280/full/1100,/0/default.jpg",
+  "title": "A satyr on a pedestal kicks out at a magician while a priestess attempts to insert a clyster-pipe; depicting a play called 'The Golden Rump' representing King George II with his wife and Sir Robert Walpole. Engraving, 1737.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/vt44w6r3",
+  "themes": [
+   "emblem",
+   "rational"
+  ],
+  "query": "scales balance",
+  "local": "assets/collage/wellcome_yas43t4b.jpg"
+ },
+ "cma_147998": {
+  "id": "cma_147998",
+  "img": "https://openaccess-cdn.clevelandart.org/1974.90/1974.90_web.jpg",
+  "title": "Manjusri Riding on a Lion (900s)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1974.90",
+  "themes": [
+   "emblem",
+   "rational"
+  ],
+  "query": "lion",
+  "local": "assets/collage/cma_147998.jpg"
+ },
+ "cma_101389": {
+  "id": "cma_101389",
+  "img": "https://openaccess-cdn.clevelandart.org/1920.2001/1920.2001_web.jpg",
+  "title": "Statuette of a Lion (380–246 BCE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1920.2001",
+  "themes": [
+   "emblem",
+   "rational"
+  ],
+  "query": "lion",
+  "local": "assets/collage/cma_101389.jpg"
+ },
+ "cma_125103": {
+  "id": "cma_125103",
+  "img": "https://openaccess-cdn.clevelandart.org/1946.82/1946.82_web.jpg",
+  "title": "Saint Jerome and the Lion (From the former Church of St. Peter in Erfurt) (c. 1495)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1946.82",
+  "themes": [
+   "emblem",
+   "rational"
+  ],
+  "query": "lion",
+  "local": "assets/collage/cma_125103.jpg"
+ },
+ "cma_146722": {
+  "id": "cma_146722",
+  "img": "https://openaccess-cdn.clevelandart.org/1972.167/1972.167_web.jpg",
+  "title": "Lion Aquamanile (1200–1250)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1972.167",
+  "themes": [
+   "emblem",
+   "rational"
+  ],
+  "query": "lion",
+  "local": "assets/collage/cma_146722.jpg"
+ },
+ "cma_144965": {
+  "id": "cma_144965",
+  "img": "https://openaccess-cdn.clevelandart.org/1970.16/1970.16_web.jpg",
+  "title": "Black-Figure Neck-Amphora (Storage Vessel): Herakles and Nemean Lion (A); Dionysos, Satyrs, and Maenads (B) (515–510 BCE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1970.16",
+  "themes": [
+   "emblem",
+   "rational"
+  ],
+  "query": "lion",
+  "local": "assets/collage/cma_144965.jpg"
+ },
+ "wellcome_eymqz4f8": {
+  "id": "wellcome_eymqz4f8",
+  "img": "https://iiif.wellcomecollection.org/image/L0082188/full/1100,/0/default.jpg",
+  "title": "Preparation for the shell or telescope crown",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/s65vg2g2",
+  "themes": [
+   "emblem",
+   "rational",
+   "frontier"
+  ],
+  "query": "telescope",
+  "local": "assets/collage/wellcome_eymqz4f8.jpg"
+ },
+ "wellcome_kxhjyxaf": {
+  "id": "wellcome_kxhjyxaf",
+  "img": "https://iiif.wellcomecollection.org/image/V0024709/full/1100,/0/default.jpg",
+  "title": "Astronomy: a large reflecting telescope, and projection of the transit of Venus. Engraving.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/vfhk9p3h",
+  "themes": [
+   "emblem",
+   "rational",
+   "frontier"
+  ],
+  "query": "telescope",
+  "local": "assets/collage/wellcome_kxhjyxaf.jpg"
+ },
+ "wellcome_z4pntbjh": {
+  "id": "wellcome_z4pntbjh",
+  "img": "https://iiif.wellcomecollection.org/image/V0025082/full/1100,/0/default.jpg",
+  "title": "Astronomy: a large telescope with a protractor pivot, on a tripod base. Engraving.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/pxvv5bwm",
+  "themes": [
+   "emblem",
+   "rational",
+   "frontier"
+  ],
+  "query": "telescope",
+  "local": "assets/collage/wellcome_z4pntbjh.jpg"
+ },
+ "wellcome_q3cug3me": {
+  "id": "wellcome_q3cug3me",
+  "img": "https://iiif.wellcomecollection.org/image/V0024831/full/1100,/0/default.jpg",
+  "title": "Astronomy: Galileo with his telescope in the Piazza San Marco, Venice. Wood engraving.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ddkpgknd",
+  "themes": [
+   "emblem",
+   "rational",
+   "frontier"
+  ],
+  "query": "telescope",
+  "local": "assets/collage/wellcome_q3cug3me.jpg"
+ },
+ "wellcome_hvwkmy46": {
+  "id": "wellcome_hvwkmy46",
+  "img": "https://iiif.wellcomecollection.org/image/V0024766/full/1100,/0/default.jpg",
+  "title": "Astronomy: a 40-foot telescope constructed by William Herschel, in use outdoors. Coloured etching, 18--.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/srz5zy9y",
+  "themes": [
+   "emblem",
+   "rational",
+   "frontier"
+  ],
+  "query": "telescope",
+  "local": "assets/collage/wellcome_hvwkmy46.jpg"
+ },
+ "cma_128187": {
+  "id": "cma_128187",
+  "img": "https://openaccess-cdn.clevelandart.org/1951.179/1951.179_web.jpg",
+  "title": "Kneeling Figure (c. 1200–600 BCE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1951.179",
+  "themes": [
+   "emblem"
+  ],
+  "query": "kneeling figure",
+  "local": "assets/collage/cma_128187.jpg"
+ },
+ "cma_149430": {
+  "id": "cma_149430",
+  "img": "https://openaccess-cdn.clevelandart.org/1978.8/1978.8_web.jpg",
+  "title": "Kneeling Male Figure (1010–80)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1978.8",
+  "themes": [
+   "emblem"
+  ],
+  "query": "kneeling figure",
+  "local": "assets/collage/cma_149430.jpg"
+ },
+ "cma_102417": {
+  "id": "cma_102417",
+  "img": "https://openaccess-cdn.clevelandart.org/1921.106/1921.106_web.jpg",
+  "title": "Saint Catherine with a Kneeling Male Donor (1400s)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1921.106",
+  "themes": [
+   "emblem"
+  ],
+  "query": "kneeling figure",
+  "local": "assets/collage/cma_102417.jpg"
+ },
+ "cma_142276": {
+  "id": "cma_142276",
+  "img": "https://openaccess-cdn.clevelandart.org/1966.113/1966.113_web.jpg",
+  "title": "Kneeling Carthusian Monk (c. 1380–1400)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1966.113",
+  "themes": [
+   "emblem"
+  ],
+  "query": "kneeling figure",
+  "local": "assets/collage/cma_142276.jpg"
+ },
+ "cma_136938": {
+  "id": "cma_136938",
+  "img": "https://openaccess-cdn.clevelandart.org/1961.414/1961.414_web.jpg",
+  "title": "Kneeling Saint (1750–1800)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1961.414",
+  "themes": [
+   "emblem"
+  ],
+  "query": "kneeling figure",
+  "local": "assets/collage/cma_136938.jpg"
+ },
+ "cma_679352": {
+  "id": "cma_679352",
+  "img": "https://openaccess-cdn.clevelandart.org/2025.110/2025.110_web.jpg",
+  "title": "Birds on Plum Branches (1700–1750)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2025.110",
+  "themes": [
+   "walls",
+   "rational"
+  ],
+  "query": "castle walls",
+  "local": "assets/collage/cma_679352.jpg"
+ },
+ "cma_142315": {
+  "id": "cma_142315",
+  "img": "https://openaccess-cdn.clevelandart.org/1966.143/1966.143_web.jpg",
+  "title": "Ravana addresses Sita in the garden of Lanka, from Chapters 53 and 54 of the Aranya Kanda (Book of the Forest) of a Ramayana (Rama’s Journey) (c. 1725)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1966.143",
+  "themes": [
+   "walls",
+   "rational"
+  ],
+  "query": "castle walls",
+  "local": "assets/collage/cma_142315.jpg"
+ },
+ "cma_171609": {
+  "id": "cma_171609",
+  "img": "https://openaccess-cdn.clevelandart.org/2014.388.3/2014.388.3_web.jpg",
+  "title": "Royal Round Tent made for Muhammad Shah (wall panel with one design unit) (1834–48)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2014.388.3",
+  "themes": [
+   "walls",
+   "rational"
+  ],
+  "query": "castle walls",
+  "local": "assets/collage/cma_171609.jpg"
+ },
+ "cma_171610": {
+  "id": "cma_171610",
+  "img": "https://openaccess-cdn.clevelandart.org/2014.388.4/2014.388.4_web.jpg",
+  "title": "Royal Round Tent made for Muhammad Shah (wall panel with three design units) (1834–48)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2014.388.4",
+  "themes": [
+   "walls",
+   "rational"
+  ],
+  "query": "castle walls",
+  "local": "assets/collage/cma_171610.jpg"
+ },
+ "cma_171608": {
+  "id": "cma_171608",
+  "img": "https://openaccess-cdn.clevelandart.org/2014.388.2/2014.388.2_web.jpg",
+  "title": "Royal Round Tent made for Muhammad Shah (wall panel with three design units) (1834–48)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2014.388.2",
+  "themes": [
+   "walls",
+   "rational"
+  ],
+  "query": "castle walls",
+  "local": "assets/collage/cma_171608.jpg"
+ },
+ "aic_8097": {
+  "id": "aic_8097",
+  "img": "https://www.artic.edu/iiif/2/1b605198-afe5-1052-3c7b-0c08734238e1/full/843,/0/default.jpg",
+  "title": "Landscape with Rock and Fortress (c. 1645) Domenico Gargiuli (Micco Spadaro)",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/8097",
+  "themes": [
+   "walls"
+  ],
+  "query": "fortress",
+  "local": "assets/collage/aic_8097.jpg"
+ },
+ "aic_12895": {
+  "id": "aic_12895",
+  "img": "https://www.artic.edu/iiif/2/ddd364dd-f791-ed27-4297-ea47fde36f12/full/843,/0/default.jpg",
+  "title": "View of Pirna with the Fortress of Sonnenstein (c. 1760) Bernardo Bellotto",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/12895",
+  "themes": [
+   "walls"
+  ],
+  "query": "fortress",
+  "local": "assets/collage/aic_12895.jpg"
+ },
+ "aic_26993": {
+  "id": "aic_26993",
+  "img": "https://www.artic.edu/iiif/2/566de308-65b2-089e-4531-8795a47fdd63/full/843,/0/default.jpg",
+  "title": "Landscape with a Fortress on a Hill (1546) Augustin Hirschvogel",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/26993",
+  "themes": [
+   "walls"
+  ],
+  "query": "fortress",
+  "local": "assets/collage/aic_26993.jpg"
+ },
+ "aic_223525": {
+  "id": "aic_223525",
+  "img": "https://www.artic.edu/iiif/2/a0abcdf6-e1ab-4be2-3a85-1ea6d04c07ed/full/843,/0/default.jpg",
+  "title": "Capturing the Fortress at Niuzhuang (Gyusojo senryo) (1895) Hashimoto (Yoshu) Chikanobu",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/223525",
+  "themes": [
+   "walls"
+  ],
+  "query": "fortress",
+  "local": "assets/collage/aic_223525.jpg"
+ },
+ "aic_25156": {
+  "id": "aic_25156",
+  "img": "https://www.artic.edu/iiif/2/03c5f557-52e9-bd24-94ec-c78fc8332af2/full/843,/0/default.jpg",
+  "title": "The Sacred Spring on Fortress Mountain (Jogaku reisen), from the series \"Eight Views of the Ryukyu Islands (Ryukyu hakkei)\" (c. 1832) Katsushika Hokusai",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/25156",
+  "themes": [
+   "walls"
+  ],
+  "query": "fortress",
+  "local": "assets/collage/aic_25156.jpg"
+ },
+ "cma_150353": {
+  "id": "cma_150353",
+  "img": "https://openaccess-cdn.clevelandart.org/1981.13/1981.13_web.jpg",
+  "title": "Ruins of an Ancient City (c. 1810–20)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1981.13",
+  "themes": [
+   "ruins",
+   "stark"
+  ],
+  "query": "ruins",
+  "local": "assets/collage/cma_150353.jpg"
+ },
+ "cma_128876": {
+  "id": "cma_128876",
+  "img": "https://openaccess-cdn.clevelandart.org/1951.485/1951.485_web.jpg",
+  "title": "Roman Ruins, Villa Pamfili (1774)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1951.485",
+  "themes": [
+   "ruins",
+   "stark"
+  ],
+  "query": "ruins",
+  "local": "assets/collage/cma_128876.jpg"
+ },
+ "cma_135483": {
+  "id": "cma_135483",
+  "img": "https://openaccess-cdn.clevelandart.org/1958.472/1958.472_web.jpg",
+  "title": "Ruins in a Rocky Landscape (c. 1640)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1958.472",
+  "themes": [
+   "ruins",
+   "stark"
+  ],
+  "query": "ruins",
+  "local": "assets/collage/cma_135483.jpg"
+ },
+ "cma_149665": {
+  "id": "cma_149665",
+  "img": "https://openaccess-cdn.clevelandart.org/1979.57/1979.57_web.jpg",
+  "title": "Ruin by the Sea (1881)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1979.57",
+  "themes": [
+   "ruins",
+   "stark"
+  ],
+  "query": "ruins",
+  "local": "assets/collage/cma_149665.jpg"
+ },
+ "cma_536652": {
+  "id": "cma_536652",
+  "img": "https://openaccess-cdn.clevelandart.org/2023.117/2023.117_web.jpg",
+  "title": "Landscape with Tharandt Castle Ruins (c. 1800)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2023.117",
+  "themes": [
+   "ruins",
+   "stark"
+  ],
+  "query": "ruins",
+  "local": "assets/collage/cma_536652.jpg"
+ },
+ "aic_863": {
+  "id": "aic_863",
+  "img": "https://www.artic.edu/iiif/2/a34d9d72-c4ec-0750-389e-a01215c9aab0/full/843,/0/default.jpg",
+  "title": "Pastoral Landscape with Ruins (1664) Adriaen van de Velde",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/863",
+  "themes": [
+   "ruins",
+   "stark"
+  ],
+  "query": "ruins",
+  "local": "assets/collage/aic_863.jpg"
+ },
+ "aic_60755": {
+  "id": "aic_60755",
+  "img": "https://www.artic.edu/iiif/2/12086520-2e48-cc75-df86-916bb801e61f/full/843,/0/default.jpg",
+  "title": "Landscape with the Ruins of the Castle of Egmond (1650–55) Jacob van Ruisdael",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/60755",
+  "themes": [
+   "ruins",
+   "stark"
+  ],
+  "query": "ruins",
+  "local": "assets/collage/aic_60755.jpg"
+ },
+ "aic_5848": {
+  "id": "aic_5848",
+  "img": "https://www.artic.edu/iiif/2/aa870b0d-5a1b-660a-6dc6-56c12109cf6e/full/843,/0/default.jpg",
+  "title": "Landscape with Saint John on Patmos (1640) Nicolas Poussin",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/5848",
+  "themes": [
+   "ruins",
+   "stark"
+  ],
+  "query": "ruins",
+  "local": "assets/collage/aic_5848.jpg"
+ },
+ "aic_16376": {
+  "id": "aic_16376",
+  "img": "https://www.artic.edu/iiif/2/5070bb97-208f-6aa5-777b-e58d8e0c8802/full/843,/0/default.jpg",
+  "title": "Ruined Archway (1775–93) Francesco Guardi",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/16376",
+  "themes": [
+   "ruins",
+   "stark"
+  ],
+  "query": "ruins",
+  "local": "assets/collage/aic_16376.jpg"
+ },
+ "aic_111649": {
+  "id": "aic_111649",
+  "img": "https://www.artic.edu/iiif/2/11f33728-685f-c85c-2326-cd0e42536044/full/843,/0/default.jpg",
+  "title": "Abraham's Sacrifice of Isaac (1654–56) David Teniers the Younger",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/111649",
+  "themes": [
+   "ruins",
+   "stark"
+  ],
+  "query": "ruins",
+  "local": "assets/collage/aic_111649.jpg"
+ },
+ "wellcome_ag6vgf4h": {
+  "id": "wellcome_ag6vgf4h",
+  "img": "https://iiif.wellcomecollection.org/image/V0034184/full/1100,/0/default.jpg",
+  "title": "In the Garden of Eden, while the serpent curls around the tree of knowledge, Eve is about to taste the apple. Coloured etching, 17--.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ze2gakug",
+  "themes": [
+   "tradition",
+   "tree"
+  ],
+  "query": "tree of knowledge",
+  "local": "assets/collage/wellcome_ag6vgf4h.jpg"
+ },
+ "wellcome_j92c4m35": {
+  "id": "wellcome_j92c4m35",
+  "img": "https://iiif.wellcomecollection.org/image/V0034416/full/1100,/0/default.jpg",
+  "title": "Three goddesses dance around the Tree of Knowledge. Engraving by J. Payrau, 1901, after E. Burne-Jones.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/d9k97zy4",
+  "themes": [
+   "tradition",
+   "tree"
+  ],
+  "query": "tree of knowledge",
+  "local": "assets/collage/wellcome_j92c4m35.jpg"
+ },
+ "wellcome_xcqxbh8m": {
+  "id": "wellcome_xcqxbh8m",
+  "img": "https://iiif.wellcomecollection.org/image/V0034195/full/1100,/0/default.jpg",
+  "title": "A serpent with a woman's head lurks in the Tree of Knowledge above Adam and Eve. Chromolithograph after Masolino.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/q3ge38ds",
+  "themes": [
+   "tradition",
+   "tree"
+  ],
+  "query": "tree of knowledge",
+  "local": "assets/collage/wellcome_xcqxbh8m.jpg"
+ },
+ "wellcome_jjwdutpt": {
+  "id": "wellcome_jjwdutpt",
+  "img": "https://iiif.wellcomecollection.org/image/V0007682/full/1100,/0/default.jpg",
+  "title": "A woman looking into a hand-mirror; in the background God shows Adam and Eve the tree of knowledge. Engraving by N. de Bruyn after M. de Vos.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ph3pnz9w",
+  "themes": [
+   "tradition",
+   "tree"
+  ],
+  "query": "tree of knowledge",
+  "local": "assets/collage/wellcome_jjwdutpt.jpg"
+ },
+ "wellcome_j4m5dbxt": {
+  "id": "wellcome_j4m5dbxt",
+  "img": "https://iiif.wellcomecollection.org/image/V0007683/full/1100,/0/default.jpg",
+  "title": "A female figure with bowls of fruit and a monkey; Eve picks the apple from the tree of knowledge; representing the sense of taste. Engraving by N. de Bruyn after M. de Vos.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/acuxvj9w",
+  "themes": [
+   "tradition",
+   "tree"
+  ],
+  "query": "tree of knowledge",
+  "local": "assets/collage/wellcome_j4m5dbxt.jpg"
+ },
+ "wellcome_wd4cpwcm": {
+  "id": "wellcome_wd4cpwcm",
+  "img": "https://iiif.wellcomecollection.org/image/V0034601/full/1100,/0/default.jpg",
+  "title": "The birth of the Virgin Mary, a 'virga' (shoot) from the genealogical tree of Jesse. Engraving by D. Cunego, 1778, after D. Zampieri, il Domenichino.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/y2s9d4y3",
+  "themes": [
+   "tradition",
+   "tree"
+  ],
+  "query": "genealogical tree",
+  "local": "assets/collage/wellcome_wd4cpwcm.jpg"
+ },
+ "wellcome_sawp4w54": {
+  "id": "wellcome_sawp4w54",
+  "img": "https://iiif.wellcomecollection.org/image/L0001965/full/1100,/0/default.jpg",
+  "title": "The human nature library.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/dxpwxn3s",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "library",
+  "local": "assets/collage/wellcome_sawp4w54.jpg"
+ },
+ "wellcome_d6duhkbu": {
+  "id": "wellcome_d6duhkbu",
+  "img": "https://iiif.wellcomecollection.org/image/L0014411/full/1100,/0/default.jpg",
+  "title": "Diagram of groundplan of Wellcome library.",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/akfu3czh",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "library",
+  "local": "assets/collage/wellcome_d6duhkbu.jpg"
+ },
+ "wellcome_p3gaz38p": {
+  "id": "wellcome_p3gaz38p",
+  "img": "https://iiif.wellcomecollection.org/image/L0017539/full/1100,/0/default.jpg",
+  "title": "Wellcome library: stacks and gallery, 1953",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/vq86na25",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "library",
+  "local": "assets/collage/wellcome_p3gaz38p.jpg"
+ },
+ "wellcome_cdzf22ed": {
+  "id": "wellcome_cdzf22ed",
+  "img": "https://iiif.wellcomecollection.org/image/L0004787/full/1100,/0/default.jpg",
+  "title": "Wellcome museum & library: study carrel",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/a6feyc7b",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "library",
+  "local": "assets/collage/wellcome_cdzf22ed.jpg"
+ },
+ "wellcome_e3c99r99": {
+  "id": "wellcome_e3c99r99",
+  "img": "https://iiif.wellcomecollection.org/image/L0004783/full/1100,/0/default.jpg",
+  "title": "Wellcome museum & library: Osler room",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/bzwc9jfg",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "library",
+  "local": "assets/collage/wellcome_e3c99r99.jpg"
+ },
+ "aic_208143": {
+  "id": "aic_208143",
+  "img": "https://www.artic.edu/iiif/2/7f0c1692-cd8a-ca14-e70a-b8252f55c453/full/843,/0/default.jpg",
+  "title": "Library Ladder (1782) William France",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/208143",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "library",
+  "local": "assets/collage/aic_208143.jpg"
+ },
+ "aic_117618": {
+  "id": "aic_117618",
+  "img": "https://www.artic.edu/iiif/2/2d6719e1-8c05-5d23-82fd-75297feca652/full/843,/0/default.jpg",
+  "title": "E20: French Library of the Louis XV Period, c. 1720 (c. 1937) Narcissa Thorne",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/117618",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "library",
+  "local": "assets/collage/aic_117618.jpg"
+ },
+ "aic_43724": {
+  "id": "aic_43724",
+  "img": "https://www.artic.edu/iiif/2/ad4f0f6e-6a43-5bb2-0234-2a0538a8db7a/full/843,/0/default.jpg",
+  "title": "E13: English Rotunda and Library of the Regency Period, 1810–20 (c. 1937) Narcissa Thorne",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/43724",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "library",
+  "local": "assets/collage/aic_43724.jpg"
+ },
+ "aic_43700": {
+  "id": "aic_43700",
+  "img": "https://www.artic.edu/iiif/2/512277c6-896c-7941-0eea-b2ab3e3dd8eb/full/843,/0/default.jpg",
+  "title": "E6: English Library of the Queen Anne/George I Periods, 1702–50 (c. 1937) Narcissa Thorne",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/43700",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "library",
+  "local": "assets/collage/aic_43700.jpg"
+ },
+ "aic_44014": {
+  "id": "aic_44014",
+  "img": "https://www.artic.edu/iiif/2/f1a9dda2-96c3-9fee-5eee-de7b812521dd/full/843,/0/default.jpg",
+  "title": "Klänge (1907–12, published 1913) Vasily Kandinsky",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/44014",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "library",
+  "local": "assets/collage/aic_44014.jpg"
+ },
+ "wellcome_depprkju": {
+  "id": "wellcome_depprkju",
+  "img": "https://iiif.wellcomecollection.org/image/L0064626/full/1100,/0/default.jpg",
+  "title": "First book.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ea7jc9tn",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "book",
+  "local": "assets/collage/wellcome_depprkju.jpg"
+ },
+ "wellcome_hqb44wub": {
+  "id": "wellcome_hqb44wub",
+  "img": "https://iiif.wellcomecollection.org/image/L0064625/full/1100,/0/default.jpg",
+  "title": "First book.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ea7jc9tn",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "book",
+  "local": "assets/collage/wellcome_hqb44wub.jpg"
+ },
+ "wellcome_jkecqxp9": {
+  "id": "wellcome_jkecqxp9",
+  "img": "https://iiif.wellcomecollection.org/image/L0064621/full/1100,/0/default.jpg",
+  "title": "First book.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ea7jc9tn",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "book",
+  "local": "assets/collage/wellcome_jkecqxp9.jpg"
+ },
+ "wellcome_jmf83azf": {
+  "id": "wellcome_jmf83azf",
+  "img": "https://iiif.wellcomecollection.org/image/L0064623/full/1100,/0/default.jpg",
+  "title": "First book.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ea7jc9tn",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "book",
+  "local": "assets/collage/wellcome_jmf83azf.jpg"
+ },
+ "wellcome_kffw6e58": {
+  "id": "wellcome_kffw6e58",
+  "img": "https://iiif.wellcomecollection.org/image/L0064622/full/1100,/0/default.jpg",
+  "title": "First book.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ea7jc9tn",
+  "themes": [
+   "library",
+   "labyrinth"
+  ],
+  "query": "book",
+  "local": "assets/collage/wellcome_kffw6e58.jpg"
+ },
+ "wellcome_ps94sttm": {
+  "id": "wellcome_ps94sttm",
+  "img": "https://iiif.wellcomecollection.org/image/V0024749/full/1100,/0/default.jpg",
+  "title": "Astronomy: stars in the night sky, with Encke's comet. Coloured engraving by J. Basire, 1851 after C. Piazzi Smyth.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/fp2vqzsz",
+  "themes": [
+   "stars",
+   "frontier",
+   "labyrinth"
+  ],
+  "query": "night sky stars",
+  "local": "assets/collage/wellcome_ps94sttm.jpg"
+ },
+ "wellcome_rug5smhg": {
+  "id": "wellcome_rug5smhg",
+  "img": "https://iiif.wellcomecollection.org/image/V0024950/full/1100,/0/default.jpg",
+  "title": "Astronomy: a star map of the night sky. Engraving, 1786.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/cu9tjdar",
+  "themes": [
+   "stars",
+   "frontier",
+   "labyrinth"
+  ],
+  "query": "night sky stars",
+  "local": "assets/collage/wellcome_rug5smhg.jpg"
+ },
+ "wellcome_dhsmwyej": {
+  "id": "wellcome_dhsmwyej",
+  "img": "https://iiif.wellcomecollection.org/image/V0025745/full/1100,/0/default.jpg",
+  "title": "Astronomy: a star map of the night sky in the southern hemisphere, with names of the constellations. Coloured engraving.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/pdrty787",
+  "themes": [
+   "stars",
+   "frontier",
+   "labyrinth"
+  ],
+  "query": "night sky stars",
+  "local": "assets/collage/wellcome_dhsmwyej.jpg"
+ },
+ "wellcome_gce9ju5n": {
+  "id": "wellcome_gce9ju5n",
+  "img": "https://iiif.wellcomecollection.org/image/b14982523_WT3002_0001.jp2/full/1100,/0/default.jpg",
+  "title": "Astronomy: a star map of the night sky in the northern hemisphere, with the names of the constellations. Coloured engraving.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/phqktgbw",
+  "themes": [
+   "stars",
+   "frontier",
+   "labyrinth"
+  ],
+  "query": "night sky stars",
+  "local": "assets/collage/wellcome_gce9ju5n.jpg"
+ },
+ "wellcome_jacq733j": {
+  "id": "wellcome_jacq733j",
+  "img": "https://iiif.wellcomecollection.org/image/V0025744/full/1100,/0/default.jpg",
+  "title": "Astronomy: a star map of the night sky in the northern hemisphere, with the names of the constellations. Coloured engraving.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/phqktgbw",
+  "themes": [
+   "stars",
+   "frontier",
+   "labyrinth"
+  ],
+  "query": "night sky stars",
+  "local": "assets/collage/wellcome_jacq733j.jpg"
+ },
+ "wellcome_zp8knbds": {
+  "id": "wellcome_zp8knbds",
+  "img": "https://iiif.wellcomecollection.org/image/V0024932/full/1100,/0/default.jpg",
+  "title": "Astrology: constellations, Taurus. Coloured engraving.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/kw43uwb8",
+  "themes": [
+   "stars",
+   "frontier",
+   "labyrinth"
+  ],
+  "query": "constellations",
+  "local": "assets/collage/wellcome_zp8knbds.jpg"
+ },
+ "wellcome_uc5vrhqc": {
+  "id": "wellcome_uc5vrhqc",
+  "img": "https://iiif.wellcomecollection.org/image/V0024931/full/1100,/0/default.jpg",
+  "title": "Astrology: constellations, the Great Bear. Coloured engraving.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/hat2u5qz",
+  "themes": [
+   "stars",
+   "frontier",
+   "labyrinth"
+  ],
+  "query": "constellations",
+  "local": "assets/collage/wellcome_uc5vrhqc.jpg"
+ },
+ "wellcome_mnnbqg2z": {
+  "id": "wellcome_mnnbqg2z",
+  "img": "https://iiif.wellcomecollection.org/image/V0024944/full/1100,/0/default.jpg",
+  "title": "Astrology: various constellations. Coloured engraving by S. Hall.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/dtwdfwxn",
+  "themes": [
+   "stars",
+   "frontier",
+   "labyrinth"
+  ],
+  "query": "constellations",
+  "local": "assets/collage/wellcome_mnnbqg2z.jpg"
+ },
+ "wellcome_xktd6jg7": {
+  "id": "wellcome_xktd6jg7",
+  "img": "https://iiif.wellcomecollection.org/image/V0024933/full/1100,/0/default.jpg",
+  "title": "Astrology: various constellations. Coloured engraving by S. Hall.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/hjbpc4t9",
+  "themes": [
+   "stars",
+   "frontier",
+   "labyrinth"
+  ],
+  "query": "constellations",
+  "local": "assets/collage/wellcome_xktd6jg7.jpg"
+ },
+ "wellcome_jwzd4rnj": {
+  "id": "wellcome_jwzd4rnj",
+  "img": "https://iiif.wellcomecollection.org/image/V0024934/full/1100,/0/default.jpg",
+  "title": "Astrology: constellations, Hercules. Coloured engraving by S. Hall, 1825.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/m5nd7xd4",
+  "themes": [
+   "stars",
+   "frontier",
+   "labyrinth"
+  ],
+  "query": "constellations",
+  "local": "assets/collage/wellcome_jwzd4rnj.jpg"
+ },
+ "cma_152490": {
+  "id": "cma_152490",
+  "img": "https://openaccess-cdn.clevelandart.org/1985.312/1985.312_web.jpg",
+  "title": "Night Rain at Karasaki, from Eight Views of Ōmi (c. 1835)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1985.312",
+  "themes": [
+   "rain",
+   "k"
+  ],
+  "query": "rain",
+  "local": "assets/collage/cma_152490.jpg"
+ },
+ "cma_149662": {
+  "id": "cma_149662",
+  "img": "https://openaccess-cdn.clevelandart.org/1979.54/1979.54_web.jpg",
+  "title": "Rain-coming Pavilion by the Stone Bridge at Mt. Tiantai (1848)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1979.54",
+  "themes": [
+   "rain",
+   "k"
+  ],
+  "query": "rain",
+  "local": "assets/collage/cma_149662.jpg"
+ },
+ "cma_165736": {
+  "id": "cma_165736",
+  "img": "https://openaccess-cdn.clevelandart.org/2008.108/2008.108_web.jpg",
+  "title": "Spring Rain Thatched Hut (1650)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2008.108",
+  "themes": [
+   "rain",
+   "k"
+  ],
+  "query": "rain",
+  "local": "assets/collage/cma_165736.jpg"
+ },
+ "cma_126086": {
+  "id": "cma_126086",
+  "img": "https://openaccess-cdn.clevelandart.org/1948.306/1948.306_web.jpg",
+  "title": "Driving Rain at Shōno, from Fifty-Three Stations of the Tokaidō (1833)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1948.306",
+  "themes": [
+   "rain",
+   "k"
+  ],
+  "query": "rain",
+  "local": "assets/collage/cma_126086.jpg"
+ },
+ "cma_447805": {
+  "id": "cma_447805",
+  "img": "https://openaccess-cdn.clevelandart.org/2022.151/2022.151_web.jpg",
+  "title": "Rain Clearing over a Summer’s Mountain (1893–1914)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2022.151",
+  "themes": [
+   "rain",
+   "k"
+  ],
+  "query": "rain",
+  "local": "assets/collage/cma_447805.jpg"
+ },
+ "cma_140084": {
+  "id": "cma_140084",
+  "img": "https://openaccess-cdn.clevelandart.org/1963.95/1963.95_web.jpg",
+  "title": "Hero and Animal Combat Beaker (900–700 BCE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1963.95",
+  "themes": [
+   "faces",
+   "frontier"
+  ],
+  "query": "hero",
+  "local": "assets/collage/cma_140084.jpg"
+ },
+ "cma_170811": {
+  "id": "cma_170811",
+  "img": "https://openaccess-cdn.clevelandart.org/2013.31/2013.31_web.jpg",
+  "title": "Bust of a Classical Hero or Emperor (early to mid-1500s)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2013.31",
+  "themes": [
+   "faces",
+   "frontier"
+  ],
+  "query": "hero",
+  "local": "assets/collage/cma_170811.jpg"
+ },
+ "cma_156646": {
+  "id": "cma_156646",
+  "img": "https://openaccess-cdn.clevelandart.org/1992.343/1992.343_web.jpg",
+  "title": "Hero and Leander (1893–94)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1992.343",
+  "themes": [
+   "faces",
+   "frontier"
+  ],
+  "query": "hero",
+  "local": "assets/collage/cma_156646.jpg"
+ },
+ "cma_153683": {
+  "id": "cma_153683",
+  "img": "https://openaccess-cdn.clevelandart.org/1987.2/1987.2_web.jpg",
+  "title": "Hercules (c. 30 BCE–20 CE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1987.2",
+  "themes": [
+   "faces",
+   "frontier"
+  ],
+  "query": "hero",
+  "local": "assets/collage/cma_153683.jpg"
+ },
+ "cma_98348": {
+  "id": "cma_98348",
+  "img": "https://openaccess-cdn.clevelandart.org/1917.993/1917.993_web.jpg",
+  "title": "Drachm: Head of Herakles (obverse); Club, Bow Case (reverse) (387–300 BCE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1917.993",
+  "themes": [
+   "faces",
+   "frontier"
+  ],
+  "query": "hero",
+  "local": "assets/collage/cma_98348.jpg"
+ }
+}

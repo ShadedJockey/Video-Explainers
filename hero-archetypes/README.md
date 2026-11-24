@@ -1,8 +1,23 @@
 # Hero Archetypes: collage explainer
 
-> **Two drafts live here.**
+> **Three drafts live here.**
 > - **Draft 1** (below): *The Hero with a Thousand Faces*, 16:9 sticker-collage explainer, 3:27 → `final/hero_archetypes_1080p.mp4`.
 > - **Draft 2**: *The Hero With Infinite Faces*, vertical 9:16, text-led esoteric archival collage, about 7:30 → `final/hero_infinite_faces_vertical.mp4`. Script: `draft2/narration.md` · settings: `draft2/config.yaml` · style: `style/collage_style_prompt.md` · storyboard: `draft2/storyboard.md`.
+>
+>
+> **Draft 3 (TikTok cut)**: *The Hero With Infinite Faces*, 1080×1920, 6:47 → `final/hero_infinite_faces_v3_vertical.mp4`. Design: `draft3/DESIGN.md` · plan: `draft3/PLAN.md` · script: `draft3/narration.md` · settings: `draft3/config.yaml` · captions: `draft3/hero_infinite_faces_v3.srt` · credits: `draft3/collage_sources.md`.
+>
+> | To change (draft 3) | Edit | Then run |
+> |---|---|---|
+> | Narration, bold/italic words, topic tags, registers | `draft3/narration.md` (`[register: …]`, `[scene: stack]`) | `./render.sh v3-voice`, then `v3-final` |
+> | Series name in the header and end card | `series_name:` in `draft3/config.yaml` (now `SERIES_NAME`) | `./render.sh v3-final` |
+> | Layout bands, colours, register looks, motion timings | `draft3/config.yaml` | `./render.sh v3-final` |
+> | Which hero appears on which line | `heroes:` in `draft3/config.yaml` (`s<beat>.<line>@<fraction>` refs) | `./render.sh v3-final` |
+> | Images used in the special moments | `draft3/moments.yaml` | `./render.sh v3-final` |
+> | Drop an image from the collage | add its id to `draft3/collage_exclude.txt` | `./render.sh v3-final` |
+> | Music intensity per beat, silences, foley levels | `music:` / `foley:` in `draft3/config.yaml` | `./render.sh v3-final` |
+> | Real voice or music | `assets/voiceover_draft3.wav`, `assets/music.mp3` | `./render.sh v3-final` |
+> | Check one moment against TikTok's covered areas | nothing | `./render.sh v3-still --safe s4.10@0.5` |
 >
 > Draft 2 quick commands: `./render.sh v2-voice` (after editing the script) → `./render.sh v2-preview` → `./render.sh v2-final`.
 > Edit text in `draft2/narration.md`: `**bold**` = bold word on screen, `*…*` = italic line, `[tag: X]` = topic tag. Hero images per section, collage pacing, colours and fonts are in `draft2/config.yaml`. To drop an image from the collage, add its id to `draft2/collage_exclude.txt`. A real music bed goes in `assets/music.mp3` (otherwise a generated drone is used), and a recorded draft-2 voiceover goes in `assets/voiceover_draft2.wav`.

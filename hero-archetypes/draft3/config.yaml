@@ -1,0 +1,179 @@
+# ─────────────────────────────────────────────────────────────
+#  Draft 3: "The Hero With Infinite Faces" (TikTok cut). Render settings.
+#  Design: draft3/DESIGN.md · build: ./render.sh v3-voice | v3-preview | v3-final | v3-still <ref>
+#  Times use narration references: s<beat>.<line>[@fraction][e][+/-seconds]
+# ─────────────────────────────────────────────────────────────
+
+output:
+  final:   {width: 1080, height: 1920, fps: 30, crf: 23, preset: slow,     file: final/hero_infinite_faces_v3_vertical.mp4}
+  preview: {width: 540,  height: 960,  fps: 15, crf: 28, preset: veryfast, file: draft3/build/preview_540x960.mp4}
+
+series_name: "SERIES_NAME"        # ← set this to your channel name (header tag + end card)
+
+# ── Voice ────────────────────────────────────────────────────
+voice:
+  engine: kokoro
+  kokoro_voice: bf_emma           # British female placeholder; alternatives: bf_isabella, bf_alice, bf_lily
+  speed: 0.93
+  register_speed: {prologue: 0.85}
+  gap_between_lines: 0.45
+  register_line_gap: {prologue: 1.15, labyrinth: 1.05, stark: 0.75}
+  gap_between_sections: 1.5
+  inscription_hold: 1.2           # italic lines hold this much longer before the next line
+  extra_silence_before:           # dramatic silences (seconds) before lines starting with…
+    "This is not a definition": 1.5
+    "It could be": 1.0
+  lead_in: 2.0                    # black + first ember before the first word
+  tail: 4.0                       # last line hold + end card (3 s)
+  pronunciations:
+    "Deutsch": "Doytch"
+    "Jung": "Yoong"
+    "Nausicaä": "Now-sick-ah"
+    "Estel": "Es-tell"
+    "Gilgamesh": "Gill-guh-mesh"
+    "Guts": "Guts"
+    "Galileo": "Gal-ih-lay-oh"
+    "Brecht": "Brekht"
+    "Dawkins": "Daw-kins"
+    "Popper": "Popper"
+
+# ── Music & sound ────────────────────────────────────────────
+music:
+  file: assets/music.mp3          # your bed; if missing, the generated drone is used (with the same envelope)
+  level_db: -24
+  duck_db: 6
+  duck_attack: 0.3
+  duck_release: 0.8
+  envelope: {0: 0.22, 1: 0.45, 2: 0.5, 3: 0.6, 4: 0.65, 5: 1.0, 6: 0.14, 7: 0.05, 8: 0.45, 9: 0.38, 10: 0.55, 11: 0.8, 12: 1.0}
+  silences: ["This is not a definition", "It could be"]   # music drops to near-silence for the pause before these
+foley:
+  paper_db: -30                   # each collage piece landing
+  crackle_db: -27                 # fire crackle: cold open + wherever the ember is passed
+  crackle_beats: [0, 10, 12]
+loudness: {integrated_lufs: -15, true_peak_db: -1.2, sample_rate: 48000}
+
+# ── Layout for TikTok (px at 1080×1920; scaled for preview) ──
+layout:
+  safe_top: 220                   # TikTok top bar: collage only
+  header_y: [230, 290]
+  text_y: [300, 1000]
+  text_x: [60, 940]
+  max_strips: 7
+  margin_jitter_px: 4
+  hero_band: [1000, 1440]
+  safe_bottom: 1440               # caption and buttons below: collage only
+  safe_right: 140                 # like / comment / share buttons: collage only
+  header_fade_px: 26              # lines fade out over this distance above the column top
+
+fonts:
+  body:         assets/fonts/EBGaramond-Variable.ttf
+  body_italic:  assets/fonts/EBGaramond-Italic-Variable.ttf
+  title:        assets/fonts/InstrumentSerif-Regular.ttf
+  title_italic: assets/fonts/InstrumentSerif-Italic.ttf
+
+colors:
+  strip: "#f6f1e6"                # warm white paper
+  ink: "#141110"                  # near-black
+  inscription_bg: "#0c0a09"
+  inscription_ink: "#f3ead8"
+  ember_core: "#fff1c9"
+  ember_glow: "#ff9a2e"           # ember gold
+  mark: "#e8a33d"
+  seam: "#f0c25a"
+  swatches: ["#4a1c1f", "#6b2a2e", "#2a2340", "#1c2433", "#14182a", "#0e0f1c", "#b08a3e", "#c9a253", "#2f3b2f", "#5a1e2a", "#101014", "#1b1430"]
+
+text:
+  size_px: 50
+  strip_h_em: 1.42
+  gap_px: 8
+  para_gap_px: 18
+  pad_x_px: 30
+  prologue_size_px: 52
+
+# ── Registers: visual mode per writing register ──────────────
+registers:
+  prologue:  {grade: {darken: 0.34, vignette: 0.85, desaturate: 0.45, warm: 0.10, contrast: 1.05}, interval_s: 2.0, burst: [1, 1], entry: fade, wipe_s: 0.0, themes: [hands, fire, prologue]}
+  scripture: {grade: {darken: 0.60, vignette: 0.60, desaturate: 0.22, warm: 0.12, contrast: 1.08}, interval_s: 0.9, burst: [2, 4], entry: slide, wipe_s: 0.15, themes: [faces, costume, scripture]}
+  mythmaker: {grade: {darken: 0.84, vignette: 0.42, desaturate: 0.15, warm: 0.07, contrast: 1.06}, interval_s: 0.9, burst: [2, 4], entry: slide, wipe_s: 0.15, themes: [map, dragon, mythmaker, tradition]}
+  rational:  {grade: {darken: 0.74, vignette: 0.45, desaturate: 0.25, warm: -0.05, contrast: 1.10}, interval_s: 0.6, burst: [2, 3], entry: slide, wipe_s: 0.15, themes: [eyes, wings, haeckel, emblem, stars, rational]}
+  labyrinth: {grade: {darken: 0.72, vignette: 0.50, desaturate: 0.20, warm: 0.02, contrast: 1.06}, interval_s: 0.9, burst: [2, 3], entry: slide, wipe_s: 0.15, themes: [library, labyrinth, stars]}
+  stark:     {grade: {darken: 0.76, vignette: 0.62, desaturate: 0.93, warm: 0.0, contrast: 1.18}, interval_s: 1.6, burst: [1, 2], entry: fade, wipe_s: 0.30, themes: [ruins, stark], keep_red: true, black_share: 0.25}
+
+# light curve: darkness → light over the film (multiplies the register grade)
+light: {0: 0.75, 1: 0.85, 2: 0.95, 3: 0.98, 4: 1.0, 5: 1.02, 6: 0.95, 7: 0.72, 8: 1.0, 9: 0.9, 10: 1.04, 11: 1.1, 12: 1.2}
+
+motion:
+  piece_slide_s: [0.2, 0.5]
+  fade_drift_s: 1.5
+  hero_in_s: 0.6
+  hero_settle_from: 1.04
+  hero_push: 0.02
+  scroll_s: 0.4
+  beat_change_s: 0.6
+  frame_drift: 0.015
+  ember_pulse_s: 3.0
+  grade_xfade_s: 1.0
+  rotation_deg: 3.0
+
+collage:
+  seed: 23
+  size_px: [330, 820]
+  cut_mix: {rect: 0.5, poly: 0.4, torn: 0.1}
+  swatch_share: 0.14
+  relevance: 0.75                 # share of pieces drawn from the register/beat themes
+  pools: [draft3/collage_credits.json, draft2/collage_credits.json]
+  exclude: [draft3/collage_exclude.txt, draft2/collage_exclude.txt]
+
+# extra collage themes per beat (on top of the register's)
+beat_themes:
+  0: [hands, fire]
+  1: [faces, costume]
+  2: [map, dragon]
+  3: [eyes, wings]
+  4: [emblem]
+  6: [ruins]
+  7: [ruins]
+  8: [walls, haeckel, soil, microscope]
+  9: [rain, portrait]
+  10: [tradition, tree, fire]
+  11: [portrait, faces, map, stars]
+  12: [stars, fire]
+
+# ── Heroes per beat, timed to their lines (copyrighted ones only while discussed) ──
+heroes:
+  - {id: campbell,  at: s1.1,      until: s1.1e+0.6}
+  - {id: jung,      at: s1.2,      until: s1.3e}
+  - {id: gilgamesh, at: s2.3,      until: s2.4e}
+  - {id: link_botw, at: s2.5,      until: s2.7e}
+  - {id: gandalf,   at: s2.8,      until: s2.8e+0.4}
+  - {id: deku_tree, at: s2.8@0.4,  until: s2.8e+0.4}
+  - {id: ganondorf, at: s2.9,      until: s2.9e+0.5}
+  - {id: vader,     at: s2.9@0.35, until: s2.9e+0.5}
+  - {id: popper,    at: s4.11,     until: s4.11e+0.3}
+  - {id: deutsch,   at: s4.12,     until: s4.13e}
+  - {id: guts,      at: s6.2,      until: s6.7e, keep_red: true}
+  - {id: nausicaa,  at: s8.6,      until: s8.6e+0.3}
+  - {id: nausicaa_study, at: s8.7, until: s8.7e+0.8}
+  - {id: k_still,   at: s9.3,      until: s9.6e}
+  - {id: aragorn,   at: s10.2,     until: s10.3e+0.3}
+  - {id: frodo,     at: s10.4,     until: s10.4e+0.4}
+  - {id: sam,       at: s10.4@0.4, until: s10.4e+0.4}
+
+# beat 11 cascade (anonymous archival portraits mixed with small heroes)
+cascade:
+  from: s11.1
+  until: s11.8
+  heroes: [master_chief, link_oot, frodo, nausicaa, guts, aragorn, gilgamesh, heracles, goku, naruto, kusanagi]
+  min_gap_s: 0.16
+
+# exactly four hard cuts
+cuts:
+  title: s0.12                     # title card over Dürer on "They were wrong about the number"
+  stack: s5                        # into the stack
+  black: s7.7                      # black for "This is not a definition. It is a theory. It could be wrong."
+  end_card_after: s12.6e+1.0       # end card for 3 s
+
+title:
+  image_query: "Knight Death and the Devil"
+  line1: "The Hero With"
+  line2: "Infinite *Faces*"
