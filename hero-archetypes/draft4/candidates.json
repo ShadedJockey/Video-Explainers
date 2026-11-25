@@ -1,0 +1,862 @@
+{
+ "cma_150543": {
+  "id": "cma_150543",
+  "img": "https://openaccess-cdn.clevelandart.org/1981.95/1981.95_web.jpg",
+  "title": "Achilles Dragging the Body of Hector (1648)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1981.95",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/cma_150543.jpg"
+ },
+ "cma_168008": {
+  "id": "cma_168008",
+  "img": "https://openaccess-cdn.clevelandart.org/2009.587/2009.587_web.jpg",
+  "title": "The Baptism of Achilles (1842)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2009.587",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/cma_168008.jpg"
+ },
+ "cma_124720": {
+  "id": "cma_124720",
+  "img": "https://openaccess-cdn.clevelandart.org/1946.204/1946.204_web.jpg",
+  "title": "Achilles Véron withdrawing into his tent. (1850)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1946.204",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/cma_124720.jpg"
+ },
+ "cma_124135": {
+  "id": "cma_124135",
+  "img": "https://openaccess-cdn.clevelandart.org/1945.13/1945.13_web.jpg",
+  "title": "Sleep and Death Cista Handle (400–375 BCE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1945.13",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/cma_124135.jpg"
+ },
+ "cma_129828": {
+  "id": "cma_129828",
+  "img": "https://openaccess-cdn.clevelandart.org/1952.259/1952.259_web.jpg",
+  "title": "Mirror with Engraved Scene: Thesan and Memnun (Eos and Memnon) (c. 470–460 BCE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1952.259",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/cma_129828.jpg"
+ },
+ "aic_166": {
+  "id": "aic_166",
+  "img": "https://www.artic.edu/iiif/2/7605118c-b634-cd1f-2c92-b1406ffb1071/full/843,/0/default.jpg",
+  "title": "Amphora (Storage Jar) (460-450 BCE) Achilles Painter",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/166",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/aic_166.jpg"
+ },
+ "aic_111044": {
+  "id": "aic_111044",
+  "img": "https://www.artic.edu/iiif/2/880d3903-36bb-a12a-fee5-f7e6bd451a35/full/843,/0/default.jpg",
+  "title": "Lekythos (Oil Jar) (445-440 BCE) Achilles Painter",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/111044",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/aic_111044.jpg"
+ },
+ "aic_113990": {
+  "id": "aic_113990",
+  "img": "https://www.artic.edu/iiif/2/05b325cf-1840-47b3-ebc9-bcbedc733911/full/843,/0/default.jpg",
+  "title": "Study (1839/42) Achille Devéria",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/113990",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/aic_113990.jpg"
+ },
+ "aic_104332": {
+  "id": "aic_104332",
+  "img": "https://www.artic.edu/iiif/2/7f793111-d28f-23e1-d80d-35d54ff0ac37/full/843,/0/default.jpg",
+  "title": "The Artist (n.d.) Achille Devéria",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/104332",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/aic_104332.jpg"
+ },
+ "aic_111877": {
+  "id": "aic_111877",
+  "img": "https://www.artic.edu/iiif/2/79fb9f83-4846-3b8c-f6ce-d13be7e162dc/full/843,/0/default.jpg",
+  "title": "Portrait of Franz Liszt (published August 1832) Achille Devéria",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/111877",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/aic_111877.jpg"
+ },
+ "wellcome_e8fez4rb": {
+  "id": "wellcome_e8fez4rb",
+  "img": "https://iiif.wellcomecollection.org/image/B2045899X_0002.JP2/full/1100,/0/default.jpg",
+  "title": "Achilles. Photographic postcard, 190-.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/dhy97kux",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/wellcome_e8fez4rb.jpg"
+ },
+ "wellcome_euuab99s": {
+  "id": "wellcome_euuab99s",
+  "img": "https://iiif.wellcomecollection.org/image/B2045899X_0001.JP2/full/1100,/0/default.jpg",
+  "title": "Achilles. Photographic postcard, 190-.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/dhy97kux",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/wellcome_euuab99s.jpg"
+ },
+ "wellcome_eqtzj9jz": {
+  "id": "wellcome_eqtzj9jz",
+  "img": "https://iiif.wellcomecollection.org/image/L0000418/full/1100,/0/default.jpg",
+  "title": "Portrait of Achilles Pirminius Gasser",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/cxvq5em5",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/wellcome_eqtzj9jz.jpg"
+ },
+ "wellcome_y8jtma6m": {
+  "id": "wellcome_y8jtma6m",
+  "img": "https://iiif.wellcomecollection.org/image/L0028166/full/1100,/0/default.jpg",
+  "title": "Achilles binding the wounds of his friend Patroclos. ",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/k7breb3m",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/wellcome_y8jtma6m.jpg"
+ },
+ "wellcome_xcnavg8u": {
+  "id": "wellcome_xcnavg8u",
+  "img": "https://iiif.wellcomecollection.org/image/V0036090/full/1100,/0/default.jpg",
+  "title": "Achilles dragging the body of Hector around Troy. Mezzotint after G. Hamilton, 1794.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/hxhe9axw",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/cand/wellcome_xcnavg8u.jpg"
+ },
+ "cma_127563": {
+  "id": "cma_127563",
+  "img": "https://openaccess-cdn.clevelandart.org/1950.241/1950.241_web.jpg",
+  "title": "The Knight and  Lansquenet (c. 1512)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1950.241",
+  "role": "knight",
+  "query": "knight",
+  "local": "assets/v4/cand/cma_127563.jpg"
+ },
+ "cma_108884": {
+  "id": "cma_108884",
+  "img": "https://openaccess-cdn.clevelandart.org/1926.554/1926.554_web.jpg",
+  "title": "Sir Anthony Mildmay, Knight of Apethorpe, Northamptonshire (c. 1590–93)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1926.554",
+  "role": "knight",
+  "query": "knight",
+  "local": "assets/v4/cand/cma_108884.jpg"
+ },
+ "cma_141637": {
+  "id": "cma_141637",
+  "img": "https://openaccess-cdn.clevelandart.org/1965.231/1965.231_web.jpg",
+  "title": "Knight, Death, and the Devil (1513)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1965.231",
+  "role": "knight",
+  "query": "knight",
+  "local": "assets/v4/cand/cma_141637.jpg"
+ },
+ "cma_448815": {
+  "id": "cma_448815",
+  "img": "https://openaccess-cdn.clevelandart.org/2021.170.6/2021.170.6_web.jpg",
+  "title": "The Knight Did Not Die in the Crusade (1899)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/2021.170.6",
+  "role": "knight",
+  "query": "knight",
+  "local": "assets/v4/cand/cma_448815.jpg"
+ },
+ "cma_106397": {
+  "id": "cma_106397",
+  "img": "https://openaccess-cdn.clevelandart.org/1924.432.6/1924.432.6_web.jpg",
+  "title": "The Knight (from the Tarocchi, series E: Conditions of Man, #6) (before 1467)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1924.432.6",
+  "role": "knight",
+  "query": "knight",
+  "local": "assets/v4/cand/cma_106397.jpg"
+ },
+ "aic_81392": {
+  "id": "aic_81392",
+  "img": "https://www.artic.edu/iiif/2/ad6e9a4d-f665-db2c-bcd0-d335cf76ae1b/full/843,/0/default.jpg",
+  "title": "Knights on Horseback (n.d.) Charles Parrocel",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/81392",
+  "role": "knight",
+  "query": "knight on horseback",
+  "local": "assets/v4/cand/aic_81392.jpg"
+ },
+ "aic_4190": {
+  "id": "aic_4190",
+  "img": "https://www.artic.edu/iiif/2/9af25bf1-213d-e2f9-2b30-a1ebf13f277d/full/843,/0/default.jpg",
+  "title": "St. George on Horseback, Killing the Dragon (n.d.) Master Allaert Claesz",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/4190",
+  "role": "knight",
+  "query": "knight on horseback",
+  "local": "assets/v4/cand/aic_4190.jpg"
+ },
+ "aic_131916": {
+  "id": "aic_131916",
+  "img": "https://www.artic.edu/iiif/2/94fe15b9-10af-554a-6620-82ac2bc4cb1e/full/843,/0/default.jpg",
+  "title": "A Young Prince on Horseback (c. 1720-1730)",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/131916",
+  "role": "knight",
+  "query": "knight on horseback",
+  "local": "assets/v4/cand/aic_131916.jpg"
+ },
+ "aic_59832": {
+  "id": "aic_59832",
+  "img": "https://www.artic.edu/iiif/2/068363dd-2103-82b5-6c4a-7d95edcffb76/full/843,/0/default.jpg",
+  "title": "St. George on Horseback (1508) Albrecht Dürer",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/59832",
+  "role": "knight",
+  "query": "knight on horseback",
+  "local": "assets/v4/cand/aic_59832.jpg"
+ },
+ "aic_70990": {
+  "id": "aic_70990",
+  "img": "https://www.artic.edu/iiif/2/d77d4c68-d72b-3141-cd02-c6aea2e6adfc/full/843,/0/default.jpg",
+  "title": "Queen Victoria on Horseback (1853) Thomas Thornycroft",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/70990",
+  "role": "knight",
+  "query": "knight on horseback",
+  "local": "assets/v4/cand/aic_70990.jpg"
+ },
+ "wellcome_zrpg8bg4": {
+  "id": "wellcome_zrpg8bg4",
+  "img": "https://iiif.wellcomecollection.org/image/V0049504/full/1100,/0/default.jpg",
+  "title": "A knight in armour mounting a horse before a cross and watched by mounted soldiers in armour. Pen and ink drawing.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/vy2vrsba",
+  "role": "knight",
+  "query": "knight armour",
+  "local": "assets/v4/cand/wellcome_zrpg8bg4.jpg"
+ },
+ "wellcome_ksxnt9m4": {
+  "id": "wellcome_ksxnt9m4",
+  "img": "https://iiif.wellcomecollection.org/image/V0049546/full/1100,/0/default.jpg",
+  "title": "A knight in armour on horseback entering a castle hall preceded by heralds and attendants. Watercolour drawing.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/fzdj9nbe",
+  "role": "knight",
+  "query": "knight armour",
+  "local": "assets/v4/cand/wellcome_ksxnt9m4.jpg"
+ },
+ "wellcome_vfa4xq68": {
+  "id": "wellcome_vfa4xq68",
+  "img": "https://iiif.wellcomecollection.org/image/V0041540/full/1100,/0/default.jpg",
+  "title": "A young knight in armour is about to stab his opponent with his sword and a king rejoices in the background. Line engraving.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/vezzmrp6",
+  "role": "knight",
+  "query": "knight armour",
+  "local": "assets/v4/cand/wellcome_vfa4xq68.jpg"
+ },
+ "wellcome_fcbu8xuu": {
+  "id": "wellcome_fcbu8xuu",
+  "img": "https://iiif.wellcomecollection.org/image/V0042300/full/1100,/0/default.jpg",
+  "title": "A young knight in full armour receiving extreme unction from a priest surrounded by his grieving family. Line engraving with stipple by J. Goodyear after G. Cattermole.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/hng29vct",
+  "role": "knight",
+  "query": "knight armour",
+  "local": "assets/v4/cand/wellcome_fcbu8xuu.jpg"
+ },
+ "wellcome_fpea4gts": {
+  "id": "wellcome_fpea4gts",
+  "img": "https://iiif.wellcomecollection.org/image/V0019908ER/full/1100,/0/default.jpg",
+  "title": "Episode in \"The Knight of the Burning Pestle\": a man with a barber's bowl beneath his chin is about to be clubbed by a knight in armour; a man stands immediately behind him, to the left is a seated couple, to the right a man who has been knocked down, and in the foreground the audience looks on. Etching by C. Grignion after M. Rooker.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/dst2rt5r",
+  "role": "knight",
+  "query": "knight armour",
+  "local": "assets/v4/cand/wellcome_fpea4gts.jpg"
+ },
+ "aic_6798": {
+  "id": "aic_6798",
+  "img": "https://www.artic.edu/iiif/2/c48d86fd-8e80-410e-e72a-d063ff755f75/full/843,/0/default.jpg",
+  "title": "Women Looking at Religious Tablets (n.d.) Lazzaro Baldi",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/6798",
+  "role": "cuneiform",
+  "query": "cuneiform tablet",
+  "local": "assets/v4/cand/aic_6798.jpg"
+ },
+ "aic_144456": {
+  "id": "aic_144456",
+  "img": "https://www.artic.edu/iiif/2/1e284082-5c60-ffca-8636-c4d9877c5a89/full/843,/0/default.jpg",
+  "title": "Armchair with Tablet: Putti Drawing (c. 1790/1800)",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/144456",
+  "role": "cuneiform",
+  "query": "cuneiform tablet",
+  "local": "assets/v4/cand/aic_144456.jpg"
+ },
+ "aic_78914": {
+  "id": "aic_78914",
+  "img": "https://www.artic.edu/iiif/2/c5cee84a-89c9-5316-f5e5-5c99471152f9/full/843,/0/default.jpg",
+  "title": "Standing Male with Tablet; separate sketch of right arm (c. 1873–77) Sir Edward Burne-Jones",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/78914",
+  "role": "cuneiform",
+  "query": "cuneiform tablet",
+  "local": "assets/v4/cand/aic_78914.jpg"
+ },
+ "aic_84612": {
+  "id": "aic_84612",
+  "img": "https://www.artic.edu/iiif/2/b8b4706d-f39e-2a49-800c-bcb556fbb19f/full/843,/0/default.jpg",
+  "title": "Seated Male Figure with Large Tablet (recto); Figure Study (verso) (n.d.) Follower of Luca Cambiaso",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/84612",
+  "role": "cuneiform",
+  "query": "cuneiform tablet",
+  "local": "assets/v4/cand/aic_84612.jpg"
+ },
+ "aic_41413": {
+  "id": "aic_41413",
+  "img": "https://www.artic.edu/iiif/2/e0a36839-6f31-3af7-d70c-5e5bc23581d2/full/843,/0/default.jpg",
+  "title": "Molded Tablet with Buddha Triad (Angkor Period, 12th–14th century) Khmer",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/41413",
+  "role": "cuneiform",
+  "query": "cuneiform tablet",
+  "local": "assets/v4/cand/aic_41413.jpg"
+ },
+ "aic_192727": {
+  "id": "aic_192727",
+  "img": "https://www.artic.edu/iiif/2/1495bb5b-72af-026a-aac6-1e68a397e220/full/843,/0/default.jpg",
+  "title": "Oracle Bones (76 total) (Shang dynasty (about 1600–1046 BC))",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/192727",
+  "role": "oracle_bone",
+  "query": "oracle bone",
+  "local": "assets/v4/cand/aic_192727.jpg"
+ },
+ "aic_32871": {
+  "id": "aic_32871",
+  "img": "https://www.artic.edu/iiif/2/c2f88c6b-ed10-e1a4-116a-1a2faea26707/full/843,/0/default.jpg",
+  "title": "Animal in the Form of a Pangolin (Unknown) Lega",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/32871",
+  "role": "oracle_bone",
+  "query": "oracle bone",
+  "local": "assets/v4/cand/aic_32871.jpg"
+ },
+ "aic_23500": {
+  "id": "aic_23500",
+  "img": "https://www.artic.edu/iiif/2/487bb822-f457-82bf-7232-604aa53fe45e/full/843,/0/default.jpg",
+  "title": "Fragment of Spatula (Si) (Shang dynasty ( about 1600–1045 BC), 13th/11th century BC)",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/23500",
+  "role": "oracle_bone",
+  "query": "oracle bone",
+  "local": "assets/v4/cand/aic_23500.jpg"
+ },
+ "aic_15010": {
+  "id": "aic_15010",
+  "img": "https://www.artic.edu/iiif/2/87ba830c-678a-b582-1ace-8c2dda4cfcc3/full/843,/0/default.jpg",
+  "title": "Boat-Shaped Dish (c. 1820) Wedgwood Manufactory",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/15010",
+  "role": "oracle_bone",
+  "query": "oracle bone",
+  "local": "assets/v4/cand/aic_15010.jpg"
+ },
+ "aic_15014": {
+  "id": "aic_15014",
+  "img": "https://www.artic.edu/iiif/2/dde0093c-f839-46fc-4ae3-7f2412b5e6ce/full/843,/0/default.jpg",
+  "title": "Teapot Stand (c. 1815) Wedgwood Manufactory",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/15014",
+  "role": "oracle_bone",
+  "query": "oracle bone",
+  "local": "assets/v4/cand/aic_15014.jpg"
+ },
+ "cma_155455": {
+  "id": "cma_155455",
+  "img": "https://openaccess-cdn.clevelandart.org/1990.181/1990.181_web.jpg",
+  "title": "Painted Vase with Ruler and Scribe (600–900)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1990.181",
+  "role": "maya",
+  "query": "Maya glyphs",
+  "local": "assets/v4/cand/cma_155455.jpg"
+ },
+ "aic_110246": {
+  "id": "aic_110246",
+  "img": "https://www.artic.edu/iiif/2/21fb136f-402e-1116-4e43-40ac73d3b2e8/full/843,/0/default.jpg",
+  "title": "Chak Ak’ Paat Kuy (\"Red Turkey\") Playing the Ballgame (650-700) Maya",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/110246",
+  "role": "maya",
+  "query": "Maya inscription",
+  "local": "assets/v4/cand/aic_110246.jpg"
+ },
+ "aic_75645": {
+  "id": "aic_75645",
+  "img": "https://www.artic.edu/iiif/2/d03d88d6-78f1-beaf-5e5f-073dbfe2fa81/full/843,/0/default.jpg",
+  "title": "Stela (c. 702) Maya",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/75645",
+  "role": "maya",
+  "query": "Maya inscription",
+  "local": "assets/v4/cand/aic_75645.jpg"
+ },
+ "aic_17203": {
+  "id": "aic_17203",
+  "img": "https://www.artic.edu/iiif/2/21110de9-8212-a4a0-2774-63c3bc580844/full/843,/0/default.jpg",
+  "title": "Figure of a Standing Warrior (650–800) Maya",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/17203",
+  "role": "maya",
+  "query": "Maya inscription",
+  "local": "assets/v4/cand/aic_17203.jpg"
+ },
+ "aic_158608": {
+  "id": "aic_158608",
+  "img": "https://www.artic.edu/iiif/2/f2fcce48-6190-d04c-ee5d-2ab53f9015a4/full/843,/0/default.jpg",
+  "title": "Figure of an Aristocratic Lady (650–800) Maya",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/158608",
+  "role": "maya",
+  "query": "Maya inscription",
+  "local": "assets/v4/cand/aic_158608.jpg"
+ },
+ "aic_195461": {
+  "id": "aic_195461",
+  "img": "https://www.artic.edu/iiif/2/0e590bc5-d61d-92e6-4e3f-9d374e9f9438/full/843,/0/default.jpg",
+  "title": "Covered Vessel with the Principal Bird and Peccary Heads (200–300 CE) Maya",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/195461",
+  "role": "maya",
+  "query": "Maya inscription",
+  "local": "assets/v4/cand/aic_195461.jpg"
+ },
+ "wellcome_kkmfv7mk": {
+  "id": "wellcome_kkmfv7mk",
+  "img": "https://iiif.wellcomecollection.org/image/V0010577/full/1100,/0/default.jpg",
+  "title": "Plague, war and famine. Engraving by Sadeler after M. de Vos.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/en89gg5h",
+  "role": "famine",
+  "query": "famine",
+  "local": "assets/v4/cand/wellcome_kkmfv7mk.jpg"
+ },
+ "wellcome_wrfsxcby": {
+  "id": "wellcome_wrfsxcby",
+  "img": "https://iiif.wellcomecollection.org/image/L0004077/full/1100,/0/default.jpg",
+  "title": "Plague, war and famine. Engraving by Sadeler after M. de Vos.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/en89gg5h",
+  "role": "famine",
+  "query": "famine",
+  "local": "assets/v4/cand/wellcome_wrfsxcby.jpg"
+ },
+ "wellcome_xaah4t88": {
+  "id": "wellcome_xaah4t88",
+  "img": "https://iiif.wellcomecollection.org/image/L0039405/full/1100,/0/default.jpg",
+  "title": "Famine Relief Herbal (1593): Preface",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/aqbsgeqn",
+  "role": "famine",
+  "query": "famine",
+  "local": "assets/v4/cand/wellcome_xaah4t88.jpg"
+ },
+ "wellcome_m3tr27f2": {
+  "id": "wellcome_m3tr27f2",
+  "img": "https://iiif.wellcomecollection.org/image/L0039409/full/1100,/0/default.jpg",
+  "title": "Famine Relief Herbal (1593): Bromegrass",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/jkrf82yd",
+  "role": "famine",
+  "query": "famine",
+  "local": "assets/v4/cand/wellcome_m3tr27f2.jpg"
+ },
+ "wellcome_q4g9ar9x": {
+  "id": "wellcome_q4g9ar9x",
+  "img": "https://iiif.wellcomecollection.org/image/L0039407/full/1100,/0/default.jpg",
+  "title": "Famine Relief Herbal (1593): Edible amaranth",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/v79swgy8",
+  "role": "famine",
+  "query": "famine",
+  "local": "assets/v4/cand/wellcome_q4g9ar9x.jpg"
+ },
+ "wellcome_psrf5mz8": {
+  "id": "wellcome_psrf5mz8",
+  "img": "https://iiif.wellcomecollection.org/image/L0072137/full/1100,/0/default.jpg",
+  "title": "Cholera map showing intensity of cholera attack in sections",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/y4ygj2n6",
+  "role": "disease",
+  "query": "cholera",
+  "local": "assets/v4/cand/wellcome_psrf5mz8.jpg"
+ },
+ "wellcome_cazenwrg": {
+  "id": "wellcome_cazenwrg",
+  "img": "https://iiif.wellcomecollection.org/image/L0000612/full/1100,/0/default.jpg",
+  "title": "Remedies for cholera, 1832",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/v4bem6uv",
+  "role": "disease",
+  "query": "cholera",
+  "local": "assets/v4/cand/wellcome_cazenwrg.jpg"
+ },
+ "wellcome_hseyn8jn": {
+  "id": "wellcome_hseyn8jn",
+  "img": "https://iiif.wellcomecollection.org/image/L0000611/full/1100,/0/default.jpg",
+  "title": "Broadsheet warning about Indian cholera 1831",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/dfsnvqs3",
+  "role": "disease",
+  "query": "cholera",
+  "local": "assets/v4/cand/wellcome_hseyn8jn.jpg"
+ },
+ "wellcome_s39tdn77": {
+  "id": "wellcome_s39tdn77",
+  "img": "https://iiif.wellcomecollection.org/image/L0000613/full/1100,/0/default.jpg",
+  "title": "Dr Challice, How to avoid the cholera",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/cnbpuby6",
+  "role": "disease",
+  "query": "cholera",
+  "local": "assets/v4/cand/wellcome_s39tdn77.jpg"
+ },
+ "wellcome_kfmt3qu2": {
+  "id": "wellcome_kfmt3qu2",
+  "img": "https://iiif.wellcomecollection.org/image/L0003052/full/1100,/0/default.jpg",
+  "title": "John Bull defending Britain against the invasion of cholera; comparing the Reform Bill to the cholera epidemic. Coloured lithograph, c. 1832.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ebp6me9z",
+  "role": "disease",
+  "query": "cholera",
+  "local": "assets/v4/cand/wellcome_kfmt3qu2.jpg"
+ },
+ "wellcome_r9r3ppmt": {
+  "id": "wellcome_r9r3ppmt",
+  "img": "https://iiif.wellcomecollection.org/image/L0034493/full/1100,/0/default.jpg",
+  "title": "Bombay plague epidemic, 1896-1897: interior of a temporary hospital for plague victims. Photograph.",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/awct3kzq",
+  "role": "disease",
+  "query": "plague",
+  "local": "assets/v4/cand/wellcome_r9r3ppmt.jpg"
+ },
+ "wellcome_zj3n5brt": {
+  "id": "wellcome_zj3n5brt",
+  "img": "https://iiif.wellcomecollection.org/image/b1539282x_539282i.JP2/full/1100,/0/default.jpg",
+  "title": "Bombay plague epidemic, 1896-1897: interior of a temporary hospital for plague victims. Photograph.",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/awct3kzq",
+  "role": "disease",
+  "query": "plague",
+  "local": "assets/v4/cand/wellcome_zj3n5brt.jpg"
+ },
+ "wellcome_rc5t6f2g": {
+  "id": "wellcome_rc5t6f2g",
+  "img": "https://iiif.wellcomecollection.org/image/V0030463/full/1100,/0/default.jpg",
+  "title": "Bombay plague epidemic, 1896-1897: inoculation against plague. Photograph attributed to Clifton & Co.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/w8qna525",
+  "role": "disease",
+  "query": "plague",
+  "local": "assets/v4/cand/wellcome_rc5t6f2g.jpg"
+ },
+ "wellcome_npshhuku": {
+  "id": "wellcome_npshhuku",
+  "img": "https://iiif.wellcomecollection.org/image/V0030464/full/1100,/0/default.jpg",
+  "title": "Bombay plague epidemic, 1896-1897: interior of a plague hospital. Photograph attributed to Clifton & Co.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/qh3s5xg6",
+  "role": "disease",
+  "query": "plague",
+  "local": "assets/v4/cand/wellcome_npshhuku.jpg"
+ },
+ "wellcome_xcj5vrgu": {
+  "id": "wellcome_xcj5vrgu",
+  "img": "https://iiif.wellcomecollection.org/image/L0000304/full/1100,/0/default.jpg",
+  "title": "Etching of plague in Rome.",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/fqp8kjdw",
+  "role": "disease",
+  "query": "plague",
+  "local": "assets/v4/cand/wellcome_xcj5vrgu.jpg"
+ },
+ "wellcome_tb6z5fcw": {
+  "id": "wellcome_tb6z5fcw",
+  "img": "https://iiif.wellcomecollection.org/image/V0048197/full/1100,/0/default.jpg",
+  "title": "Perseus rescuing Andromeda from a sea-monster. Engraving by L. Cars, 1728, after F. Lemoine.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/pkkcmxkb",
+  "role": "monster",
+  "query": "sea monster",
+  "local": "assets/v4/cand/wellcome_tb6z5fcw.jpg"
+ },
+ "wellcome_u53ft7ns": {
+  "id": "wellcome_u53ft7ns",
+  "img": "https://iiif.wellcomecollection.org/image/V0036065/full/1100,/0/default.jpg",
+  "title": "Hercules rescuing Hesione from a sea-monster. Engraving by B. Picart after C. Le Brun.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/cacsd3wk",
+  "role": "monster",
+  "query": "sea monster",
+  "local": "assets/v4/cand/wellcome_u53ft7ns.jpg"
+ },
+ "wellcome_a2x97e6q": {
+  "id": "wellcome_a2x97e6q",
+  "img": "https://iiif.wellcomecollection.org/image/V0041096/full/1100,/0/default.jpg",
+  "title": "A carriage or bathing machine drawn by a sea monster is driven below cliffs: the animal inside has its tail caught in one of the rear wheels; the coachmen and two other passengers speak. Soft-ground etching.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/xchp2r5b",
+  "role": "monster",
+  "query": "sea monster",
+  "local": "assets/v4/cand/wellcome_a2x97e6q.jpg"
+ },
+ "wellcome_xaj7ut2y": {
+  "id": "wellcome_xaj7ut2y",
+  "img": "https://iiif.wellcomecollection.org/image/V0025908/full/1100,/0/default.jpg",
+  "title": "A woman holding a torch is dragging a woman by her hair, another woman is holding her head in despair at the sight of a one-legged man destroying books and instruments; a woman and a sea monster contemplate the scene. Etching, 16--.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/xe59b7ac",
+  "role": "monster",
+  "query": "sea monster",
+  "local": "assets/v4/cand/wellcome_xaj7ut2y.jpg"
+ },
+ "wellcome_tgu54p3a": {
+  "id": "wellcome_tgu54p3a",
+  "img": "https://iiif.wellcomecollection.org/image/V0036042/full/1100,/0/default.jpg",
+  "title": "Sea monsters fighting. Etching by S. Rosa.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/wctm3qsc",
+  "role": "monster",
+  "query": "sea monster",
+  "local": "assets/v4/cand/wellcome_tgu54p3a.jpg"
+ },
+ "cma_134794": {
+  "id": "cma_134794",
+  "img": "https://openaccess-cdn.clevelandart.org/1957.360/1957.360_web.jpg",
+  "title": "Kneeling Winged Monster (550–77)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1957.360",
+  "role": "monster",
+  "query": "monster",
+  "local": "assets/v4/cand/cma_134794.jpg"
+ },
+ "cma_112308": {
+  "id": "cma_112308",
+  "img": "https://openaccess-cdn.clevelandart.org/1930.731/1930.731_web.jpg",
+  "title": "Monster Face: Door Ring Holder (Pushou) (500s)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1930.731",
+  "role": "monster",
+  "query": "monster",
+  "local": "assets/v4/cand/cma_112308.jpg"
+ },
+ "cma_134788": {
+  "id": "cma_134788",
+  "img": "https://openaccess-cdn.clevelandart.org/1957.357/1957.357_web.jpg",
+  "title": "Monster Caryatid (late 500s)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1957.357",
+  "role": "monster",
+  "query": "monster",
+  "local": "assets/v4/cand/cma_134788.jpg"
+ },
+ "cma_141644": {
+  "id": "cma_141644",
+  "img": "https://openaccess-cdn.clevelandart.org/1965.238/1965.238_web.jpg",
+  "title": "Jonah Cast Up (280–90 CE)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1965.238",
+  "role": "monster",
+  "query": "monster",
+  "local": "assets/v4/cand/cma_141644.jpg"
+ },
+ "cma_114740": {
+  "id": "cma_114740",
+  "img": "https://openaccess-cdn.clevelandart.org/1934.340/1934.340_web.jpg",
+  "title": "The Sea Monster (c. 1501)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1934.340",
+  "role": "monster",
+  "query": "monster",
+  "local": "assets/v4/cand/cma_114740.jpg"
+ },
+ "wellcome_g535w9xu": {
+  "id": "wellcome_g535w9xu",
+  "img": "https://iiif.wellcomecollection.org/image/L0034555/full/1100,/0/default.jpg",
+  "title": "A map of the world c. 1600",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/yct9q7vm",
+  "role": "world_map",
+  "query": "world map",
+  "local": "assets/v4/cand/wellcome_g535w9xu.jpg"
+ },
+ "wellcome_xc8xcgcf": {
+  "id": "wellcome_xc8xcgcf",
+  "img": "https://iiif.wellcomecollection.org/image/L0001372/full/1100,/0/default.jpg",
+  "title": "Diego Ribero's map of the world, 1529.",
+  "licence": "Attribution 4.0 International (CC BY 4.0) (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/bef47zjk",
+  "role": "world_map",
+  "query": "world map",
+  "local": "assets/v4/cand/wellcome_xc8xcgcf.jpg"
+ },
+ "wellcome_c5afg3y3": {
+  "id": "wellcome_c5afg3y3",
+  "img": "https://iiif.wellcomecollection.org/image/V0025076/full/1100,/0/default.jpg",
+  "title": "Geography: a map of the world, with local scenes around. Coloured lithograph.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ytbjhw35",
+  "role": "world_map",
+  "query": "world map",
+  "local": "assets/v4/cand/wellcome_c5afg3y3.jpg"
+ },
+ "wellcome_ntvwrkj8": {
+  "id": "wellcome_ntvwrkj8",
+  "img": "https://iiif.wellcomecollection.org/image/V0017196/full/1100,/0/default.jpg",
+  "title": "The black death: map of the world, with vignettes. Watercolour by Monro S. Orr.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/jy53bdmn",
+  "role": "world_map",
+  "query": "world map",
+  "local": "assets/v4/cand/wellcome_ntvwrkj8.jpg"
+ },
+ "wellcome_r5sgbk9g": {
+  "id": "wellcome_r5sgbk9g",
+  "img": "https://iiif.wellcomecollection.org/image/L0010219/full/1100,/0/default.jpg",
+  "title": "The black death: map of the world, with vignettes. Watercolour by Monro S. Orr.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/jy53bdmn",
+  "role": "world_map",
+  "query": "world map",
+  "local": "assets/v4/cand/wellcome_r5sgbk9g.jpg"
+ },
+ "aic_152509": {
+  "id": "aic_152509",
+  "img": "https://www.artic.edu/iiif/2/ae325ad1-8efd-7228-ff83-2b151e98a6fc/full/843,/0/default.jpg",
+  "title": "Map of the World (1889) John Paul Cimerlin",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/152509",
+  "role": "world_map",
+  "query": "map of the world",
+  "local": "assets/v4/cand/aic_152509.jpg"
+ },
+ "aic_31867": {
+  "id": "aic_31867",
+  "img": "https://www.artic.edu/iiif/2/08167716-6ac1-df8c-b9df-b5572f7b30af/full/843,/0/default.jpg",
+  "title": "Map of the World: Tradewinds (1511, reprinted 1889) Bernardi Sylvani",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/31867",
+  "role": "world_map",
+  "query": "map of the world",
+  "local": "assets/v4/cand/aic_31867.jpg"
+ },
+ "aic_16398": {
+  "id": "aic_16398",
+  "img": "https://www.artic.edu/iiif/2/c6c6a21a-b985-35d9-b0ef-a2b798ad9fba/full/843,/0/default.jpg",
+  "title": "The Music Lesson (1671) Jacob Ochtervelt",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/16398",
+  "role": "world_map",
+  "query": "map of the world",
+  "local": "assets/v4/cand/aic_16398.jpg"
+ },
+ "aic_5828": {
+  "id": "aic_5828",
+  "img": "https://www.artic.edu/iiif/2/27d42c5c-d338-d031-04cf-c7683741c932/full/843,/0/default.jpg",
+  "title": "France Lighting the World (1865) Jean Baptiste Carpeaux",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/5828",
+  "role": "world_map",
+  "query": "map of the world",
+  "local": "assets/v4/cand/aic_5828.jpg"
+ },
+ "aic_8980": {
+  "id": "aic_8980",
+  "img": "https://www.artic.edu/iiif/2/9694ca0c-c4c4-e48d-566f-4d248990cff4/full/843,/0/default.jpg",
+  "title": "Landscape with Two Poplars (1912) Vasily Kandinsky",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/8980",
+  "role": "world_map",
+  "query": "map of the world",
+  "local": "assets/v4/cand/aic_8980.jpg"
+ },
+ "aic_2158": {
+  "id": "aic_2158",
+  "img": "https://www.artic.edu/iiif/2/59bf5216-383d-c2d4-912a-f8cfcbdaa55a/full/843,/0/default.jpg",
+  "title": "Noah Smith (1798) Ralph Earl",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/2158",
+  "role": "route_map",
+  "query": "map",
+  "local": "assets/v4/cand/aic_2158.jpg"
+ },
+ "aic_15132": {
+  "id": "aic_15132",
+  "img": "https://www.artic.edu/iiif/2/bb513b07-82c7-cdd3-cca3-1fe729bc82e5/full/843,/0/default.jpg",
+  "title": "Sampler (Map) (c. 1800)",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/15132",
+  "role": "route_map",
+  "query": "map",
+  "local": "assets/v4/cand/aic_15132.jpg"
+ },
+ "aic_196347": {
+  "id": "aic_196347",
+  "img": "https://www.artic.edu/iiif/2/8da8a9e1-48f7-9bc1-982a-2206dae4f522/full/843,/0/default.jpg",
+  "title": "Plan of Chicago, Chicago, Illinois, Diagram Showing City Growth (1909) Daniel Hudson Burnham",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/196347",
+  "role": "route_map",
+  "query": "map",
+  "local": "assets/v4/cand/aic_196347.jpg"
+ },
+ "aic_14859": {
+  "id": "aic_14859",
+  "img": "https://www.artic.edu/iiif/2/4ed40b57-8c92-9f36-2cd6-08573d25ab35/full/843,/0/default.jpg",
+  "title": "The Map (1890) Mary Cassatt",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/14859",
+  "role": "route_map",
+  "query": "map",
+  "local": "assets/v4/cand/aic_14859.jpg"
+ },
+ "aic_77855": {
+  "id": "aic_77855",
+  "img": "https://www.artic.edu/iiif/2/64bbfef9-22b3-b339-77de-ec0de0b1b672/full/843,/0/default.jpg",
+  "title": "Map of North America (Handkerchief) (1811) R. Gray",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/77855",
+  "role": "route_map",
+  "query": "map",
+  "local": "assets/v4/cand/aic_77855.jpg"
+ }
+}

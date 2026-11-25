@@ -1,0 +1,203 @@
+1
+00:00:02,400 --> 00:00:06,168
+People have told hero stories for as long as they have told stories.
+
+2
+00:00:06,588 --> 00:00:09,084
+One of the oldest, the Epic of Gilgamesh,
+
+3
+00:00:09,084 --> 00:00:12,555
+was written in Mesopotamia about four thousand years ago.
+
+4
+00:00:12,975 --> 00:00:14,333
+The Greeks had Achilles,
+
+5
+00:00:14,333 --> 00:00:16,144
+medieval Europe had its knights,
+
+6
+00:00:16,144 --> 00:00:17,728
+and we have films and games.
+
+7
+00:00:18,148 --> 00:00:21,861
+The Swiss psychiatrist Carl Jung called the hero an archetype:
+
+8
+00:00:21,861 --> 00:00:23,837
+a pattern that keeps reappearing.
+
+9
+00:00:24,257 --> 00:00:29,901
+In 1949, the American mythologist Joseph Campbell published The Hero with a Thousand Faces.
+
+10
+00:00:30,321 --> 00:00:32,009
+By faces, he meant people:
+
+11
+00:00:32,009 --> 00:00:35,190
+each hero is another instance of the same figure.
+
+12
+00:00:35,610 --> 00:00:42,343
+The Legend of Zelda games show this in miniature: in each era, Link is a new person, and still the hero.
+
+13
+00:00:42,763 --> 00:00:46,192
+Every hero story is a kind of map for facing the unknown.
+
+14
+00:00:46,612 --> 00:00:52,249
+Campbell drew a map of those maps: the hero leaves home, is tested, and returns changed.
+
+15
+00:00:53,199 --> 00:00:58,531
+Across cultures, heroes share qualities: courage, persistence, care for others,
+
+16
+00:00:58,531 --> 00:01:01,501
+and a willingness to face what others avoid.
+
+17
+00:01:01,921 --> 00:01:05,177
+But why would cultures that never met keep inventing the same figure?
+
+18
+00:01:06,127 --> 00:01:09,997
+Biology has a name for this kind of pattern: convergent evolution.
+
+19
+00:01:10,417 --> 00:01:15,070
+Distantly related species that face the same problem often reach similar solutions.
+
+20
+00:01:15,490 --> 00:01:18,398
+Insects, birds and bats each evolved wings,
+
+21
+00:01:18,398 --> 00:01:22,118
+and octopuses and humans each evolved camera-like eyes.
+
+22
+00:01:22,538 --> 00:01:29,178
+Cultures converge too: writing was invented separately in Mesopotamia, China and Mesoamerica.
+
+23
+00:01:29,598 --> 00:01:31,338
+The hero may be another example.
+
+24
+00:01:31,758 --> 00:01:35,649
+Every culture has problems and benefits from people who can solve them,
+
+25
+00:01:35,649 --> 00:01:38,389
+so stories about those people keep being invented.
+
+26
+00:01:39,339 --> 00:01:41,578
+What makes someone good at solving problems?
+
+27
+00:01:41,998 --> 00:01:46,764
+The philosopher Karl Popper argued that knowledge grows by finding and correcting errors.
+
+28
+00:01:47,184 --> 00:01:49,528
+A hero does this reliably, in themselves,
+
+29
+00:01:49,528 --> 00:01:51,815
+and better than the culture around them.
+
+30
+00:01:52,235 --> 00:01:56,593
+In Hayao Miyazaki's 1984 film Nausicaä of the Valley of the Wind,
+
+31
+00:01:56,593 --> 00:01:59,275
+everyone fears a spreading toxic jungle.
+
+32
+00:01:59,695 --> 00:02:03,690
+Nausicaä studies it, and finds that it is cleaning the poisoned soil.
+
+33
+00:02:04,110 --> 00:02:05,806
+Her judgement isn't perfect,
+
+34
+00:02:05,806 --> 00:02:09,440
+but it is reliable enough to face problems no one predicted,
+
+35
+00:02:09,440 --> 00:02:11,621
+in familiar places and unknown ones.
+
+36
+00:02:12,571 --> 00:02:14,236
+In The Beginning of Infinity,
+
+37
+00:02:14,236 --> 00:02:17,738
+the physicist David Deutsch argues that problems are soluble,
+
+38
+00:02:17,738 --> 00:02:19,231
+given the right knowledge.
+
+39
+00:02:19,651 --> 00:02:22,473
+A hero treats all problems alike: a monster,
+
+40
+00:02:22,473 --> 00:02:25,809
+a famine and a disease are all things to understand.
+
+41
+00:02:26,229 --> 00:02:27,661
+That is the hero's reach.
+
+42
+00:02:28,611 --> 00:02:31,670
+The hero is often rediscovered, and often improved.
+
+43
+00:02:32,090 --> 00:02:33,879
+Gilgamesh was a great warrior,
+
+44
+00:02:33,879 --> 00:02:36,981
+but his epic opens with him oppressing his own city.
+
+45
+00:02:37,401 --> 00:02:40,712
+In Homer's Iliad, Achilles is the greatest fighter at Troy,
+
+46
+00:02:40,712 --> 00:02:43,966
+yet his pride keeps him from battle while his friends die.
+
+47
+00:02:44,386 --> 00:02:48,449
+Many past heroes were heroic in one domain and not in others.
+
+48
+00:02:48,869 --> 00:02:52,075
+Later stories keep what worked and correct what did not.
+
+49
+00:02:53,025 --> 00:02:55,110
+Campbell counted a thousand faces.
+
+50
+00:02:55,530 --> 00:03:00,607
+But if a hero is anyone who corrects their own errors and treats every problem as soluble,
+
+51
+00:03:00,607 --> 00:03:01,961
+the number has no limit.

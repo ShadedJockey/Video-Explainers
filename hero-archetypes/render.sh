@@ -28,6 +28,14 @@
 #   ./render.sh v3-still [--safe] s4.10@0.5   single frames (optionally with TikTok's covered areas) → draft3/build/
 #   ./render.sh v3-docs      regenerate draft3/collage_sources.md
 #   ./render.sh v3-range 191.5 197.5   re-render a span at final quality → draft3/build/range_*.mp4 (for splicing)
+#
+#   Draft 4 — 3-minute cut (settings in draft4/config.yaml, stage in draft4/scenes.yaml)
+#   ./render.sh v4-setup     Pocket TTS for the narration voice → .tts/pocket
+#   ./render.sh v4-voice     narration (Pocket TTS, voice "anna") → draft4/build/vo.wav, timing, draft4/*.srt
+#   ./render.sh v4-preview   540×960 preview → draft4/build/preview_540x960.mp4
+#   ./render.sh v4-final     1080×1920 → final/hero_infinite_faces_v4_vertical.mp4
+#   ./render.sh v4-still [--safe] s3.4@0.8   single frames → draft4/build/
+#   ./render.sh v4-docs      regenerate draft4/collage_sources.md
 set -euo pipefail
 cd "$(dirname "$0")"
 PY=.venv/bin/python
@@ -72,6 +80,14 @@ case "${1:-preview}" in
   v3-still)   $PY tools/render_v3.py still "${@:2}" ;;
   v3-docs)    $PY tools/v3_docs.py ;;
   v3-range)   $PY tools/render_v3.py range "${@:2}" ;;
+  v4-setup)   command -v uv >/dev/null || pip install -q uv
+              uv venv -q -p 3.12 .tts/pocket && VIRTUAL_ENV=$PWD/.tts/pocket uv pip install -q pocket-tts soundfile pyyaml numpy \
+                --extra-index-url https://download.pytorch.org/whl/cpu --index-strategy unsafe-best-match ;;
+  v4-voice)   HF_HUB_DISABLE_XET=1 .tts/pocket/bin/python tools/v4_voice.py ;;
+  v4-preview) $PY tools/render_v4.py preview ;;
+  v4-final)   $PY tools/render_v4.py final ;;
+  v4-still)   $PY tools/render_v4.py still "${@:2}" ;;
+  v4-docs)    $PY tools/v4_docs.py ;;
   all)      $PY tools/make_cutouts.py && $PY tools/make_voiceover.py && $PY tools/make_docs.py && $PY tools/render.py final ;;
-  *) sed -n '2,33p' "$0"; exit 1 ;;
+  *) sed -n '2,41p' "$0"; exit 1 ;;
 esac

@@ -10,3 +10,6 @@ build/vo/
 build/vo/lines/
 draft2/build/
 draft3/build/
+.tts/
+draft4/build/
+assets/v4/cand/

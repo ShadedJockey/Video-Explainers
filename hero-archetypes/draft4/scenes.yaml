@@ -1,0 +1,222 @@
+# Draft 4 stage: what appears in the picture band (y 930–1430) for each line of draft4/narration.md.
+# Times are narration refs: s<section>.<line>[e][@fraction][±seconds]  (e = end of line; @0.5 = halfway through it)
+# Image sources:  file:<path>  ·  pool:<collage id>  ·  hero:<id> (cut-out from assets/stills)  ·  still:<id> (rectangle from assets/stills)
+# Kinds: conveyor · cards · route · branches · grid · chain     (see tools/render_v4.py)
+
+- kind: conveyor              # the intro shelf: one card per era, sliding past like a museum case
+  at: s1.1-0.3
+  until: s1.3e+0.4
+  items:
+    - {src: file:assets/public_domain/gilgamesh.jpg, label: "Hero with a lion", sub: "Assyrian relief, Khorsabad, c. 710 BCE", focus: s1.1@0.1}
+    - {src: file:assets/public_domain/flood_tablet.jpg, label: "Epic of Gilgamesh", sub: "Tablet XI, cuneiform, Mesopotamia", focus: s1.2@0.25}
+    - {src: file:assets/v4/achilles.jpg, label: "Achilles", sub: "engraving, 1648", focus: s1.3@0.1}
+    - {src: file:assets/v4/knight.jpg, label: "A knight", sub: "Albrecht Dürer, c. 1512", focus: s1.3@0.36}
+    - {src: hero:link_botw, label: "Link", sub: "The Legend of Zelda", focus: s1.3@0.66}
+    - {src: hero:master_chief, label: "Master Chief", sub: "Halo", focus: s1.3@0.78}
+    - {src: hero:aragorn, label: "Aragorn", sub: "The Lord of the Rings films", focus: s1.3@0.9}
+
+- kind: cards
+  at: s1.4-0.2
+  until: s1.4e+0.2
+  items:
+    - {src: file:assets/public_domain/jung.jpg, label: "Carl Jung", sub: "Swiss psychiatrist, 1875–1961"}
+
+- kind: cards
+  at: s1.5-0.2
+  until: s1.5e+0.25
+  items:
+    - {src: file:assets/public_domain/campbell.png, label: "Joseph Campbell", sub: "American mythologist, 1904–1987"}
+    - {src: still:cover_hero1000, label: "The Hero with a Thousand Faces", sub: "first edition, 1949", at: s1.5@0.55}
+
+- kind: cards
+  at: s1.6-0.2
+  until: s1.6e+0.2
+  max_h: 300
+  equal: true
+  caption: {text: "different people, one figure", at: s1.6@0.45}
+  items:
+    - {src: file:assets/public_domain/gilgamesh.jpg}
+    - {src: file:assets/v4/achilles.jpg, at: s1.6@0.12}
+    - {src: file:assets/v4/knight.jpg, at: s1.6@0.24}
+    - {src: hero:link_botw, at: s1.6@0.36}
+    - {src: still:nausicaa, at: s1.6@0.48}
+
+- kind: cards
+  at: s1.7-0.2
+  until: s1.7e+0.25
+  items:
+    - {src: still:link_oot, label: "Ocarina of Time", sub: "1998", at: s1.7@0.35}
+    - {src: hero:link, label: "Link", sub: "official artwork", at: s1.7@0.5}
+    - {src: hero:link_botw, label: "Breath of the Wild", sub: "2017", at: s1.7@0.65}
+
+- kind: cards                 # every story is a map
+  at: s1.8-0.2
+  until: s1.8e+0.3
+  layout: fan
+  items:
+    - {src: pool:wellcome_xc8xcgcf}
+    - {src: pool:wellcome_c5afg3y3, at: s1.8@0.25}
+    - {src: pool:cma_423526, at: s1.8@0.5}
+
+- kind: route                 # Campbell's map of the maps
+  at: s1.9-0.2
+  until: s1.9e+0.5
+  map: file:assets/v4/route_map.jpg
+  title: "Campbell's map of hero stories"
+  stops:
+    - {text: "leaves home", at: s1.9@0.42}
+    - {text: "is tested", at: s1.9@0.6}
+    - {text: "returns changed", at: s1.9@0.82}
+
+- kind: cards                 # qualities, two heroes at a time
+  at: s2.1-0.2
+  until: s2.1@0.56
+  max_h: 340
+  items:
+    - {src: hero:aragorn, tag: "courage", at: s2.1@0.28}
+    - {src: hero:frodo, tag: "persistence", at: s2.1@0.43}
+
+- kind: cards
+  at: s2.1@0.56
+  until: s2.1e+0.25
+  max_h: 340
+  items:
+    - {src: hero:sam, tag: "care for others", at: s2.1@0.58}
+    - {src: still:nausicaa_study, tag: "facing what others avoid", at: s2.1@0.76}
+
+- kind: cards
+  at: s2.2-0.2
+  until: s2.2e+0.4
+  max_h: 420
+  items:
+    - {src: file:assets/v4/world_map.jpg, label: "A map of the world", sub: "c. 1600"}
+
+- kind: branches              # separate lineages, same solution
+  at: s3.1-0.1
+  until: s3.2e+0.3
+  root: "a common ancestor, long ago"
+  tips: ["insects", "birds", "bats"]
+  solution: "wings"
+  solution_at: s3.2@0.55
+
+- kind: cards
+  at: s3.3-0.15
+  until: s3.3@0.52
+  items:
+    - {src: pool:wellcome_ddpmmsup, label: "insect", sub: "butterflies and moths"}
+    - {src: pool:wellcome_yk5zjes9, label: "bird", sub: "flycatcher, 1757", at: s3.3@0.1}
+    - {src: pool:wellcome_wesxvmzh, label: "bat", sub: "engraving", at: s3.3@0.2}
+
+- kind: cards
+  at: s3.3@0.55
+  until: s3.3e+0.25
+  items:
+    - {src: pool:wellcome_brpt26pk, label: "octopus", sub: "engraving"}
+    - {src: pool:wellcome_bn5ttgm8, label: "human", sub: "section of the eye, 1875", at: s3.3@0.72}
+
+- kind: cards
+  at: s3.4-0.2
+  until: s3.4e+0.25
+  items:
+    - {src: file:assets/public_domain/flood_tablet.jpg, label: "cuneiform", sub: "Mesopotamia", at: s3.4@0.55}
+    - {src: file:assets/v4/oracle_bone.jpg, label: "oracle bones", sub: "China, Shang dynasty", at: s3.4@0.72}
+    - {src: file:assets/v4/maya.jpg, label: "Maya glyphs", sub: "Mesoamerica, stela c. 702", at: s3.4@0.86}
+
+- kind: cards
+  at: s3.5-0.2
+  until: s3.5e+0.2
+  max_h: 320
+  items:
+    - {src: file:assets/public_domain/gilgamesh.jpg, label: "Mesopotamia"}
+    - {src: file:assets/public_domain/heracles.jpg, label: "Greece", at: s3.5@0.2}
+    - {src: file:assets/v4/knight.jpg, label: "Europe", at: s3.5@0.4}
+    - {src: still:nausicaa, label: "Japan", at: s3.5@0.6}
+
+- kind: grid                  # stories keep being invented
+  at: s3.6-0.2
+  until: s3.6e+0.3
+  cols: 5
+  rows: 3
+  grow: true
+
+- kind: cards
+  at: s4.2-0.2
+  until: s4.3e+0.25
+  items:
+    - {src: file:assets/public_domain/popper.jpg, label: "Karl Popper", sub: "philosopher, 1902–1994"}
+  chips:
+    - {text: "find the error", at: s4.3@0.15}
+    - {text: "correct it", at: s4.3@0.4}
+    - {text: "in yourself", at: s4.3@0.6, style: accent}
+
+- kind: cards
+  at: s4.4-0.2
+  until: s4.4e+0.2
+  items:
+    - {src: still:nausicaa, label: "Nausicaä of the Valley of the Wind", sub: "Hayao Miyazaki, 1984"}
+    - {src: pool:wellcome_cwyfbucm, label: "the toxic jungle", sub: "(fungi, watercolour)", at: s4.4@0.7}
+
+- kind: cards
+  at: s4.5-0.2
+  until: s4.6e+0.3
+  max_h: 330
+  items:
+    - {src: still:nausicaa_study, label: "she studies it"}
+    - {src: still:nausicaa_garden, label: "clean soil, harmless plants", at: s4.5@0.55}
+  correction: {wrong: "the jungle is the danger", right: "the soil is poisoned; the jungle cleans it", strike_at: s4.5@0.5, right_at: s4.5@0.7}
+
+- kind: cards
+  at: s5.1-0.2
+  until: s5.1e+0.25
+  items:
+    - {src: file:assets/public_domain/deutsch.jpg, label: "David Deutsch", sub: "physicist"}
+    - {src: still:cover_boi, label: "The Beginning of Infinity", sub: "2011", at: s5.1@0.2}
+
+- kind: cards
+  at: s5.2@0.3
+  until: s5.3e+0.5
+  equal: true
+  max_h: 300
+  items:
+    - {src: pool:wellcome_y7ymnaab, label: "a monster", at: s5.2@0.42}
+    - {src: file:assets/v4/famine.jpg, label: "a famine", at: s5.2@0.6}
+    - {src: file:assets/v4/disease.jpg, label: "a disease", at: s5.2@0.78}
+  bracket: {text: "all soluble, given the right knowledge", at: s5.3-0.1}
+
+- kind: chain                 # rediscovered and improved
+  at: s6.1-0.2
+  until: s6.1e+0.3
+  items:
+    - {src: file:assets/public_domain/gilgamesh.jpg, at: s6.1@0.0}
+    - {src: file:assets/v4/achilles.jpg, at: s6.1@0.15}
+    - {src: file:assets/v4/knight.jpg, at: s6.1@0.3}
+    - {src: hero:link_botw, at: s6.1@0.45}
+    - {src: still:nausicaa, at: s6.1@0.6}
+
+- kind: cards
+  at: s6.2-0.2
+  until: s6.4e+0.2
+  max_h: 250
+  items:
+    - {src: file:assets/public_domain/gilgamesh.jpg, label: "Gilgamesh (as often identified)", sub: "Assyrian relief, c. 710 BCE",
+       tags: [["great warrior", paper, s6.2@0.35], ["oppressed his own city", accent, s6.2@0.7]]}
+    - {src: file:assets/v4/achilles.jpg, label: "Achilles", sub: "engraving, 1648", at: s6.3-0.1,
+       tags: [["greatest fighter", paper, s6.3@0.35], ["pride", accent, s6.3@0.62]]}
+
+- kind: chain
+  at: s6.5-0.2
+  until: s6.5e+0.4
+  improve: true
+  items:
+    - {src: file:assets/public_domain/gilgamesh.jpg}
+    - {src: file:assets/v4/achilles.jpg, at: s6.5@0.1}
+    - {src: file:assets/v4/knight.jpg, at: s6.5@0.2}
+    - {src: hero:link_botw, at: s6.5@0.3}
+    - {src: still:nausicaa, at: s6.5@0.4}
+
+- kind: grid                  # a thousand faces → no limit
+  at: s7.1-0.2
+  until: end-3.4
+  cols: 4
+  rows: 3
+  subdivide: [s7.2@0.15, s7.2@0.4, s7.2@0.65, s7.2@0.85]

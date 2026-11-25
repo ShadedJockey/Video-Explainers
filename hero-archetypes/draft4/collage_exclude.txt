@@ -1,0 +1,9 @@
+# ids to drop from the draft 4 background collage
+aic_21510      # shrine
+cma_128158     # blessing bread mould
+cma_161271     # pilgrim's ampulla with the Ascension
+cma_95256      # Isis and Serapis
+cma_146205     # ascetic
+aic_113820     # Ugolino (Dante's Inferno)
+cma_95909      # executioner's sword
+wellcome_n33mp2a2  # animals with defects

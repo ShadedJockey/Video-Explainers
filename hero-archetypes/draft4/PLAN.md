@@ -1,4 +1,4 @@
-# Draft 4 plan (3-minute cut): awaiting approval of `narration.md`
+# Draft 4 plan (3-minute cut): approved and implemented
 
 Built from the 15 notes on draft 3. Script: `draft4/narration.md` (462 words, about 3:00 at normal speed).
 
@@ -29,3 +29,10 @@ Built from the 15 notes on draft 3. Script: `draft4/narration.md` (462 words, ab
 
 ## New factual claims to source before rendering
 Gilgamesh ≈ 4,000 years old and opens with Gilgamesh oppressing Uruk · Achilles withdraws from battle in the *Iliad* · Jung's archetypes · Campbell 1949 · Zelda: Link a different person across eras · convergent evolution (wings; camera eyes in octopus and vertebrates) · independent invention of writing in Mesopotamia, China, Mesoamerica · Popper on error correction · *Nausicaä* (1984): the jungle purifies poisoned soil · Deutsch, *The Beginning of Infinity*: problems are soluble.
+
+## As built
+- Voice: Kyutai Pocket TTS, voice "anna" (VCTK p228, CC BY 4.0), `tools/v4_voice.py`. Narration 3:05.6 including the title (2.4 s) and end card.
+- Renderer: `tools/render_v4.py`; per-line stage in `draft4/scenes.yaml` (conveyor, cards with museum labels and chips, Campbell's route map, lineage branches, face grids, chains).
+- No ember, no gold ring, no stack scene. Background collage filtered for religious, heavenly, occult, funerary and ceremonial subjects (title filter + `draft4/collage_exclude.txt`).
+- New pictures: `assets/v4/` (credits `draft4/asset_credits.json`), all from open-access museum APIs; candidates in `draft4/candidates.json`.
+- Only one hard cut: into the end card (a 0.6 s fade). Section changes use the collage shard break.
