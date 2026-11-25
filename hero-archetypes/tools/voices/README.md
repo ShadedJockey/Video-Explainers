@@ -19,3 +19,12 @@ uv venv -p 3.12 .tts/qwen   && VIRTUAL_ENV=.tts/qwen   uv pip install qwen-tts s
 | `analyse.py` | faster-whisper check (word error rate, pitch) | `asr/bin/python analyse.py sample.txt OUT analysis.json` |
 
 Licences: Kokoro Apache 2.0 · Pocket TTS CC BY 4.0 (voices CC0 / CC BY 4.0; Cosette and Jean are non-commercial and not used) · Qwen3-TTS Apache 2.0 · Chatterbox MIT (adds an inaudible watermark).
+
+## Cloning your own voice
+
+`clone_all.sh RECORDING NAME` (run from the folder that holds the venvs and these scripts):
+1. `prep_ref.py`: converts to 24 kHz mono, transcribes it (faster-whisper) and cuts the clearest 10–20 s of whole sentences → `ref.wav`, `ref.txt`.
+2. Clones the audition lines with Qwen3-TTS Base (`clone_qwen.py`, Apache 2.0), Chatterbox (`clone_cbox.py`, MIT) and Pocket TTS (`clone_pocket.py`; its cloning model is gated, so it needs a Hugging Face token with the terms accepted at huggingface.co/kyutai/pocket-tts).
+3. `spksim.py`: speaker similarity (SpeechBrain ECAPA, cosine) of each clone against the reference. On a test voice, clones scored 0.73–0.78; unrelated voices scored 0.0–0.37.
+
+Draft 4 voice shortlist (user's picks): Pocket TTS Alba, Charles, Anna, Fantine.
