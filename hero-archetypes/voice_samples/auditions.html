@@ -1,0 +1,307 @@
+<title>Narrator Auditions</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a casting sheet. One script, many takes; each take is a row on the sheet with its slate number. */
+:root {
+  --bg: #eef0ee;
+  --sheet: #f8f9f7;
+  --ink: #1d2422;
+  --muted: #5b6662;
+  --rule: #cdd3cf;
+  --accent: #1f6b5c;
+  --accent-soft: #d6e7e1;
+  --star: #b8862a;
+  --display: "Instrument Serif", Georgia, "Times New Roman", serif;
+  --body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121615; --sheet: #191e1c; --ink: #e4e9e6; --muted: #98a39f; --rule: #2f3835;
+    --accent: #6cc2ad; --accent-soft: #1f3530; --star: #e0b45a; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #121615; --sheet: #191e1c; --ink: #e4e9e6; --muted: #98a39f; --rule: #2f3835;
+  --accent: #6cc2ad; --accent-soft: #1f3530; --star: #e0b45a; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.55;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 32px 64px;
+}
+.wrap { max-width: 980px; margin: 0 auto; display: grid; gap: 36px; }
+header { display: grid; gap: 12px; }
+.eyebrow { font-family: var(--mono); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1 { font-family: var(--display); font-weight: 400; font-size: clamp(40px, 7vw, 64px); line-height: 1; margin: 0; text-wrap: balance; }
+h2 { font-family: var(--display); font-weight: 400; font-size: 30px; margin: 0; line-height: 1.1; text-wrap: balance; }
+p { margin: 0; max-width: 65ch; }
+.lede { color: var(--muted); font-size: 16px; }
+.script {
+  background: var(--sheet); border: 1px solid var(--rule); border-radius: 4px; padding: 18px 20px;
+  font-family: var(--display); font-size: 20px; line-height: 1.45; display: grid; gap: 4px;
+}
+.script span { display: block; }
+.script .slate { font-family: var(--mono); font-size: 11px; color: var(--muted); letter-spacing: .08em; text-transform: uppercase; margin-bottom: 6px; }
+section { display: grid; gap: 16px; }
+.section-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 16px; border-bottom: 1px solid var(--rule); padding-bottom: 8px; }
+.section-head p { color: var(--muted); font-size: 14px; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.chip {
+  font: 500 13px var(--body); border: 1px solid var(--rule); background: var(--sheet); color: var(--ink);
+  padding: 6px 12px; border-radius: 999px; cursor: pointer;
+}
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--sheet); }
+.chip:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.takes { display: grid; gap: 0; background: var(--sheet); border: 1px solid var(--rule); border-radius: 4px; }
+.take {
+  display: grid; grid-template-columns: 44px minmax(0, 1fr) minmax(0, 300px) 40px; gap: 14px; align-items: center;
+  padding: 12px 14px; border-top: 1px solid var(--rule);
+}
+.take:first-child { border-top: 0; }
+.no { font-family: var(--mono); font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.who { min-width: 0; display: grid; gap: 2px; }
+.who strong { font-weight: 600; font-size: 15px; }
+.meta { font-family: var(--mono); font-size: 11.5px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.note { font-size: 13.5px; color: var(--muted); }
+.pitch { color: var(--accent); }
+audio { width: 100%; height: 36px; }
+.fav { width: 36px; height: 36px; border: 1px solid var(--rule); border-radius: 50%; background: transparent; cursor: pointer; color: var(--muted); display: grid; place-items: center; }
+.fav svg { width: 18px; height: 18px; }
+.fav[aria-pressed="true"] { color: var(--star); border-color: var(--star); }
+.fav[aria-pressed="true"] svg path { fill: currentColor; }
+.picks {
+  position: sticky; bottom: max(12px, env(safe-area-inset-bottom, 0px)); z-index: 5;
+  background: var(--ink); color: var(--sheet); border-radius: 6px; padding: 12px 14px;
+  display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; justify-content: space-between;
+}
+.picks span { font-size: 14px; min-width: 0; }
+.picks button { font: 600 13px var(--body); background: var(--sheet); color: var(--ink); border: 0; border-radius: 999px; padding: 8px 14px; cursor: pointer; }
+.routes { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; }
+.route { background: var(--sheet); border: 1px solid var(--rule); border-radius: 4px; padding: 16px; display: grid; gap: 8px; align-content: start; }
+.route h3 { margin: 0; font-size: 15px; font-weight: 600; }
+.route p { font-size: 14px; color: var(--muted); }
+.tag { font-family: var(--mono); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--accent); }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+.tablewrap { overflow-x: auto; background: var(--sheet); border: 1px solid var(--rule); border-radius: 4px; }
+th, td { text-align: left; padding: 10px 12px; border-top: 1px solid var(--rule); vertical-align: top; }
+th { font-family: var(--mono); font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); font-weight: 500; border-top: 0; }
+a { color: var(--accent); }
+.empty { padding: 18px; color: var(--muted); }
+@media (max-width: 720px) {
+  .take { grid-template-columns: 34px minmax(0, 1fr) 40px; }
+  .take audio { grid-column: 1 / -1; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">The Hero With Infinite Faces · draft 4 · voice auditions</div>
+    <h1>Narrator Auditions</h1>
+    <p class="lede">Forty free voices reading the same opening of the new 3-minute script. Every engine here runs offline on an ordinary computer and costs nothing. Star the ones you like, then copy your picks and send them back to me.</p>
+  </header>
+
+  <div class="script" aria-label="The audition text">
+    <span class="slate">Audition text · draft 4, opening lines</span>
+    <span>People have told hero stories for as long as they have told stories.</span>
+    <span>One of the oldest, the <i>Epic of Gilgamesh</i>, was written in Mesopotamia about four thousand years ago.</span>
+    <span>In 1949, the American mythologist Joseph Campbell published <i>The Hero with a Thousand Faces</i>.</span>
+    <span>By faces, he meant people: each hero is another instance of the same figure.</span>
+    <span>Biology has a name for this kind of pattern: convergent evolution.</span>
+    <span>The philosopher Karl Popper argued that knowledge grows by finding and correcting errors.</span>
+  </div>
+
+  <section id="takes-section">
+    <div class="section-head">
+      <h2>The takes</h2>
+      <p>Pitch is the measured median of each voice. Every take was transcribed by a speech recogniser and read the text correctly.</p>
+    </div>
+    <div class="toolbar" role="group" aria-label="Filter takes">
+      <button class="chip" data-filter="start" aria-pressed="true">Start here</button>
+      <button class="chip" data-filter="all" aria-pressed="false">All 40</button>
+      <button class="chip" data-filter="Pocket TTS" aria-pressed="false">Pocket TTS</button>
+      <button class="chip" data-filter="Qwen3-TTS" aria-pressed="false">Qwen3-TTS</button>
+      <button class="chip" data-filter="Kokoro" aria-pressed="false">Kokoro</button>
+      <button class="chip" data-filter="Chatterbox" aria-pressed="false">Chatterbox</button>
+      <button class="chip" data-filter="starred" aria-pressed="false">Starred</button>
+    </div>
+    <div class="takes" id="takes"></div>
+  </section>
+
+  <div class="picks" id="picks">
+    <span id="picks-text">No voices starred yet.</span>
+    <button id="copy" type="button">Copy my picks</button>
+  </div>
+
+  <section>
+    <div class="section-head">
+      <h2>The whole draft 4 script</h2>
+      <p>Read in full by the current voice (Kokoro, Emma) to check the length: about 2:50 of speech.</p>
+    </div>
+    <div class="takes">
+      <div class="take">
+        <div class="no">—</div>
+        <div class="who"><strong>Full script, 462 words</strong><div class="note">For timing and flow, not for choosing a voice.</div></div>
+        <audio controls preload="none" src="audio/d4_full_kokoro_bf_emma.mp3"></audio>
+        <div></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>The engines</h2>
+      <p>All free. Check the licence if the video will be monetised.</p>
+    </div>
+    <div class="tablewrap">
+      <table>
+        <thead><tr><th>Engine</th><th>Maker</th><th>Licence</th><th>Good for</th><th>Watch out for</th></tr></thead>
+        <tbody>
+          <tr><td>Pocket TTS</td><td>Kyutai, 2026</td><td>CC BY 4.0 (credit Kyutai). Voices: CC0 or CC BY 4.0</td><td>Natural pacing; four voices are LibriVox audiobook readers. Fast on a laptop.</td><td>Two built-in voices (Cosette, Jean) are non-commercial, so they are left out here.</td></tr>
+          <tr><td>Qwen3-TTS</td><td>Alibaba Qwen</td><td>Apache 2.0</td><td>Voice Design: describe the narrator in words and it builds the voice.</td><td>A designed voice can drift between lines. For a full video, design once, then clone that take for every line.</td></tr>
+          <tr><td>Kokoro</td><td>hexgrad</td><td>Apache 2.0</td><td>Very consistent; what drafts 1–3 used.</td><td>Flatter, more “read” delivery.</td></tr>
+          <tr><td>Chatterbox</td><td>Resemble AI</td><td>MIT</td><td>Most expressive; has an intensity control.</td><td>Slowest here. Adds an inaudible watermark. The higher-intensity take misread “Gilgamesh”.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Other routes</h2>
+      <p>If none of the free voices is right.</p>
+    </div>
+    <div class="routes">
+      <div class="route">
+        <div class="tag">Free · best match</div>
+        <h3>Your own voice</h3>
+        <p>Record the script line by line on a phone in a quiet, soft-furnished room. The pipeline already takes a recording as <code>assets/voiceover.wav</code> and times the visuals to it.</p>
+      </div>
+      <div class="route">
+        <div class="tag">Free · needs your sign-up</div>
+        <h3>Clone a voice you have rights to</h3>
+        <p>Pocket TTS and Qwen3-TTS can copy a voice from about 10 seconds of audio: yours, a designed voice you like, or one of 228 voices donated as CC0. Pocket's cloning model needs a free Hugging Face account to accept its terms.</p>
+      </div>
+      <div class="route">
+        <div class="tag">Free tier · non-commercial</div>
+        <h3>ElevenLabs</h3>
+        <p>The free plan gives 10,000 credits a month. The whole script is about 2,800 characters, so it fits. Free output is for non-commercial use and needs attribution. Commercial use starts with the Starter plan, about $6 a month (check the current price).</p>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+const LIC = {
+  pocket_vctk: "CC BY 4.0 · VCTK corpus",
+  pocket_cc0: "CC0 · donated voice",
+  pocket_lv: "CC0 · LibriVox reader",
+  pocket_alba: "CC BY 4.0 · Alba MacKenna",
+  kokoro: "Apache 2.0",
+  qwen: "Apache 2.0",
+  cbox: "MIT"
+};
+// [file, engine, display name, median pitch Hz, seconds, licence key, note, start-here]
+const TAKES = [
+  ["pocket_peter_yearsley","Pocket TTS","Peter Yearsley",88.9,31.8,"pocket_lv","LibriVox audiobook reader. Low, unhurried.",1],
+  ["pocket_stuart_bell","Pocket TTS","Stuart Bell",140.3,37.9,"pocket_lv","LibriVox audiobook reader. Mid pitch, measured.",1],
+  ["pocket_caro_davy","Pocket TTS","Caro Davy",165.8,36.5,"pocket_lv","LibriVox audiobook reader.",1],
+  ["qwen_design_warm_british_man","Qwen3-TTS","Designed: warm British man",115.2,36.0,"qwen","Brief: “a warm, clear British man presenting a documentary about ideas… never dramatic.”",1],
+  ["qwen_design_british_woman","Qwen3-TTS","Designed: calm British woman",212.6,35.6,"qwen","Brief: “calm, clear, friendly… like a good science presenter.”",1],
+  ["qwen_design_american_man","Qwen3-TTS","Designed: American man",112.0,36.6,"qwen","Brief: “warm, low, plain-spoken… like a favourite lecturer.”",1],
+  ["kokoro_bm_george","Kokoro","George (British)",141.1,38.2,"kokoro","The most measured Kokoro voice.",1],
+  ["chatterbox_default","Chatterbox","Default voice",133.1,30.5,"cbox","Standard intensity.",1],
+  ["kokoro_bf_emma","Kokoro","Emma (British)",178.8,31.7,"kokoro","The voice used in drafts 2 and 3, for reference.",1],
+  ["pocket_bill_boerst","Pocket TTS","Bill Boerst",116.6,33.6,"pocket_lv","LibriVox audiobook reader.",0],
+  ["pocket_marius","Pocket TTS","Marius",93.1,30.8,"pocket_cc0","Donated voice.",0],
+  ["pocket_javert","Pocket TTS","Javert",80.1,43.2,"pocket_cc0","Donated voice. Very deep, slow.",0],
+  ["pocket_alba","Pocket TTS","Alba",121.4,31.1,"pocket_alba","Voice actor; Pocket's default.",0],
+  ["pocket_charles","Pocket TTS","Charles",78.3,33.5,"pocket_vctk","",0],
+  ["pocket_michael","Pocket TTS","Michael",95.2,33.0,"pocket_vctk","",0],
+  ["pocket_paul","Pocket TTS","Paul",112.6,34.3,"pocket_vctk","",0],
+  ["pocket_george","Pocket TTS","George",117.3,32.0,"pocket_vctk","",0],
+  ["pocket_eponine","Pocket TTS","Eponine",165.8,34.8,"pocket_vctk","",0],
+  ["pocket_vera","Pocket TTS","Vera",178.8,33.1,"pocket_vctk","",0],
+  ["pocket_mary","Pocket TTS","Mary",184.0,33.0,"pocket_vctk","",0],
+  ["pocket_eve","Pocket TTS","Eve",190.5,32.6,"pocket_vctk","",0],
+  ["pocket_anna","Pocket TTS","Anna",198.3,34.6,"pocket_vctk","",0],
+  ["pocket_fantine","Pocket TTS","Fantine",200.7,32.8,"pocket_vctk","",0],
+  ["pocket_jane","Pocket TTS","Jane",210.1,34.2,"pocket_vctk","",0],
+  ["pocket_azelma","Pocket TTS","Azelma",216.3,34.8,"pocket_vctk","",0],
+  ["qwen_design_american_woman","Qwen3-TTS","Designed: American woman",246.3,35.5,"qwen","Brief: “clear, warm… like a good podcast host or science presenter.”",0],
+  ["qwen_ryan","Qwen3-TTS","Ryan (preset)",123.5,36.3,"qwen","Preset speaker, told to sound like a calm documentary presenter.",0],
+  ["qwen_aiden","Qwen3-TTS","Aiden (preset)",135.5,34.9,"qwen","Preset speaker, same instruction.",0],
+  ["kokoro_bm_lewis","Kokoro","Lewis (British)",81.5,36.8,"kokoro","",0],
+  ["kokoro_bm_fable","Kokoro","Fable (British)",108.2,36.7,"kokoro","",0],
+  ["kokoro_bm_daniel","Kokoro","Daniel (British)",122.8,33.2,"kokoro","",0],
+  ["kokoro_bf_lily","Kokoro","Lily (British)",186.1,33.8,"kokoro","",0],
+  ["kokoro_bf_isabella","Kokoro","Isabella (British)",203.0,32.3,"kokoro","",0],
+  ["kokoro_bf_alice","Kokoro","Alice (British)",216.3,34.4,"kokoro","",0],
+  ["kokoro_am_onyx","Kokoro","Onyx (American)",84.9,36.1,"kokoro","",0],
+  ["kokoro_am_michael","Kokoro","Michael (American)",114.6,37.9,"kokoro","",0],
+  ["kokoro_am_adam","Kokoro","Adam (American)",117.9,33.0,"kokoro","",0],
+  ["kokoro_af_heart","Kokoro","Heart (American)",199.5,33.7,"kokoro","",0],
+  ["kokoro_af_bella","Kokoro","Bella (American)",199.5,34.7,"kokoro","",0],
+  ["chatterbox_dramatic","Chatterbox","Default voice, higher intensity",163.9,27.9,"cbox","More emphatic. Misread “Gilgamesh”.",0]
+];
+const STORE = "narrator-auditions-stars";
+let stars = new Set();
+try { stars = new Set(JSON.parse(localStorage.getItem(STORE) || "[]")); } catch (e) {}
+const save = () => { try { localStorage.setItem(STORE, JSON.stringify([...stars])); } catch (e) {} };
+const pitchWord = hz => hz < 120 ? "low" : hz < 175 ? "mid" : "high";
+const star = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8L12 16.9l-5.2 2.7 1-5.8-4.3-4.1 5.9-.9z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>';
+const takesEl = document.getElementById("takes");
+let filter = "start";
+
+function render() {
+  const rows = TAKES.map((t, i) => ({ t, n: i + 1 })).filter(({ t }) =>
+    filter === "all" ? true : filter === "start" ? t[7] : filter === "starred" ? stars.has(t[0]) : t[1] === filter);
+  takesEl.innerHTML = rows.length ? rows.map(({ t, n }) => `
+    <div class="take">
+      <div class="no">${String(n).padStart(2, "0")}</div>
+      <div class="who">
+        <strong>${t[2]}</strong>
+        <div class="meta"><span>${t[1]}</span><span class="pitch">${pitchWord(t[3])} · ${Math.round(t[3])} Hz</span><span>${t[4].toFixed(1)} s</span><span>${LIC[t[5]]}</span></div>
+        ${t[6] ? `<div class="note">${t[6]}</div>` : ""}
+      </div>
+      <audio controls preload="none" src="audio/${t[0]}.mp3"></audio>
+      <button class="fav" type="button" data-id="${t[0]}" aria-pressed="${stars.has(t[0])}" aria-label="Star ${t[2]}">${star}</button>
+    </div>`).join("") : '<div class="empty">Nothing starred yet. Use the star next to a take.</div>';
+  updatePicks();
+}
+function updatePicks() {
+  const names = TAKES.filter(t => stars.has(t[0])).map(t => `${String(TAKES.indexOf(t) + 1).padStart(2, "0")} ${t[2]} (${t[1]})`);
+  document.getElementById("picks-text").textContent = names.length ? `Starred: ${names.join(", ")}` : "No voices starred yet.";
+}
+document.querySelectorAll(".chip").forEach(c => c.addEventListener("click", () => {
+  filter = c.dataset.filter;
+  document.querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", String(x === c)));
+  render();
+}));
+takesEl.addEventListener("click", e => {
+  const b = e.target.closest(".fav"); if (!b) return;
+  const id = b.dataset.id;
+  stars.has(id) ? stars.delete(id) : stars.add(id);
+  save(); b.setAttribute("aria-pressed", String(stars.has(id)));
+  if (filter === "starred") render(); else updatePicks();
+});
+// one take plays at a time
+document.addEventListener("play", e => {
+  document.querySelectorAll("audio").forEach(a => { if (a !== e.target) a.pause(); });
+}, true);
+document.getElementById("copy").addEventListener("click", async () => {
+  const text = document.getElementById("picks-text").textContent;
+  const btn = document.getElementById("copy");
+  try { await navigator.clipboard.writeText(text); btn.textContent = "Copied"; }
+  catch (err) {
+    const r = document.createRange(); r.selectNodeContents(document.getElementById("picks-text"));
+    const s = getSelection(); s.removeAllRanges(); s.addRange(r); btn.textContent = "Selected: copy it";
+  }
+  setTimeout(() => { btn.textContent = "Copy my picks"; }, 2000);
+});
+render();
+</script>

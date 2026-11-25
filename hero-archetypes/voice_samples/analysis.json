@@ -1,0 +1,282 @@
+{
+ "kokoro_af_bella": {
+  "wer": 0.049,
+  "f0": 199.5,
+  "dur": 34.7,
+  "wpm": 186.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh,  was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with 1,000 faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "kokoro_af_heart": {
+  "wer": 0.025,
+  "f0": 199.5,
+  "dur": 33.7,
+  "wpm": 188.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4,000 years  ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "kokoro_am_adam": {
+  "wer": 0.0,
+  "f0": 117.9,
+  "dur": 33.0,
+  "wpm": 186.0,
+  "hyp": "People have told hero stories, for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about four thousand  years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people, each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "kokoro_am_michael": {
+  "wer": 0.025,
+  "f0": 114.6,
+  "dur": 37.9,
+  "wpm": 174.0,
+  "hyp": "people have told hero stories  for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh,  was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell  published the hero with a thousand faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern,  Convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "kokoro_am_onyx": {
+  "wer": 0.025,
+  "f0": 84.9,
+  "dur": 36.1,
+  "wpm": 192.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest the epic of Gilgamesh was written in Mesopotamia about 4,000 years ago.  In 1949 the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people, each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "kokoro_bf_alice": {
+  "wer": 0.025,
+  "f0": 216.3,
+  "dur": 34.4,
+  "wpm": 177.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest the epic of Gilgamesh was written in Mesopotamia about 4000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people, each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "kokoro_bf_emma": {
+  "wer": 0.0,
+  "f0": 178.8,
+  "dur": 31.7,
+  "wpm": 191.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about four thousand  years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper, argued that knowledge grows by finding and correcting errors."
+ },
+ "kokoro_bf_isabella": {
+  "wer": 0.0,
+  "f0": 203.0,
+  "dur": 32.3,
+  "wpm": 187.0,
+  "hyp": "people have told hero stories for as long as they have told stories. One of the oldest,  the epic of Gilgamesh, was written in Mesopotamia about four thousand years ago. In 1949, the  American mythologist Joseph Campbell published the hero with a thousand faces. By faces he  meant people, each hero is another instance of the same figure. Biology has a name for  this kind of pattern, convergent evolution. The philosopher Karl Popper argued that knowledge  grows by finding and correcting errors."
+ },
+ "kokoro_bf_lily": {
+  "wer": 0.0,
+  "f0": 186.1,
+  "dur": 33.8,
+  "wpm": 175.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about four thousand  years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand  faces.  By faces he meant people, each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "kokoro_bm_daniel": {
+  "wer": 0.025,
+  "f0": 122.8,
+  "dur": 33.2,
+  "wpm": 180.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4000 years  ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people, each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "kokoro_bm_fable": {
+  "wer": 0.025,
+  "f0": 108.2,
+  "dur": 36.7,
+  "wpm": 190.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people, each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "kokoro_bm_george": {
+  "wer": 0.025,
+  "f0": 141.1,
+  "dur": 38.2,
+  "wpm": 164.0,
+  "hyp": "People have told hero stories  for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh,  was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell  published the hero with a thousand faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern,  convergent evolution.  The philosopher Karl Popper argued that knowledge grows  by finding and correcting errors."
+ },
+ "kokoro_bm_lewis": {
+  "wer": 0.0,
+  "f0": 81.5,
+  "dur": 36.8,
+  "wpm": 189.0,
+  "hyp": "people have told hero stories for as long as they have told stories. One of the oldest,  the epic of Gilgamesh, was written in Mesopotamia about four thousand years ago. In 1949, the  American mythologist Joseph Campbell published the hero with a thousand faces. By faces he  meant people. Each hero is another instance of the same figure. Biology has a name for  this kind of pattern, convergent evolution. The philosopher Karl Popper argued that knowledge  grows by finding and correcting errors."
+ },
+ "pocket_alba": {
+  "wer": 0.025,
+  "f0": 121.4,
+  "dur": 31.1,
+  "wpm": 202.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces, he meant people. Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_anna": {
+  "wer": 0.025,
+  "f0": 198.3,
+  "dur": 34.6,
+  "wpm": 197.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the epic of Gilgamesh, was written in Mesopotamia about 4000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_azelma": {
+  "wer": 0.025,
+  "f0": 216.3,
+  "dur": 34.8,
+  "wpm": 199.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_bill_boerst": {
+  "wer": 0.025,
+  "f0": 116.6,
+  "dur": 33.6,
+  "wpm": 241.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_caro_davy": {
+  "wer": 0.025,
+  "f0": 165.8,
+  "dur": 36.5,
+  "wpm": 201.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people. Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_charles": {
+  "wer": 0.025,
+  "f0": 78.3,
+  "dur": 33.5,
+  "wpm": 205.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people. Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_eponine": {
+  "wer": 0.025,
+  "f0": 165.8,
+  "dur": 34.8,
+  "wpm": 192.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_eve": {
+  "wer": 0.025,
+  "f0": 190.5,
+  "dur": 32.6,
+  "wpm": 219.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces, he meant people. Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_fantine": {
+  "wer": 0.0,
+  "f0": 200.7,
+  "dur": 32.8,
+  "wpm": 204.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about four thousand  years ago.  In 1949, the American mythologist Joseph Campbell published The Hero with a Thousand  Faces.  By faces he meant people, each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_george": {
+  "wer": 0.025,
+  "f0": 117.3,
+  "dur": 32.0,
+  "wpm": 223.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4000 years  ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_jane": {
+  "wer": 0.025,
+  "f0": 210.1,
+  "dur": 34.2,
+  "wpm": 206.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces, he meant people. Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_javert": {
+  "wer": 0.025,
+  "f0": 80.1,
+  "dur": 43.2,
+  "wpm": 188.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_marius": {
+  "wer": 0.025,
+  "f0": 93.1,
+  "dur": 30.8,
+  "wpm": 318.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest the epic of Gilgamesh was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people. Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_mary": {
+  "wer": 0.025,
+  "f0": 184.0,
+  "dur": 33.0,
+  "wpm": 204.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_michael": {
+  "wer": 0.025,
+  "f0": 95.2,
+  "dur": 33.0,
+  "wpm": 212.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people, each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_paul": {
+  "wer": 0.025,
+  "f0": 112.6,
+  "dur": 34.3,
+  "wpm": 204.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people. Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_peter_yearsley": {
+  "wer": 0.025,
+  "f0": 88.9,
+  "dur": 31.8,
+  "wpm": 274.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people. Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_stuart_bell": {
+  "wer": 0.025,
+  "f0": 140.3,
+  "dur": 37.9,
+  "wpm": 263.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published The Hero with a Thousand Faces.  By faces, he meant people. Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "pocket_vera": {
+  "wer": 0.025,
+  "f0": 178.8,
+  "dur": 33.1,
+  "wpm": 202.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces he meant people, each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and  correcting errors."
+ },
+ "chatterbox_default": {
+  "wer": 0.037,
+  "f0": 133.1,
+  "dur": 30.5,
+  "wpm": 201.0,
+  "hyp": "people have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4000 years  ago.  In 1949, the American mythologist Joseph Campbell published The Hero with a Thousand  Faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors.  You"
+ },
+ "chatterbox_dramatic": {
+  "wer": 0.037,
+  "f0": 163.9,
+  "dur": 27.9,
+  "wpm": 219.0,
+  "hyp": "people have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Dilgamesh, was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published  The Hero with a Thousand Faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern,  convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "qwen_aiden": {
+  "wer": 0.025,
+  "f0": 135.5,
+  "dur": 34.9,
+  "wpm": 178.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh,  was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "qwen_design_american_man": {
+  "wer": 0.025,
+  "f0": 112.0,
+  "dur": 36.6,
+  "wpm": 170.0,
+  "hyp": "People have told hero stories  for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh,  was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell  published the hero with a thousand faces.  By faces he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern,  convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "qwen_design_american_woman": {
+  "wer": 0.025,
+  "f0": 246.3,
+  "dur": 35.5,
+  "wpm": 179.0,
+  "hyp": "People have told hero stories  for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh,  was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell  published the hero with a thousand faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern,  convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "qwen_design_british_woman": {
+  "wer": 0.025,
+  "f0": 212.6,
+  "dur": 35.6,
+  "wpm": 183.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh,  was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published  The Hero with a Thousand Faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern, convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "qwen_design_warm_british_man": {
+  "wer": 0.025,
+  "f0": 115.2,
+  "dur": 36.0,
+  "wpm": 176.0,
+  "hyp": "People have told hero stories  for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh,  was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell  published the hero with a thousand faces.  By faces, he meant people.  Each hero is another instance of the same figure.  Biology has a name for this kind of pattern,  convergent evolution.  The philosopher Karl Popper argued that knowledge grows by finding and correcting errors."
+ },
+ "qwen_ryan": {
+  "wer": 0.025,
+  "f0": 123.5,
+  "dur": 36.3,
+  "wpm": 174.0,
+  "hyp": "People have told hero stories for as long as they have told stories.  One of the oldest, the Epic of Gilgamesh, was written in Mesopotamia about 4,000 years ago.  In 1949, the American mythologist Joseph Campbell published the hero with a thousand faces.  By faces, he meant people. Each hero is another instance of the same figure.  Biology has a name for this kind of pattern,  convergent evolution.  The philosopher Karl Popper argued that knowledge grows  by finding and correcting errors."
+ }
+}
