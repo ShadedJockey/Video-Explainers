@@ -36,6 +36,9 @@
 #   ./render.sh v4-final     1080×1920 → final/hero_infinite_faces_v4_vertical.mp4
 #   ./render.sh v4-still [--safe] s3.4@0.8   single frames → draft4/build/
 #   ./render.sh v4-docs      regenerate draft4/collage_sources.md
+#
+#   Draft 5 — Gemini's "Stark Epic" handoff (draft5/HANDOFF_FROM_GEMINI.md), same pipeline as draft 4
+#   ./render.sh v5-voice · v5-preview · v5-final · v5-still [--safe] s4.1@0.7 · v5-docs
 set -euo pipefail
 cd "$(dirname "$0")"
 PY=.venv/bin/python
@@ -88,6 +91,11 @@ case "${1:-preview}" in
   v4-final)   $PY tools/render_v4.py final ;;
   v4-still)   $PY tools/render_v4.py still "${@:2}" ;;
   v4-docs)    $PY tools/v4_docs.py ;;
+  v5-voice)   HF_HUB_DISABLE_XET=1 .tts/pocket/bin/python tools/v5_voice.py ;;
+  v5-preview) $PY tools/render_v5.py preview ;;
+  v5-final)   $PY tools/render_v5.py final ;;
+  v5-still)   $PY tools/render_v5.py still "${@:2}" ;;
+  v5-docs)    $PY tools/v5_docs.py ;;
   all)      $PY tools/make_cutouts.py && $PY tools/make_voiceover.py && $PY tools/make_docs.py && $PY tools/render.py final ;;
-  *) sed -n '2,41p' "$0"; exit 1 ;;
+  *) sed -n '2,45p' "$0"; exit 1 ;;
 esac

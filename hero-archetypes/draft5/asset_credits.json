@@ -1,0 +1,90 @@
+{
+ "achilles": {
+  "id": "cma_150543",
+  "img": "https://openaccess-cdn.clevelandart.org/1981.95/1981.95_web.jpg",
+  "title": "Achilles Dragging the Body of Hector (1648)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1981.95",
+  "role": "achilles",
+  "query": "Achilles",
+  "local": "assets/v4/achilles.jpg",
+  "source_id": "cma_150543"
+ },
+ "knight": {
+  "id": "cma_127563",
+  "img": "https://openaccess-cdn.clevelandart.org/1950.241/1950.241_web.jpg",
+  "title": "The Knight and  Lansquenet (c. 1512)",
+  "licence": "CC0 (Cleveland Museum of Art)",
+  "page": "https://clevelandart.org/art/1950.241",
+  "role": "knight",
+  "query": "knight",
+  "local": "assets/v4/knight.jpg",
+  "source_id": "cma_127563"
+ },
+ "oracle_bone": {
+  "id": "aic_192727",
+  "img": "https://www.artic.edu/iiif/2/1495bb5b-72af-026a-aac6-1e68a397e220/full/843,/0/default.jpg",
+  "title": "Oracle Bones (76 total) (Shang dynasty (about 1600–1046 BC))",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/192727",
+  "role": "oracle_bone",
+  "query": "oracle bone",
+  "local": "assets/v4/oracle_bone.jpg",
+  "source_id": "aic_192727"
+ },
+ "maya": {
+  "id": "aic_75645",
+  "img": "https://www.artic.edu/iiif/2/d03d88d6-78f1-beaf-5e5f-073dbfe2fa81/full/843,/0/default.jpg",
+  "title": "Stela (c. 702) Maya",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/75645",
+  "role": "maya",
+  "query": "Maya inscription",
+  "local": "assets/v4/maya.jpg",
+  "source_id": "aic_75645"
+ },
+ "famine": {
+  "id": "wellcome_kkmfv7mk",
+  "img": "https://iiif.wellcomecollection.org/image/V0010577/full/1100,/0/default.jpg",
+  "title": "Plague, war and famine. Engraving by Sadeler after M. de Vos.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/en89gg5h",
+  "role": "famine",
+  "query": "famine",
+  "local": "assets/v4/famine.jpg",
+  "source_id": "wellcome_kkmfv7mk"
+ },
+ "disease": {
+  "id": "wellcome_kfmt3qu2",
+  "img": "https://iiif.wellcomecollection.org/image/L0003052/full/1100,/0/default.jpg",
+  "title": "John Bull defending Britain against the invasion of cholera; comparing the Reform Bill to the cholera epidemic. Coloured lithograph, c. 1832.",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/ebp6me9z",
+  "role": "disease",
+  "query": "cholera",
+  "local": "assets/v4/disease.jpg",
+  "source_id": "wellcome_kfmt3qu2"
+ },
+ "world_map": {
+  "id": "wellcome_g535w9xu",
+  "img": "https://iiif.wellcomecollection.org/image/L0034555/full/1100,/0/default.jpg",
+  "title": "A map of the world c. 1600",
+  "licence": "Public Domain Mark (Wellcome Collection)",
+  "page": "https://wellcomecollection.org/works/yct9q7vm",
+  "role": "world_map",
+  "query": "world map",
+  "local": "assets/v4/world_map.jpg",
+  "source_id": "wellcome_g535w9xu"
+ },
+ "route_map": {
+  "id": "aic_77855",
+  "img": "https://www.artic.edu/iiif/2/64bbfef9-22b3-b339-77de-ec0de0b1b672/full/843,/0/default.jpg",
+  "title": "Map of North America (Handkerchief) (1811) R. Gray",
+  "licence": "Public domain (Art Institute of Chicago)",
+  "page": "https://www.artic.edu/artworks/77855",
+  "role": "route_map",
+  "query": "map",
+  "local": "assets/v4/route_map.jpg",
+  "source_id": "aic_77855"
+ }
+}

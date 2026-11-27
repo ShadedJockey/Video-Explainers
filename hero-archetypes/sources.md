@@ -192,6 +192,7 @@ New or reworded on-screen claims in `draft4/narration.md` and the picture labels
 | G12 | In *Nausicaä of the Valley of the Wind* (Hayao Miyazaki, 1984), Nausicaä finds that the toxic jungle's plants are harmless when grown in clean soil and water, and that the jungle is purifying the poisoned earth. | [Nausicaä of the Valley of the Wind (film)](https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_(film)) |
 | G13 | David Deutsch, physicist, *The Beginning of Infinity* (2011): "problems are soluble". | [The Beginning of Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity) |
 | G14 | Dürer, *The Knight and the Lansquenet* (c. 1512); *Achilles Dragging the Body of Hector* (1648); Shang oracle bones; Maya stela (c. 702). | museum pages in `draft4/collage_sources.md` |
+| G15 (draft 5) | "Most societies throughout history have reliably held them back"; "static cultures that feared disruption". This is David Deutsch's argument about *static societies*, which survive by suppressing criticism and innovation (*The Beginning of Infinity*, ch. 15 "The Evolution of Culture"). It is his thesis, not settled history; the narration states it without attribution. | [The Beginning of Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity) |
 
 ## Images
 

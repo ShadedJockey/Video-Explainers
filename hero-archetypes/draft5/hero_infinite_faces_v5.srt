@@ -1,0 +1,227 @@
+1
+00:00:02,400 --> 00:00:05,868
+People have told hero stories for as long as they have told stories.
+
+2
+00:00:06,228 --> 00:00:08,549
+One of the oldest, the Epic of Gilgamesh,
+
+3
+00:00:08,549 --> 00:00:11,776
+was written in Mesopotamia about four thousand years ago.
+
+4
+00:00:12,136 --> 00:00:13,617
+The Greeks had Achilles,
+
+5
+00:00:13,617 --> 00:00:15,591
+medieval Europe had its knights,
+
+6
+00:00:15,591 --> 00:00:17,318
+and we have films and games.
+
+7
+00:00:17,678 --> 00:00:21,365
+The Swiss psychiatrist Carl Jung called the hero an archetype:
+
+8
+00:00:21,365 --> 00:00:23,328
+a pattern that keeps reappearing.
+
+9
+00:00:23,688 --> 00:00:29,417
+In 1949, the American mythologist Joseph Campbell published The Hero with a Thousand Faces.
+
+10
+00:00:29,777 --> 00:00:31,408
+By faces, he meant people:
+
+11
+00:00:31,408 --> 00:00:34,482
+each hero is another instance of the same figure.
+
+12
+00:00:34,842 --> 00:00:41,367
+The Legend of Zelda games show this in miniature: in each era, Link is a new person, and still the hero.
+
+13
+00:00:41,727 --> 00:00:45,077
+Every hero story is a kind of map for facing the unknown.
+
+14
+00:00:45,437 --> 00:00:52,162
+Campbell drew a map of those maps: the hero leaves home, is tested, and returns changed.
+
+15
+00:00:53,012 --> 00:00:58,349
+Across cultures, heroes share qualities: courage, persistence, care for others,
+
+16
+00:00:58,349 --> 00:01:01,322
+and a willingness to face what others avoid.
+
+17
+00:01:01,682 --> 00:01:05,064
+But why would cultures that never met keep inventing the same figure?
+
+18
+00:01:05,914 --> 00:01:10,356
+Biology has a name for this kind of pattern: convergent evolution.
+
+19
+00:01:10,716 --> 00:01:15,252
+Distantly related species that face the same problem often reach similar solutions.
+
+20
+00:01:15,612 --> 00:01:18,550
+Insects, birds and bats each evolved wings,
+
+21
+00:01:18,550 --> 00:01:22,309
+and octopuses and humans each evolved camera-like eyes.
+
+22
+00:01:22,669 --> 00:01:29,049
+Cultures converge too: writing was invented separately in Mesopotamia, China and Mesoamerica.
+
+23
+00:01:29,409 --> 00:01:32,941
+Hero stories may be another example of cultural convergence.
+
+24
+00:01:33,301 --> 00:01:37,198
+Every culture faces problems and benefits from people who can solve them,
+
+25
+00:01:37,198 --> 00:01:39,867
+so stories about those people keep being invented.
+
+26
+00:01:40,717 --> 00:01:45,447
+That is convergence in stories—but there is a second convergence, in real people.
+
+27
+00:01:45,807 --> 00:01:47,336
+Across times and cultures,
+
+28
+00:01:47,336 --> 00:01:51,689
+real individuals separately arrive at the same capacity to solve problems,
+
+29
+00:01:51,689 --> 00:01:56,100
+even though most societies throughout history have reliably held them back.
+
+30
+00:01:56,460 --> 00:02:01,172
+The philosopher Karl Popper argued that knowledge grows by finding and correcting errors.
+
+31
+00:02:01,532 --> 00:02:03,736
+A hero does this reliably, in themselves,
+
+32
+00:02:03,736 --> 00:02:09,273
+and better than the culture around them—which makes them a revolutionary force at the level of culture.
+
+33
+00:02:09,633 --> 00:02:13,763
+In Hayao Miyazaki's 1984 film Nausicaä of the Valley of the Wind,
+
+34
+00:02:13,763 --> 00:02:16,304
+everyone fears a spreading toxic jungle.
+
+35
+00:02:16,664 --> 00:02:19,076
+Nausicaä refuses the dogma, studies it,
+
+36
+00:02:19,076 --> 00:02:22,044
+and finds that it is cleaning the poisoned soil.
+
+37
+00:02:22,404 --> 00:02:24,116
+Her judgement isn't perfect,
+
+38
+00:02:24,116 --> 00:02:27,783
+but it is reliable enough to face problems no one predicted,
+
+39
+00:02:27,783 --> 00:02:29,984
+in familiar places and unknown ones.
+
+40
+00:02:30,834 --> 00:02:32,507
+In The Beginning of Infinity,
+
+41
+00:02:32,507 --> 00:02:36,027
+the physicist David Deutsch argues that problems are soluble,
+
+42
+00:02:36,027 --> 00:02:37,527
+given the right knowledge.
+
+43
+00:02:37,887 --> 00:02:40,709
+A hero treats all problems alike: a monster,
+
+44
+00:02:40,709 --> 00:02:44,045
+a famine and a disease are all things to understand.
+
+45
+00:02:44,405 --> 00:02:50,768
+That is the hero's reach—and why a single error-correcting mind can overturn an entire culture's limits.
+
+46
+00:02:51,618 --> 00:02:54,235
+Because stories are maps of these people,
+
+47
+00:02:54,235 --> 00:02:57,491
+the hero is often rediscovered, and often improved.
+
+48
+00:02:57,851 --> 00:02:59,660
+Gilgamesh was a great warrior,
+
+49
+00:02:59,660 --> 00:03:02,795
+but his epic opens with him oppressing his own city.
+
+50
+00:03:03,155 --> 00:03:06,522
+In Homer's Iliad, Achilles is the greatest fighter at Troy,
+
+51
+00:03:06,522 --> 00:03:09,831
+yet his pride keeps him from battle while his friends die.
+
+52
+00:03:10,191 --> 00:03:15,958
+Many past heroes were heroic in one domain and bound by their culture's blind spots in others.
+
+53
+00:03:16,318 --> 00:03:19,534
+Later stories keep what worked and correct what did not.
+
+54
+00:03:20,384 --> 00:03:22,459
+Campbell counted a thousand faces.
+
+55
+00:03:22,819 --> 00:03:29,578
+For most of history, this kind of person was rare—reliably held back by static cultures that feared disruption.
+
+56
+00:03:29,938 --> 00:03:35,400
+But if a hero is anyone who corrects their own errors and treats every problem as soluble,
+
+57
+00:03:35,400 --> 00:03:36,856
+that force has no limit.

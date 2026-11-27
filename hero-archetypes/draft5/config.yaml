@@ -1,0 +1,76 @@
+# Draft 5 (Stark Epic Overhaul): "The Hero With Infinite Faces" (1080×1920).
+# Script: draft5/narration.md · stage: draft5/scenes.yaml · renderer: tools/render_v5.py
+#   ./render.sh v4-voice → v4-preview → v4-final
+
+output:
+  final:   {width: 1080, height: 1920, fps: 30, crf: 23, preset: slow,     file: final/hero_infinite_faces_v5_vertical.mp4}
+  preview: {width: 540,  height: 960,  fps: 15, crf: 28, preset: veryfast, file: draft5/build/preview_540x960.mp4}
+
+series_name: ""                   # ← set your channel name here (leave "" to hide)
+
+voice:
+  engine: pocket
+  pocket_voice: anna
+  lead_in: 2.4
+  gap_between_lines: 0.36         # slightly tighter pacing
+  gap_between_sections: 0.85
+  tail: 3.6
+  pronunciations:
+    "Nausicaä": "Nowsika"
+    "Deutsch": "Doytch"
+    "Mesoamerica": "Meso-America"
+
+music:
+  file: assets/music.mp3
+  level_db: -22                   # respected by tools/make_sound_v5.py
+  duck_db: 6
+  envelope: {1: 0.4, 2: 0.5, 3: 0.65, 4: 0.65, 5: 0.85, 6: 0.7, 7: 1.0}
+foley:
+  impact_db: -18                  # sub-bass hit on section breaks (replaces paper rustle)
+loudness: {integrated_lufs: -15, true_peak_db: -1.2, sample_rate: 48000}
+
+layout:                           # px at 1080×1920; TikTok covers top 220, bottom 480, right 140
+  safe_top: 220
+  header_y: [230, 290]
+  text_y: [300, 740]
+  text_x: [60, 940]
+  max_strips: 4
+  stage: [780, 1430]
+  safe_bottom: 1440
+  safe_right: 140
+  header_fade_px: 26
+
+fonts:
+  body:         assets/fonts/EBGaramond-Variable.ttf
+  body_italic:  assets/fonts/EBGaramond-Italic-Variable.ttf
+  title:        assets/fonts/InstrumentSerif-Regular.ttf
+  title_italic: assets/fonts/InstrumentSerif-Italic.ttf
+
+colors:
+  strip: "#f5f5f5"                # stark pure white
+  ink: "#090909"                  # obsidian black
+  label_bg: "#090909"             # hard black stamp
+  label_ink: "#f5f5f5"            # stark white text
+  accent: "#d9381e"               # crimson/ember scorch for key thesis hits
+  background: "#090909"
+
+text: {size_px: 48, strip_h_em: 1.38, gap_px: 6, para_gap_px: 14, pad_x_px: 24}
+
+motion: {piece_slide_s: [0.10, 0.22], scroll_s: 0.22, section_change_s: 0.28, rotation_deg: 0.0}
+
+collage:                          # crushed-black monochrome background
+  seed: 41
+  size_px: [320, 680]
+  interval_s: 0.65
+  dim: 0.30
+  pools: [draft3/collage_credits.json, draft2/collage_credits.json]
+  exclude: [draft3/collage_exclude.txt, draft2/collage_exclude.txt, draft4/collage_exclude.txt]
+  drop_themes: [esoteric, scripture, cosmos, stars, labyrinth, emblem, infinity, wisdom, k, guts, chief, shadow, stark, prologue, fire, cycle]
+  section_themes:
+    1: [faces, portrait, costume, map, gilgamesh, mythmaker, ruins]
+    2: [faces, portrait, hands, tradition]
+    3: [wings, eyes, haeckel, library, microscope]
+    4: [nausicaa, haeckel, soil, microscope, rational]
+    5: [dragon, explain, rational, frontier, library]
+    6: [ruins, walls, tradition, mythmaker, gilgamesh]
+    7: [faces, portrait, frontier, infinite]
