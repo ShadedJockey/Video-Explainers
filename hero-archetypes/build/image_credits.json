@@ -418,5 +418,11 @@
   "page": "https://commons.wikimedia.org/wiki/File:Flaxman_Odyssey_Ulysses_and_his_dog.jpg",
   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Flaxman_Odyssey_Ulysses_and_his_dog.jpg",
   "local": "assets/public_domain/odysseus_dog.jpg"
+ },
+ "nausicaa_jungle": {
+  "subject": "The toxic jungle (Nausicaä of the Valley of the Wind, Studio Ghibli, 1984)",
+  "licence": "Studio Ghibli free-use stills",
+  "url": "https://www.ghibli.jp/gallery/nausicaa002.jpg",
+  "page": "https://www.ghibli.jp/info/013344/"
  }
 }
