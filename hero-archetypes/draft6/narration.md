@@ -95,7 +95,7 @@ Your edited script with the themes from `THEMES_SYNTHESIS.md` worked in. One sen
 - **Section 5:** adds Deutsch's principle of optimism (every evil comes from a lack of knowledge), which links the attitude to evil in section 2 to reach.
 - **Section 6:** adds your note that stories describe, explain and criticise their heroes; the *Iliad*'s first line is the example.
 
-**Length:** about 720 words, roughly 4:50 with the current voice and pauses. For three minutes it would need to lose about 280 words; tell me if you want a trimmed version.
+**Length:** 817 words, roughly 5:30 with the current voice and pauses (draft 5 is 532 words, 3:40). For three minutes it would need to lose about 370 words; tell me if you want a trimmed version.
 
 ## References (book sources for each idea)
 
