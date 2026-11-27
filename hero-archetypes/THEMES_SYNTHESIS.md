@@ -120,6 +120,10 @@ Campbell counted a thousand faces. If a hero is anyone who corrects their own er
 - No religious or heavenly imagery. No fire light, no gold ring or cycle arrow. Draw Popper's schema as an open line.
 - About three minutes.
 
+## Reading list
+
+The full table of book sources for each idea is at the end of `draft6/narration.md`. Core books: Campbell, *The Hero with a Thousand Faces* (1949) · Jung, *Psychology of the Unconscious* (1912) · Toelken, *The Dynamics of Folklore* (1979/1996) · Murdock, *The Heroine's Journey* (1990) · Popper, *Conjectures and Refutations* (1963), *Objective Knowledge* (1972), *The Open Society and Its Enemies* (1945) · Deutsch, *The Beginning of Infinity* (2011), ch. 1, 9, 15 · Conway Morris, *Life's Solution* (2003) · Robinson, *The Story of Writing* (1995).
+
 ## Sources
 
 - Popper, "Of Clouds and Clocks" (1965), in *Objective Knowledge: An Evolutionary Approach* (Oxford: Clarendon Press, 1972): the tetradic schema P₁ → TT → EE → P₂. [Text excerpt](https://www.marxists.org/reference/subject/philosophy/works/at/popper.htm)
