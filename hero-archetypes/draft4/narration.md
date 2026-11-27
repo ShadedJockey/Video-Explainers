@@ -1,6 +1,8 @@
 # The Hero With Infinite Faces: narration (draft 4, about 3 minutes)
 
-Draft for approval. One sentence per `>` line. `**bold**` = bold on screen, `*…*` = titles of works.
+Approved and narrated (Pocket TTS, voice “anna”). One sentence per `>` line. `**bold**` = bold on screen, `*…*` = titles of works.
+
+**Note for editors: two convergences.** (1) *Stories* converge: separate cultures invent the same hero figure (§1, §3 lines 5–6, §6). (2) *People* converge: real people separately arrive at the same capacity to find and correct their own errors and to treat problems as soluble (§4, §5, §7). Campbell mapped the first; the second is what his map describes. Full note and an optional bridging line: `draft4/PLAN.md` → "Two convergences".
 
 ---
 

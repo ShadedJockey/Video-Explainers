@@ -19,6 +19,26 @@ Built from the 15 notes on draft 3. Script: `draft4/narration.md` (462 words, ab
 | 14 Every example has a job | Gilgamesh = oldest + flawed; Achilles = heroic in one domain; Link = faces as instances; wings/eyes/writing = convergence; Nausicaä = correcting her culture's error |
 | 15 Three minutes | 462 words |
 
+## Two convergences: keep them distinct
+
+The video relies on two different convergences. They are related, but they are not the same thing.
+
+| | 1. Convergence in story-making | 2. Convergence in people |
+|---|---|---|
+| What converges | The **story**: cultures that never met invent tales with the same hero figure (Gilgamesh, Achilles, knights, Link, Nausicaä…). | The **person**: real people, in different times and places, separately become heroic by arriving at the same capacity: reliably finding and correcting their own errors, and treating problems as soluble. |
+| What is being copied | Nothing. The pattern is reinvented, not inherited (no Jungian inheritance, no shared source). | Nothing. Each person builds the knowledge themselves, in their own setting. |
+| Why it happens | Every culture faces problems and benefits from people who solve them, so a story shape that describes such people is useful and keeps being invented. | The world keeps presenting new, unpredictable problems; error correction is the solution that works on all of them, so people who succeed tend to converge on it. |
+| Closest analogy | Writing invented separately in Mesopotamia, China and Mesoamerica (a cultural invention). | Wings or camera-like eyes in unrelated species (the same solution to the same problem). |
+| Campbell's place | Campbell mapped convergence 1: his monomyth is a map of the stories (a map of maps). | Convergence 2 is the territory those maps describe. |
+| Where in the script | §1 (heroes then and now, Campbell's map), §3 lines 5–6 ("The hero may be another example… stories about those people keep being invented."), §6 (stories rediscovered and improved). | §4 (Popper; Nausicaä as a fictional illustration of a person correcting her culture's error), §5 (Deutsch, reach), §7 ("anyone who corrects their own errors…"). |
+
+**How they connect:** the stories (1) are maps of the people (2). Because stories are made by people who can also correct errors, the stories themselves improve over time (§6): later heroes keep what worked and drop the flaws. That is convergence 2 applied to convergence 1.
+
+**Watch-out in the current narration:** §3 ends on convergence 1 (stories keep being invented) and §4 opens on convergence 2 ("What makes someone good at solving problems?") without saying that the subject has moved from stories to people. Possible fix, not applied (it would change the narration, which needs your OK):
+- after §3 line 6, add: "People converge too: in every age, some learn, separately, to solve problems the same way."
+- or open §4 with: "That is convergence in stories. There is also convergence in people."
+Either adds about 3–4 seconds. On screen, the matching chips would be "stories converge" (§3.6, over the face grid) and "people converge" (§4.1).
+
 ## Visual changes (notes 1, 11, 12)
 - **New intro**: a sliding timeline of artefacts with museum-style labels (what, where, when): a Gilgamesh cuneiform tablet, a Greek vase showing Achilles, a medieval knight from a manuscript, then film and game heroes. Replaces the black screen of italic lines.
 - **Remove** the ember (fire light) and the golden ring/cycle-arrow mark everywhere.
