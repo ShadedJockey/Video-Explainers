@@ -1183,10 +1183,12 @@ def mix_audio(out_wav):
     parts = [f"between(t,{ln['start'] - 0.3:.2f},{ln['end'] + 0.8:.2f})" for s in SECS for ln in s["lines"]]
     duck = 10 ** (-m["duck_db"] / 20)
     L = CFG["loudness"]
+    trans = D4 / "build" / "transitions.wav"           # section-break sound, mixed after the ducking so it is never pulled down
     fc = (f"[1:a]aresample=48000,volume='if({'+'.join(parts)},{duck:.4f},1)':eval=frame[bed];"
-          f"[0:a]aresample=48000,pan=stereo|c0=c0|c1=c0,apad[v];[v][bed]amix=inputs=2:duration=longest:normalize=0,"
+          f"[2:a]aresample=48000[tr];"
+          f"[0:a]aresample=48000,pan=stereo|c0=c0|c1=c0,apad[v];[v][bed][tr]amix=inputs=3:duration=longest:normalize=0,"
           f"atrim=0:{DUR},loudnorm=I={L['integrated_lufs']}:TP={L['true_peak_db']}:LRA=11,aresample=48000[a]")
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(vo), "-i", str(sound), "-filter_complex", fc,
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(vo), "-i", str(sound), "-i", str(trans), "-filter_complex", fc,
                     "-map", "[a]", "-ar", "48000", str(out_wav)], check=True)
 
 
