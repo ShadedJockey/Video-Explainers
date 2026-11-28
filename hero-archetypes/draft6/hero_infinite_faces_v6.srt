@@ -51,329 +51,349 @@ By faces, he meant people:
 each hero is another instance of the same idealised figure.
 
 14
-00:00:42,737 --> 00:00:46,297
-The Legend of Zelda shows this in miniature: in each new era,
+00:00:42,737 --> 00:00:45,342
+In 1998, Nintendo released Ocarina of Time,
 
 15
-00:00:46,297 --> 00:00:48,748
-a different Link takes up the hero's role.
+00:00:45,342 --> 00:00:48,189
+one of the highest-rated video games ever made,
 
 16
-00:00:49,108 --> 00:00:54,280
-In Ocarina of Time, for twenty-eight years the highest-rated video game ever made,
+00:00:48,189 --> 00:00:50,552
+in which Link becomes the Hero of Time.
 
 17
-00:00:54,280 --> 00:00:56,172
-he is called the Hero of Time.
+00:00:50,912 --> 00:00:53,710
+It is one game in The Legend of Zelda series,
 
 18
-00:00:56,532 --> 00:01:00,584
-Every hero story is a kind of map for facing new and unknown problems.
+00:00:53,710 --> 00:00:58,559
+which shows Campbell's idea in miniature: in each new era, a new Link appears,
 
 19
-00:01:00,944 --> 00:01:03,094
-Campbell drew a map of those maps:
+00:00:58,559 --> 00:01:01,419
+another incarnation of the same heroic spirit.
 
 20
-00:01:03,094 --> 00:01:04,992
-a journey of seventeen stages,
+00:01:01,779 --> 00:01:05,831
+Every hero story is a kind of map for facing new and unknown problems.
 
 21
-00:01:04,992 --> 00:01:06,573
-from departure to return.
+00:01:06,191 --> 00:01:08,341
+Campbell drew a map of those maps:
 
 22
-00:01:06,933 --> 00:01:08,330
-But he was mapping myths,
+00:01:08,341 --> 00:01:10,239
+a journey of seventeen stages,
 
 23
-00:01:08,330 --> 00:01:10,901
-which are often symbolic, and he added stages,
+00:01:10,239 --> 00:01:11,820
+from departure to return.
 
 24
-00:01:10,901 --> 00:01:16,657
-like meeting a goddess or atoning with a father, that many stories, and most real lives, never include.
+00:01:12,180 --> 00:01:13,577
+But he was mapping myths,
 
 25
-00:01:17,017 --> 00:01:24,764
-In Objective Knowledge, the philosopher Karl Popper described the pattern underneath far more simply: a problem, a tentative theory,
+00:01:13,577 --> 00:01:16,147
+which are often symbolic, and he added stages,
 
 26
-00:01:24,764 --> 00:01:27,405
-the elimination of errors, and a new problem.
+00:01:16,147 --> 00:01:21,903
+like meeting a goddess or atoning with a father, that many stories, and most real lives, never include.
 
 27
-00:01:27,765 --> 00:01:30,781
-It fits heroes in stories and real people alike,
+00:01:22,263 --> 00:01:30,010
+In Objective Knowledge, the philosopher Karl Popper described the pattern underneath far more simply: a problem, a tentative theory,
 
 28
-00:01:30,781 --> 00:01:32,854
-and it never ends where it began.
+00:01:30,010 --> 00:01:32,651
+the elimination of errors, and a new problem.
 
 29
-00:01:33,704 --> 00:01:38,976
-Take away the costumes, and heroes across cultures share a handful of attitudes.
+00:01:33,011 --> 00:01:36,027
+It fits heroes in stories and real people alike,
 
 30
-00:01:39,336 --> 00:01:41,986
-They notice problems that others have learned to live with.
+00:01:36,027 --> 00:01:38,100
+and it never ends where it began.
 
 31
-00:01:42,346 --> 00:01:45,447
-They act despite fear, and keep going after failure.
+00:01:38,950 --> 00:01:43,117
+We don't keep telling hero stories for the particular way a monster was defeated.
 
 32
-00:01:45,807 --> 00:01:49,299
-They create new ideas instead of only repeating what they were taught.
+00:01:43,477 --> 00:01:45,689
+We tell them for the values the hero holds,
 
 33
-00:01:49,659 --> 00:01:53,813
-They treat their own mistakes as information to correct, not as shame to hide.
+00:01:45,689 --> 00:01:48,416
+which can be carried into any domain and any problem.
 
 34
-00:01:54,173 --> 00:01:57,162
-They see evil as a problem too: something with causes,
+00:01:48,776 --> 00:01:54,340
+Take away the costumes, and heroes across cultures share a handful of these values and attitudes.
 
 35
-00:01:57,162 --> 00:01:59,155
-which can be understood and stopped.
+00:01:54,700 --> 00:01:57,350
+They notice problems that others have learned to live with.
 
 36
-00:01:59,515 --> 00:02:02,627
-And they act on behalf of others, even when it costs them.
+00:01:57,710 --> 00:02:00,811
+They act despite fear, and keep going after failure.
 
 37
-00:02:02,987 --> 00:02:06,477
-These are the attitudes that make open-ended problem-solving possible.
+00:02:01,171 --> 00:02:04,663
+They create new ideas instead of only repeating what they were taught.
 
 38
-00:02:06,837 --> 00:02:10,758
-But why would cultures that never met keep inventing the same figure?
+00:02:05,023 --> 00:02:09,176
+They treat their own mistakes as information to correct, not as shame to hide.
 
 39
-00:02:11,608 --> 00:02:13,953
-Biology is full of convergent evolution.
+00:02:09,536 --> 00:02:12,525
+They see evil as a problem too: something with causes,
 
 40
-00:02:14,313 --> 00:02:19,430
-Distantly related species that face the same problem often reach similar solutions.
+00:02:12,525 --> 00:02:14,518
+which can be understood and stopped.
 
 41
-00:02:19,790 --> 00:02:22,493
-Insects, birds and bats each evolved wings,
+00:02:14,878 --> 00:02:16,262
+And they act for others,
 
 42
-00:02:22,493 --> 00:02:25,950
-and octopuses and humans each evolved camera-like eyes.
+00:02:16,262 --> 00:02:21,683
+often because they see that a problem rarely stays contained: left alone, it engulfs everyone,
 
 43
-00:02:26,310 --> 00:02:29,400
-This kind of convergence extends to cultures too:
+00:02:21,683 --> 00:02:24,220
+and holds back progress and freedom for all.
 
 44
-00:02:29,400 --> 00:02:33,814
-writing was invented separately in Mesopotamia, China and Mesoamerica.
+00:02:24,580 --> 00:02:27,194
+Some problems spoil the wells we all drink from.
 
 45
-00:02:34,174 --> 00:02:37,383
-Hero stories are another example of cultural convergence.
+00:02:27,554 --> 00:02:31,044
+These are the attitudes that make open-ended problem-solving possible.
 
 46
-00:02:37,743 --> 00:02:41,903
-Every culture tells of someone who faces a problem that plagues their society,
+00:02:31,404 --> 00:02:35,325
+But why would cultures that never met keep inventing the same figure?
 
 47
-00:02:41,903 --> 00:02:43,769
-where others have tried and failed,
+00:02:36,175 --> 00:02:38,520
+Biology is full of convergent evolution.
 
 48
-00:02:43,769 --> 00:02:45,316
-or shrunk from the challenge.
+00:02:38,880 --> 00:02:43,997
+Distantly related species that face the same problem often reach similar solutions.
 
 49
-00:02:45,676 --> 00:02:50,992
-The hero succeeds because they have an ingredient the others lacked: courage, wit,
+00:02:44,357 --> 00:02:47,060
+Insects, birds and bats each evolved wings,
 
 50
-00:02:50,992 --> 00:02:52,613
-or a tenacious ingenuity.
+00:02:47,060 --> 00:02:50,517
+and octopuses and humans each evolved camera-like eyes.
 
 51
-00:02:53,463 --> 00:02:55,326
-That is convergence in stories,
+00:02:50,877 --> 00:02:53,967
+This kind of convergence extends to cultures too:
 
 52
-00:02:55,326 --> 00:02:58,330
-but there is a second convergence, in real people.
+00:02:53,967 --> 00:02:58,381
+writing was invented separately in Mesopotamia, China and Mesoamerica.
 
 53
-00:02:58,690 --> 00:03:00,124
-Across times and cultures,
+00:02:58,741 --> 00:03:01,949
+Hero stories are another example of cultural convergence.
 
 54
-00:03:00,124 --> 00:03:04,205
-real individuals separately arrive at the same capacity to solve problems,
+00:03:02,309 --> 00:03:06,469
+Every culture tells of someone who faces a problem that plagues their society,
 
 55
-00:03:04,205 --> 00:03:08,342
-even though most societies throughout history have reliably held them back.
+00:03:06,469 --> 00:03:08,336
+where others have tried and failed,
 
 56
-00:03:08,702 --> 00:03:11,764
-As Popper argued in Conjectures and Refutations,
+00:03:08,336 --> 00:03:09,883
+or shrunk from the challenge.
 
 57
-00:03:11,764 --> 00:03:14,890
-knowledge grows by finding and correcting errors.
+00:03:10,243 --> 00:03:14,211
+The hero succeeds because of something the others lacked: a moral value,
 
 58
-00:03:15,250 --> 00:03:17,433
-A hero does this reliably, in themselves,
+00:03:14,211 --> 00:03:15,644
+or a place in the problem,
 
 59
-00:03:17,433 --> 00:03:19,563
-and better than the culture around them,
+00:03:15,644 --> 00:03:17,187
+that suits them to solve it.
 
 60
-00:03:19,563 --> 00:03:22,918
-which makes them a revolutionary force at the level of culture.
+00:03:17,547 --> 00:03:22,094
+Stories often cast it as courage, wit, tenacity or ingenuity.
 
 61
-00:03:23,278 --> 00:03:27,866
-In Hayao Miyazaki's 1984 film Nausicaä of the Valley of the Wind,
+00:03:22,944 --> 00:03:24,806
+That is convergence in stories,
 
 62
-00:03:27,866 --> 00:03:30,690
-everyone fears a spreading toxic jungle.
+00:03:24,806 --> 00:03:27,810
+but there is a second convergence, in real people.
 
 63
-00:03:31,050 --> 00:03:33,563
-Nausicaä refuses the dogma, studies it,
+00:03:28,170 --> 00:03:29,604
+Across times and cultures,
 
 64
-00:03:33,563 --> 00:03:36,655
-and finds that it is cleaning the poisoned soil.
+00:03:29,604 --> 00:03:33,685
+real individuals separately arrive at the same capacity to solve problems,
 
 65
-00:03:37,015 --> 00:03:38,709
-Her judgement isn't perfect,
+00:03:33,685 --> 00:03:37,822
+even though most societies throughout history have reliably held them back.
 
 66
-00:03:38,709 --> 00:03:42,340
-but it is reliable enough to face problems no one predicted,
+00:03:38,182 --> 00:03:41,244
+As Popper argued in Conjectures and Refutations,
 
 67
-00:03:42,340 --> 00:03:44,518
-in familiar places and unknown ones.
+00:03:41,244 --> 00:03:44,370
+knowledge grows by finding and correcting errors.
 
 68
-00:03:45,368 --> 00:03:46,901
-In The Beginning of Infinity,
+00:03:44,730 --> 00:03:46,913
+A hero does this reliably, in themselves,
 
 69
-00:03:46,901 --> 00:03:50,126
-the physicist David Deutsch argues that problems are soluble,
+00:03:46,913 --> 00:03:49,043
+and better than the culture around them,
 
 70
-00:03:50,126 --> 00:03:51,501
-given the right knowledge.
+00:03:49,043 --> 00:03:52,398
+which makes them a revolutionary force at the level of culture.
 
 71
-00:03:51,861 --> 00:03:54,443
-He goes further: every evil, he argues,
+00:03:52,758 --> 00:03:57,346
+In Hayao Miyazaki's 1984 film Nausicaä of the Valley of the Wind,
 
 72
-00:03:54,443 --> 00:03:56,496
-comes from a lack of knowledge.
+00:03:57,346 --> 00:04:00,170
+everyone fears a spreading toxic jungle.
 
 73
-00:03:56,856 --> 00:04:00,059
-So a hero treats all problems alike: a monster,
+00:04:00,530 --> 00:04:03,043
+Nausicaä refuses the dogma, studies it,
 
 74
-00:04:00,059 --> 00:04:03,603
-a famine and a disease are all things to understand.
+00:04:03,043 --> 00:04:06,136
+and finds that it is cleaning the poisoned soil.
 
 75
-00:04:03,963 --> 00:04:05,460
-That is the hero's reach,
+00:04:06,986 --> 00:04:08,519
+In The Beginning of Infinity,
 
 76
-00:04:05,460 --> 00:04:10,190
-and why a single error-correcting mind can overturn an entire culture's limits.
+00:04:08,519 --> 00:04:11,744
+the physicist David Deutsch argues that problems are soluble,
 
 77
-00:04:11,040 --> 00:04:13,574
-Because stories are maps of these people,
+00:04:11,744 --> 00:04:13,119
+given the right knowledge.
 
 78
-00:04:13,574 --> 00:04:16,726
-the hero is often rediscovered, and often improved.
+00:04:13,479 --> 00:04:16,061
+He goes further: every evil, he argues,
 
 79
-00:04:17,086 --> 00:04:18,882
-Stories describe their heroes,
+00:04:16,061 --> 00:04:18,114
+comes from a lack of knowledge.
 
 80
-00:04:18,882 --> 00:04:21,157
-try to explain what made them succeed,
+00:04:18,474 --> 00:04:21,677
+So a hero treats all problems alike: a monster,
 
 81
-00:04:21,157 --> 00:04:23,073
-and criticise where they failed.
+00:04:21,677 --> 00:04:25,221
+a famine and a disease are all things to understand.
 
 82
-00:04:23,433 --> 00:04:25,175
-Gilgamesh was a great warrior,
+00:04:25,581 --> 00:04:27,078
+That is the hero's reach,
 
 83
-00:04:25,175 --> 00:04:28,194
-but his epic opens with him oppressing his own city.
+00:04:27,078 --> 00:04:31,808
+and why a single error-correcting mind can overturn an entire culture's limits.
 
 84
-00:04:28,554 --> 00:04:33,084
-Homer's Iliad names its subject in its first line: the rage of Achilles,
+00:04:32,658 --> 00:04:35,192
+Because stories are maps of these people,
 
 85
-00:04:33,084 --> 00:04:34,846
-and the suffering it caused.
+00:04:35,192 --> 00:04:38,344
+the hero is often rediscovered, and often improved.
 
 86
-00:04:35,206 --> 00:04:37,367
-Achilles is the greatest fighter at Troy,
+00:04:38,704 --> 00:04:40,500
+Stories describe their heroes,
 
 87
-00:04:37,367 --> 00:04:40,423
-yet his pride keeps him from battle while his friends die.
+00:04:40,500 --> 00:04:42,775
+try to explain what made them succeed,
 
 88
-00:04:40,783 --> 00:04:46,671
-Many past heroes were heroic in one domain and bound by their culture's blind spots in others.
+00:04:42,775 --> 00:04:44,691
+and criticise where they failed.
 
 89
-00:04:47,031 --> 00:04:50,469
-Later stories keep what worked and correct what did not,
+00:04:45,051 --> 00:04:46,793
+Gilgamesh was a great warrior,
 
 90
-00:04:50,469 --> 00:04:52,924
-so storytelling is error correction too.
+00:04:46,793 --> 00:04:49,812
+but his epic opens with him oppressing his own city.
 
 91
-00:04:53,774 --> 00:04:55,633
-Campbell counted a thousand faces.
+00:04:50,172 --> 00:04:53,404
+In Homer's Iliad, Achilles is the greatest fighter at Troy,
 
 92
-00:04:55,993 --> 00:04:59,082
-For most of history, this kind of person was rare,
+00:04:53,404 --> 00:04:56,581
+yet his pride keeps him from battle while his friends die.
 
 93
-00:04:59,082 --> 00:05:02,850
-reliably held back by static cultures that feared disruption.
+00:04:56,941 --> 00:05:02,829
+Many past heroes were heroic in one domain and bound by their culture's blind spots in others.
 
 94
-00:05:03,210 --> 00:05:08,679
-But if a hero is anyone who corrects their own errors and treats every problem as soluble,
+00:05:03,189 --> 00:05:06,204
+Later stories keep what worked and correct what did not.
 
 95
-00:05:08,679 --> 00:05:10,138
+00:05:06,564 --> 00:05:10,149
+Telling better stories about heroes is a form of error correction too.
+
+96
+00:05:10,999 --> 00:05:12,859
+Campbell counted a thousand faces.
+
+97
+00:05:13,219 --> 00:05:16,308
+For most of history, this kind of person was rare,
+
+98
+00:05:16,308 --> 00:05:20,076
+reliably held back by static cultures that feared disruption.
+
+99
+00:05:20,436 --> 00:05:25,905
+But if a hero is anyone who corrects their own errors and treats every problem as soluble,
+
+100
+00:05:25,905 --> 00:05:27,363
 that force has no limit.
