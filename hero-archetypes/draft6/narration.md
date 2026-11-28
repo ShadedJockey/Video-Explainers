@@ -13,8 +13,8 @@ Your edited script with the themes from `THEMES_SYNTHESIS.md` worked in. One sen
 > The Swiss psychiatrist Carl Jung called the hero an **archetype**: a pattern that keeps reappearing.
 > In 1949, the American mythologist Joseph Campbell published *The Hero with a Thousand Faces*.
 > By faces, he meant people: each hero is another instance of the same idealised figure.
-> *The Legend of Zelda* shows this in miniature: in each new era, a different Link takes up the hero's role.
-> In *Ocarina of Time*, for twenty-eight years the highest-rated video game ever made, he is called the Hero of Time.
+> In 1998, Nintendo released *Ocarina of Time*, one of the highest-rated video games ever made, in which Link becomes the Hero of Time.
+> It is one game in *The Legend of Zelda* series, which shows Campbell's idea in miniature: in each new era, a new Link appears, another incarnation of the same heroic spirit.
 > Every hero story is a kind of map for facing new and unknown problems.
 > Campbell drew a map of those maps: a journey of seventeen stages, from departure to return.
 > But he was mapping myths, which are often symbolic, and he added stages, like meeting a goddess or atoning with a father, that many stories, and most real lives, never include.
@@ -24,13 +24,16 @@ Your edited script with the themes from `THEMES_SYNTHESIS.md` worked in. One sen
 ## 2. What heroes share
 [tag: Qualities]
 
-> Take away the costumes, and heroes across cultures share a handful of attitudes.
+> We don't keep telling hero stories for the particular way a monster was defeated.
+> We tell them for the values the hero holds, which can be carried into any domain and any problem.
+> Take away the costumes, and heroes across cultures share a handful of these values and attitudes.
 > They notice problems that others have learned to live with.
 > They act despite fear, and keep going after failure.
 > They create new ideas instead of only repeating what they were taught.
 > They treat their own mistakes as information to correct, not as shame to hide.
 > They see evil as a problem too: something with causes, which can be understood and stopped.
-> And they act on behalf of others, even when it costs them.
+> And they act for others, often because they see that a problem rarely stays contained: left alone, it engulfs everyone, and holds back progress and freedom for all.
+> Some problems spoil the wells we all drink from.
 > These are the attitudes that make open-ended problem-solving possible.
 > But why would cultures that never met keep inventing the same figure?
 
@@ -43,7 +46,8 @@ Your edited script with the themes from `THEMES_SYNTHESIS.md` worked in. One sen
 > This kind of convergence extends to cultures too: writing was invented separately in Mesopotamia, China and Mesoamerica.
 > Hero **stories** are another example of cultural convergence.
 > Every culture tells of someone who faces a problem that plagues their society, where others have tried and failed, or shrunk from the challenge.
-> The hero succeeds because they have an ingredient the others lacked: courage, wit, or a tenacious ingenuity.
+> The hero succeeds because of something the others lacked: a moral value, or a place in the problem, that suits them to solve it.
+> Stories often cast it as courage, wit, tenacity or ingenuity.
 
 ## 4. Correcting errors
 [tag: Knowledge]
@@ -54,7 +58,6 @@ Your edited script with the themes from `THEMES_SYNTHESIS.md` worked in. One sen
 > A hero does this reliably, in themselves, and better than the culture around them, which makes them a **revolutionary force** at the level of culture.
 > In Hayao Miyazaki's 1984 film *Nausicaä of the Valley of the Wind*, everyone fears a spreading toxic jungle.
 > Nausicaä refuses the dogma, studies it, and finds that it is cleaning the poisoned soil.
-> Her judgement isn't perfect, but it is reliable enough to face problems no one predicted, in familiar places and unknown ones.
 
 ## 5. Reach
 [tag: Reach]
@@ -70,10 +73,10 @@ Your edited script with the themes from `THEMES_SYNTHESIS.md` worked in. One sen
 > Because stories are maps of these people, the hero is often rediscovered, and often improved.
 > Stories describe their heroes, try to explain what made them succeed, and criticise where they failed.
 > Gilgamesh was a great warrior, but his epic opens with him oppressing his own city.
-> Homer's *Iliad* names its subject in its first line: the rage of Achilles, and the suffering it caused.
-> Achilles is the greatest fighter at Troy, yet his pride keeps him from battle while his friends die.
+> In Homer's *Iliad*, Achilles is the greatest fighter at Troy, yet his pride keeps him from battle while his friends die.
 > Many past heroes were heroic in one domain and bound by their culture's blind spots in others.
-> Later stories keep what worked and correct what did not, so storytelling is error correction too.
+> Later stories keep what worked and correct what did not.
+> Telling better stories about heroes is a form of error correction too.
 
 ## 7. Infinite faces
 [tag: Infinite Faces]
@@ -85,6 +88,9 @@ Your edited script with the themes from `THEMES_SYNTHESIS.md` worked in. One sen
 ---
 
 ## Notes on this draft (not narrated)
+
+**Round 2 edits (from your notes, 28 Nov):** *Ocarina of Time* introduced first (1998, one of the highest-rated games ever; Link becomes the Hero of Time), then the series and Link as a new incarnation of the same heroic spirit; the twenty-eight-years phrase removed. Section 2 now opens with why we retell hero stories (values that carry across domains, not specific solutions). "Act for others" now explains why: problems rarely stay contained, and some spoil the wells we all drink from. The hero's ingredient is a moral value or a place in the problem that suits them; stories cast it as courage, wit, tenacity or ingenuity. Removed: Nausicaä's "judgement isn't perfect" line and the *Iliad* first-line sentence. Section 6 ends: "Telling better stories about heroes is a form of error correction too."
+
 
 **What changed from your edit**
 - **Ocarina of Time:** your note asked to say it is the highest-rated game of all time. That was true for 28 years (the only game with a 99 on Metacritic), but *Grand Theft Auto VI* tied it at 99 on 19 November 2026, and Metacritic's undisclosed weighting reportedly ranks GTA VI first. The line now says "for twenty-eight years the highest-rated video game ever made", which stays true. Alternatives: "still tied for the highest score any game has received", or "the first game ever to score 99 on Metacritic".
@@ -102,7 +108,7 @@ Your edited script with the themes from `THEMES_SYNTHESIS.md` worked in. One sen
 | Idea in the script | Source |
 |---|---|
 | *Epic of Gilgamesh*, the oldest hero story; opens with Gilgamesh oppressing Uruk | *The Epic of Gilgamesh*, trans. Andrew George (Penguin Classics, 1999) |
-| Achilles; the *Iliad*'s first line names his rage | Homer, *The Iliad*, trans. Robert Fagles (Penguin, 1990), Book 1, line 1 |
+| Achilles: greatest fighter at Troy; his pride keeps him from battle | Homer, *The Iliad*, trans. Robert Fagles (Penguin, 1990), Books 1, 9, 16 |
 | Medieval chivalric romances | Chrétien de Troyes, *Arthurian Romances* (12th century); Thomas Malory, *Le Morte d'Arthur* (1485) |
 | The hero as an archetype | C. G. Jung, *Psychology of the Unconscious* (1912; rev. as *Symbols of Transformation*, 1952); *The Archetypes and the Collective Unconscious* (Collected Works 9i, 1959) |
 | "Faces" as different people; the 17-stage monomyth | Joseph Campbell, *The Hero with a Thousand Faces* (1949) |
@@ -117,5 +123,5 @@ Your edited script with the themes from `THEMES_SYNTHESIS.md` worked in. One sen
 | Convergent evolution: wings, camera eyes | Simon Conway Morris, *Life's Solution* (2003); George McGhee, *Convergent Evolution: Limited Forms Most Beautiful* (2011); Jonathan Losos, *Improbable Destinies* (2017) |
 | Writing invented separately in Mesopotamia, China and Mesoamerica | Andrew Robinson, *The Story of Writing* (1995); Stephen Houston (ed.), *The First Writing* (2004) |
 | Nausicaä studies the toxic jungle and finds it cleaning the soil | Hayao Miyazaki, *Nausicaä of the Valley of the Wind* (film, 1984; manga 1982–1994) |
-| *Ocarina of Time*: the only game with a 99 on Metacritic for 28 years | Guinness World Records, "Most critically acclaimed videogame (Metacritic)"; tied by *Grand Theft Auto VI*, 19 November 2026 |
+| *Ocarina of Time* (1998): one of the highest-rated games ever (Metacritic 99, tied with *GTA VI* since Nov 2026) | Guinness World Records, "Most critically acclaimed videogame (Metacritic)"; tied by *Grand Theft Auto VI*, 19 November 2026 |
 | Link as different heroes across eras; "Hero of Time" | *The Legend of Zelda: Ocarina of Time* (Nintendo, 1998); *The Legend of Zelda: Hyrule Historia* (Dark Horse, 2013) |
